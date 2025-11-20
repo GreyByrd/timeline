@@ -1,0 +1,26 @@
+import "./style.css";
+
+const Event7 = () => {
+  return (
+    <div className="event-container panel-2">
+      <div className="event-1-content">
+        <h1 className="date">March 15</h1>
+        <h1 className="year">1976</h1>
+        <h2>President Stark pins letter</h2>
+        <p>
+          Marking the College’s 30th anniversary, the first women are welcomes
+          on campus.
+        </p>
+      </div>
+      <div className="event-1-content">
+        <img
+          className="event-1-image"
+          src="src/assets/1970s_Collage_JackS.jpg"
+          alt="Jack Stark."
+        />
+      </div>
+    </div>
+  );
+};
+
+export default Event7;

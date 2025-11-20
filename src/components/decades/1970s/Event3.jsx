@@ -2,18 +2,20 @@ import "./style.css";
 
 const Event3 = () => {
   return (
-    <div className="event-container">
+    <div className="event-container panel-1">
       <div className="event-1-content">
-        <h1>1970s</h1>
-        <h2>The age of change</h2>
+        <h1 className="date white">February 27</h1>
+        <h1 className="year yellow">1971</h1>
+        <h2>Jil Stark becomes First Lady</h2>
         <p>
-          Time was changing. The world was becoming more connected than ever,
-          bridging geographic gaps in efficient time with the rise in airline
-          travel. Likewise, the United States established the 28th Amendment,
-          xxx. With the landmark decision in Roe v. Wade, equality became the
-          new baseline.
+          Pretium nulla nisl at quis vel sed sit ut. Ornare eu eros consequat
+          proin amet. Feugiat ut sem id vitae sagittis.
         </p>
-        <img className="event-1-image" src="src/assets/1970s_1.gif" alt="" />
+        <img
+          className="event-1-image"
+          src="src/assets/1970s_Collage_JS.jpg"
+          alt="Collage of Jil Stark on wedding day and by herself."
+        />
       </div>
     </div>
   );

@@ -1,6 +1,6 @@
 import "./style.css";
 
-const Event4 = () => {
+const Event9 = () => {
   return (
     <div className="event-container panel-2">
       <div className="event-1-content">
@@ -12,21 +12,16 @@ const Event4 = () => {
           undertake a study of the single-sex nature of the College. Soon,
           serious discussions begin concerning next steps.
         </p>
+      </div>
+      <div className="event-1-content">
         <img
           className="event-1-image"
           src="src/assets/1970s_Collage_JackS.jpg"
           alt="Jack Stark."
         />
       </div>
-      <div className="event-content-wide">
-        <h1 className="date">November 17</h1>
-        <h1 className="year">1972</h1>
-        <p>
-          Los Angeles Times article outlines potential shift to coeducation.
-        </p>
-      </div>
     </div>
   );
 };
 
-export default Event4;
+export default Event9;
