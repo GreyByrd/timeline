@@ -16,7 +16,7 @@ const Event9 = () => {
       <div className="event-1-content">
         <img
           className="event-1-image"
-          src="src/assets/1970s_Collage_JackS.jpg"
+          src="src/assets/Timeline-placeholder-02.png"
           alt="Jack Stark."
         />
       </div>
