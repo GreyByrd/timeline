@@ -5,6 +5,7 @@ import Event3 from "./1970s/Event3";
 import Event4 from "./1970s/Event4";
 import Event5 from "./1970s/Event5";
 import Event6 from "./1970s/Event6";
+import Event7 from "./1970s/Event7";
 import Event10 from "./1970s/Event10";
 
 const Decade1970s = () => {
