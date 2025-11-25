@@ -140,3 +140,8 @@ a:hover {
 .panel-yellow {
   background: #dbbc78;
 }
+
+.quote {
+  border-left: 4px solid;
+  padding-left: 25px;
+}

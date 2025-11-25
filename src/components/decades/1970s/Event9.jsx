@@ -12,8 +12,12 @@ const Event9 = () => {
         <a href="#">
           <p>The first women students graduate</p>
         </a>
-        <p>CMS Cross Country becomes first women’s sport SCIAC </p>
-        <p>Mary Tracey ’81 is first female All-American for CMC</p>
+        <a href="#">
+          <p>CMS Cross Country becomes first women’s sport SCIAC </p>
+        </a>
+        <a href="#">
+          <p>Mary Tracey ’81 is first female All-American for CMC</p>
+        </a>
       </div>
       <div className="event-1-content">
         <img
