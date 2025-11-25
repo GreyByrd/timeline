@@ -12,8 +12,8 @@ const Event8 = () => {
           to life on campus, especially Jil.
         </p>
         <p className="quote">
-          Jil, particularly, was very active in her support. She wanted to make
-          sure that no one felt like they were in the corner.”
+          Jil, particularly, was very activfaae in her support. She wanted to
+          make sure that no one felt like they were in the corner.”
           <br />
           —Meridith (Ulmann) Brenalvirez ’80.
         </p>

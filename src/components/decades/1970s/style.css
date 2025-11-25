@@ -131,6 +131,10 @@ a:hover {
   background: white;
 }
 
-panel-gray {
+.panel-gray {
   background: #e3e3e3;
+}
+
+.panel-yellow {
+  background: #dbbc78;
 }

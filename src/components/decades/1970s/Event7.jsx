@@ -6,7 +6,7 @@ const Event7 = () => {
       <div className="event-1-content">
         <h1 className="date">March 15</h1>
         <h1 className="year">1976</h1>
-        <h2>President Stark pins letter</h2>
+        <h2>First women on campus</h2>
         <p>
           Marking the College’s 30th anniversary, the first women are welcomes
           on campus.
