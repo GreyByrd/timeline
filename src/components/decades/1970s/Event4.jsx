@@ -21,7 +21,7 @@ const Event4 = () => {
       <div className="event-content-wide">
         <h1 className="date">November 17</h1>
         <h1 className="year">1972</h1>
-        <p>
+        <p className="blurb">
           Los Angeles Times article outlines potential shift to coeducation.
         </p>
       </div>

@@ -6,12 +6,14 @@ const Event9 = () => {
       <div className="event-1-content">
         <h1 className="date">July 9</h1>
         <h1 className="year">1972</h1>
-        <h2>President Stark pins letter</h2>
-        <p>
-          Jack Start urges the Claremont Men’s College’s Board of Trustees to
-          undertake a study of the single-sex nature of the College. Soon,
-          serious discussions begin concerning next steps.
-        </p>
+        <h2>
+          The <em>Pioneers</em> excel on campus
+        </h2>
+        <a href="#">
+          <p>The first women students graduate</p>
+        </a>
+        <p>CMS Cross Country becomes first women’s sport SCIAC </p>
+        <p>Mary Tracey ’81 is first female All-American for CMC</p>
       </div>
       <div className="event-1-content">
         <img
