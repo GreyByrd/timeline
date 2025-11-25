@@ -5,7 +5,7 @@ const Event3 = () => {
     <div className="event-container panel-purple">
       <div className="event-1-content">
         <h1 className="date white">February 27</h1>
-        <h1 className="year yellow">1971</h1>
+        <h1 className="year yellow-txt">1971</h1>
         <h2>Jil Stark becomes First Lady</h2>
         <p>
           Pretium nulla nisl at quis vel sed sit ut. Ornare eu eros consequat

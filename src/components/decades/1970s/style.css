@@ -57,9 +57,9 @@
 
 .event-1-intro {
   background-image: url("/src/assets/1970s_1.gif");
-  background-repeat: no-repeat;
+  background-repeat: repeat-x;
   object-fit: cover;
-  background-position: top;
+  background-position: right;
 }
 
 .event-1-content p {
@@ -71,7 +71,7 @@
   max-width: 100%;
   height: auto;
   border-radius: 0.5rem;
-  margin-top: 3rem;
+  margin-top: 2rem;
   object-fit: contain;
   bottom: 0;
   align-content: center;

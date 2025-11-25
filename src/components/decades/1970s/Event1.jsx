@@ -9,9 +9,9 @@ const Event1 = () => {
         <p>
           Time was changing. The world was becoming more connected than ever,
           bridging geographic gaps in efficient time with the rise in airline
-          travel. Likewise, the United States established the 28th Amendment,
-          xxx. With the landmark decision in Roe v. Wade, equality became the
-          new baseline.
+          travel. Likewise, the United States established the 28th Amendment.
+          With the landmark decision in Roe v. Wade, equality became the new
+          baseline.
         </p>
         <img className="event-1-image" src="src/assets/1970s_1.gif" alt="" />
       </div>
