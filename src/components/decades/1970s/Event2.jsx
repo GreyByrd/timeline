@@ -2,7 +2,7 @@ import "./style.css";
 
 const Event2 = () => {
   return (
-    <div className="event-container event-narrative">
+    <div className="event-container event-narrative panel-white">
       <div className="event-narrative-content">
         <p className="lead-text">
           Claremont Men’s College’s found itself at a crossroads to

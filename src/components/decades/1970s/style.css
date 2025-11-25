@@ -2,8 +2,7 @@
   height: 100%;
   flex: 0 0 100%;
   background-color: #f5f5f5;
-  border: 1px solid lightblue;
-  border-radius: 0.5rem;
+  border: 1px solid #ffffff;
   display: flex;
   justify-content: center;
   align-items: center;

@@ -15,7 +15,7 @@ const Event7 = () => {
       <div className="event-1-content">
         <img
           className="event-1-image"
-          src="src/assets/1970s_Collage_JackS.jpg"
+          src="src/assets/1970s_Kathleen-campus.gif"
           alt="Jack Stark."
         />
       </div>

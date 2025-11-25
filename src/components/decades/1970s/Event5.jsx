@@ -8,7 +8,7 @@ const Event5 = () => {
         <p>
           <em>Edessa Rose becomes first woman trustee.</em>
         </p>
-        <img src="/src/assets/1970s_Collage_JS.jpg"></img>
+        <img src="/src/assets/1970s_Edessa-Rose.png"></img>
       </div>
     </div>
   );
