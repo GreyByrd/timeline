@@ -9,21 +9,23 @@ const Event9 = () => {
         <h2>
           The <em>Pioneers</em> excel on campus
         </h2>
-        <a href="#">
-          <p>The first women students graduate</p>
-        </a>
-        <a href="#">
-          <p>CMS Cross Country becomes first women’s sport SCIAC </p>
-        </a>
-        <a href="#">
-          <p>Mary Tracey ’81 is first female All-American for CMC</p>
-        </a>
+        <p className="link-list">
+          <a href="#">
+            The first women students graduate
+            <br />
+          </a>
+          <a href="#">
+            CMS Cross Country becomes first women’s sport SCIAC
+            <br />
+          </a>
+          <a href="#">Mary Tracey ’81 is first female All-American for CMC</a>
+        </p>
       </div>
       <div className="event-1-content">
         <img
-          className="event-1-image"
-          src="src/assets/Timeline-placeholder-02.png"
-          alt="Jack Stark."
+          className="event-image-sm"
+          src="src/assets/1970s_pioneers.png"
+          alt="dfds."
         />
       </div>
     </div>

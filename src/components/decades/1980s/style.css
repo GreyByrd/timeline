@@ -9,3 +9,34 @@
   align-items: center;
   color: purple;
 }
+
+.intro-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: left;
+  padding: 0 3%;
+}
+
+.intro-text {
+  position: absolute;
+  align-items: center;
+  text-align: left;
+  z-index: 3;
+  max-width: 1000px;
+}
+
+.intro-text p {
+  width: 60%;
+}
+
+.intro-image {
+  width: 85%;
+  max-width: 100%;
+  height: auto;
+  margin-top: 2rem;
+  margin-left: 10rem;
+  object-fit: contain;
+  align-content: center;
+  z-index: 0;
+}

@@ -2,20 +2,12 @@ import "./style.css";
 
 const Event10 = () => {
   return (
-    <div className="event-container panel-purple">
-      <div className="event-1-content">
-        <h1 className="date white">February 27</h1>
-        <h1 className="year yellow">1971</h1>
-        <h2>Jil Stark becomes First Lady</h2>
-        <p>
+    <div className="event-container event-narrative panel-purple">
+      <div className="event-narrative-content">
+        <p className="lead-text">
           Pretium nulla nisl at quis vel sed sit ut. Ornare eu eros consequat
           proin amet. Feugiat ut sem id vitae sagittis.
         </p>
-        <img
-          className="event-1-image"
-          src="src/assets/1970s_Edessa-Rose.png"
-          alt="Collage of the Mary Tracy (top) and the first graduating class."
-        />
       </div>
     </div>
   );

@@ -8,7 +8,7 @@
   justify-content: center;
   align-content: space-around;
   color: #231f20;
-  padding: 8% 0 0;
+  padding: 6% 0 0;
 }
 
 .intro-content {
@@ -73,6 +73,11 @@
 
 .event-4-content p {
   width: 80%;
+}
+
+.event-image-sm {
+  width: 80%;
+  margin-top: -10%;
 }
 
 .event-content-wide {
@@ -166,6 +171,10 @@ p.lead-text {
 
 p.blurb {
   width: 60%;
+}
+
+p.link-list {
+  margin: 2rem 0;
 }
 
 a {
