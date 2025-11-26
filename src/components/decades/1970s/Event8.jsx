@@ -15,7 +15,8 @@ const Event8 = () => {
           Jil, particularly, was very activfaae in her support. She wanted to
           make sure that no one felt like they were in the corner.”
           <br />
-          —Meridith (Ulmann) Brenalvirez ’80.
+          <br />
+          <strong>—Meridith (Ulmann) Brenalvirez ’80</strong>
         </p>
       </div>
     </div>

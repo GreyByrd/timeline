@@ -3,9 +3,9 @@
   flex: 0 0 100%;
   background-color: #f5f5f5;
   border: 1px solid #f5f5f5;
+  align-items: center;
   display: flex;
   justify-content: center;
-  align-items: center;
   color: #231f20;
 }
 
@@ -26,7 +26,7 @@
   justify-content: center;
   align-items: center;
   color: #231f20;
-  padding: 0 3%;
+  padding: 0 5%;
 }
 
 .event-4-content {
@@ -139,6 +139,7 @@ p.blurb {
 
 a {
   font-weight: bold;
+  color: purple;
 }
 
 a:hover {
@@ -165,4 +166,5 @@ a:hover {
 .quote {
   border-left: 4px solid;
   padding-left: 25px;
+  margin-left: 20px;
 }
