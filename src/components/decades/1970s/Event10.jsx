@@ -13,7 +13,7 @@ const Event10 = () => {
         </p>
         <img
           className="event-1-image"
-          src="src/assets/1970s_Collage_JS.jpg"
+          src="src/assets/1970s_Pioneers.png"
           alt="Collage of Jil Stark on wedding day and by herself."
         />
       </div>

@@ -2,7 +2,7 @@ import "./style.css";
 
 const Event7 = () => {
   return (
-    <div className="event-container panel-2">
+    <div className="event-container panel-gray">
       <div className="event-1-content">
         <h1 className="date">March 15</h1>
         <h1 className="year">1976</h1>
