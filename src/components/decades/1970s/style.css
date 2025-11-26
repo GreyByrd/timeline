@@ -9,10 +9,26 @@
   color: #231f20;
 }
 
+.intro-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: left;
+  padding: 0 3%;
+}
+
+.intro-text {
+  position: absolute;
+  align-items: center;
+  text-align: left;
+  padding: 8% 10%;
+  z-index: 3;
+}
+
 .event-1-content {
   display: flex;
   flex-direction: column;
-  align-items: left;
+  align-items: center;
   text-align: left;
   max-width: 800px;
   padding: 0 3%;
@@ -62,7 +78,19 @@
   background-position: right;
 }
 
-.event-1-content p {
+.intro-image {
+  width: 85%;
+  max-width: 100%;
+  height: auto;
+  border-radius: 0.5rem;
+  margin-top: 2rem;
+  object-fit: contain;
+  bottom: 0;
+  align-content: center;
+  z-index: 0;
+}
+
+.intro-content p {
   width: 70%;
 }
 
@@ -167,4 +195,30 @@ a:hover {
   border-left: 4px solid;
   padding-left: 25px;
   margin-left: 20px;
+}
+
+@media only screen and (max-width: 767px) {
+  .intro-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: left;
+    padding: 0 3%;
+  }
+  .intro-content p {
+    width: 100%;
+  }
+
+  .intro-text {
+    position: relative;
+    align-items: center;
+    text-align: left;
+    padding: 4%;
+    z-index: 3;
+  }
+  .intro-image {
+    width: 100%;
+    height: auto;
+    align-content: center;
+  }
 }

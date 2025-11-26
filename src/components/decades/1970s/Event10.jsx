@@ -13,8 +13,8 @@ const Event10 = () => {
         </p>
         <img
           className="event-1-image"
-          src="src/assets/1970s_Pioneers.png"
-          alt="Collage of Jil Stark on wedding day and by herself."
+          src="src/assets/1970s_Edessa-Rose.png"
+          alt="Collage of the Mary Tracy (top) and the first graduating class."
         />
       </div>
     </div>
