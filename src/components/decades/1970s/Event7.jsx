@@ -3,7 +3,7 @@ import "./style.css";
 const Event7 = () => {
   return (
     <div className="event-container panel-gray">
-      <div className="event-1-content">
+      <div className="event-7-content">
         <h1 className="date">March 15</h1>
         <h1 className="year">1976</h1>
         <h2>First women on campus</h2>
@@ -12,13 +12,12 @@ const Event7 = () => {
           on campus.
         </p>
       </div>
-      <div className="event-1-content">
+      <div className="event-7-img">
         <img
-          className="event-1-image"
           src="src/assets/1970s_Kathleen-campus.gif"
           alt="Collage of images related to Kathleen Evans early time on campus."
         />
-        <p>
+        <p className="caption">
           Kathleen Evans the first to enroll. She would go on excel as a XYZ
           dual degree and all-SCIAC athlete.
         </p>

@@ -71,6 +71,27 @@
   padding: 0 1%;
 }
 
+.event-7-content {
+  display: flex;
+  flex-direction: column;
+  text-align: left;
+  max-width: 400px;
+  flex: 1 1 0;
+}
+
+.event-7-img {
+  flex: 2 1 0;
+  margin-top: -30px;
+  max-width: 600px;
+}
+
+.caption {
+  font-size: 0.9em;
+  font-style: italic;
+  width: 40%;
+  margin-top: -18%;
+}
+
 .event-4-content p {
   width: 80%;
 }
