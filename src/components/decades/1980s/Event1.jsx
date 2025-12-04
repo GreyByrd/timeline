@@ -8,11 +8,12 @@ const Event1 = () => {
           <h1>1980s</h1>
           <h2>The age of change</h2>
           <p>
-            Time was changing. The world was becoming more connected than ever,
-            bridging geographic gaps in efficient time with the rise in airline
-            travel. Likewise, the United States established the 28th Amendment.
-            With the landmark decision in Roe v. Wade, equality became the new
-            baseline.
+            Sagittis diam massa vestibulum scelerisque felis bibendum ante. Sed
+            scelerisque dui quisque odio purus feugiat. Turpis viverra neque
+            turpis congue eu aliquet vulputate quis sagittis. Placerat commodo
+            commodo sed sed dignissim mattis ullamcorper. Aliquet platea euismod
+            et hac. Fermentum sollicitudin morbi tristique parturient orci ac
+            elementum.
           </p>
         </div>
       </div>
