@@ -4,16 +4,17 @@ import Event2 from "./1980s/Event2";
 import Event3 from "./1980s/Event3";
 import Event4 from "./1980s/Event4";
 import Event5 from "./1980s/Event5";
+import Event6 from "./1980s/Event6";
 
 const Decade1980s = () => {
   return (
     <ScrollyElement horizontal>
       <Event1 id={1} />
-      <Event1 id={2} />
-      <Event1 id={3} />
-      <Event1 id={4} />
-      <Event1 id={5} />
-      <Event1 id={6} />
+      <Event2 id={2} />
+      <Event3 id={3} />
+      <Event4 id={4} />
+      <Event5 id={5} />
+      <Event6 id={6} />
     </ScrollyElement>
   );
 };
