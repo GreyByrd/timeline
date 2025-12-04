@@ -2,17 +2,23 @@ import "./style.css";
 
 const Event4 = () => {
   return (
-    <div className="event">
-      <h1>1970s</h1>
-      <h2>The age of change</h2>
-      <p>
-        Time was changing. The world was becoming more connected than ever,
-        bridging geographic gaps in efficient time with the rise in airline
-        travel. Likewise, the United States established the 28th Amendment, xxx.
-        With the landmark decision in Roe v. Wade, equality became the new
-        baseline.
-      </p>
-      <img src="src/assets/1970s_1.gif" alt="" />
+    <div className="event-container event-narrative panel-yellow">
+      <div className="event-narrative-content">
+        <h1 className="date">September 18</h1>
+        <h1 className="year">1976</h1>
+        <h2>First Co-ed Orientation</h2>
+        <p>
+          The Starks’ warmth and welcoming attitude helped the Pioneers adjust
+          to life on campus, especially Jil.
+        </p>
+        <p className="quote">
+          Jil, particularly, was very activfaae in her support. She wanted to
+          make sure that no one felt like they were in the corner.”
+          <br />
+          <br />
+          <strong>—Meridith (Ulmann) Brenalvirez ’80</strong>
+        </p>
+      </div>
     </div>
   );
 };
