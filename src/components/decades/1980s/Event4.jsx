@@ -1,8 +1,8 @@
-import "./style.css";
+import "./style-1980.css";
 
 const Event4 = () => {
   return (
-    <div className="event-container event-narrative panel-yellow">
+    <div className="event-container event-narrative panel-maroon">
       <div className="event-narrative-content">
         <h1 className="date">July 9</h1>
         <h1 className="year">1976</h1>

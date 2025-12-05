@@ -1,4 +1,4 @@
-import "./style.css";
+import "./style-1970.css";
 
 const Event8 = () => {
   return (

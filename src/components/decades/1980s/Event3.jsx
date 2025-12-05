@@ -1,16 +1,16 @@
-import "./style.css";
+import "./style-1980.css";
 
 const Event3 = () => {
   return (
     <div className="event-container event-narrative panel-yellow">
-      <div className="profile-content">
+      <div className="profile-content white-txt">
         <h1 className="date">January 24</h1>
         <h1 className="year">1980</h1>
         <p>
           <em>
             Dean of Admission and Financial Aid Emery Walker, who bore the brunt
             of conflict over the existing name, wrote to Jack Stark urging a
-            name change.{" "}
+            name change.
           </em>
         </p>
       </div>

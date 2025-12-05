@@ -7,7 +7,14 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  color: purple;
+  color: #a6203e;
+}
+
+h1 {
+  font-size: 5rem;
+  font-family: serif;
+  line-height: 3.4rem;
+  color: #a6203e;
 }
 
 .intro-content {
@@ -39,4 +46,12 @@
   object-fit: contain;
   align-content: center;
   z-index: 0;
+}
+.panel-maroon {
+  background: #a6203e;
+  color: #ffffff;
+}
+
+.white-txt {
+  color: white;
 }
