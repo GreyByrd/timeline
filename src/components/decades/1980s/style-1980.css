@@ -1,8 +1,6 @@
 .event {
   min-width: 100vw;
   height: 80%;
-  background-color: lightcyan;
-  border: 1px solid lightblue;
   border-radius: 0.5rem;
   display: flex;
   justify-content: center;
