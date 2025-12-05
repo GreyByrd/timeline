@@ -3,14 +3,14 @@ import "./style-1970.css";
 const Event6 = () => {
   return (
     <div className="event-container">
-      <div className="event-1-content">
+      <div className="col-3">
         <img
           className="event-1-image"
           src="/src/assets/1970s-newspaper.png"
           alt="Placeholder."
         />
       </div>
-      <div className="event-1-content">
+      <div className="col-2">
         <h1 className="date">April 24</h1>
         <h1 className="year">1975</h1>
         <p className="blurb">
