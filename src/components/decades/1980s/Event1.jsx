@@ -5,7 +5,7 @@ const Event1 = () => {
     <div className="event-container panel-white">
       <div className="intro-content">
         <div className="intro-text">
-          <h1>1980s</h1>
+          <h1 className="maroon">1980s</h1>
           <h2>The age of change</h2>
           <p>
             Sagittis diam massa vestibulum scelerisque felis bibendum ante. Sed

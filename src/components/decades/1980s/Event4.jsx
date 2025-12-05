@@ -2,17 +2,11 @@ import "./style-1980.css";
 
 const Event4 = () => {
   return (
-    <div className="event-container event-narrative panel-maroon">
+    <div className="event-container event-narrative">
       <div className="event-narrative-content">
-        <h1 className="date">July 9</h1>
-        <h1 className="year">1976</h1>
-        <h2>Claremont Men’s College becomes Claremont McKenna College</h2>
-        <p className="quote">
-          This is not a break with the past, but a natural evolution.
-          <br />
-          <br />
-          <strong>Jack Stark, press conference at teh LA Times building</strong>
-        </p>
+        <h1 className="date">October 22</h1>
+        <h1 className="year maroon">1981</h1>
+        <h2>Name Change Celebration</h2>
       </div>
     </div>
   );

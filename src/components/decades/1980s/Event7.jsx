@@ -2,20 +2,22 @@ import "./style-1980.css";
 
 const Event7 = () => {
   return (
-    <div className="event-container event-narrative panel-yellow">
-      <div className="profile-content">
-        <h1 className="date">July</h1>
-        <h1 className="year">1983</h1>
+    <div className="event-4-container panel-maroon">
+      <div className="event-4-content">
+        <h1 className="year">1984-85</h1>
         <p>
           <em>
-            CMC received its single largest bequest in its history at the time:
-            a $1.273m gift from the estate of the late Madeline Kaiser of
-            Altadena, to be used to establish a scholarship fund in memory of
-            her father.
+            Michele Walsh ’85 became first woman Marshall scholar, and 3rd in
+            CMC history.
           </em>
         </p>
+        <br />
+        <h1 className="year">1986</h1>
+        <p>
+          <em>Linda Davis named dean of admission and financial aid.</em>
+        </p>
       </div>
-      <div className="profile">
+      <div className="event-1-image">
         <img src="/src/assets/1980s_placeholder.png"></img>
       </div>
     </div>
