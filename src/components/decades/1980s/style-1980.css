@@ -55,10 +55,9 @@ a.maroon:hover {
 }
 
 .caption {
-  font-size: 0.9em;
+  font-size: 0.8em;
   font-style: italic;
   width: 40%;
-  margin-top: -18%;
 }
 
 /* colors*/
@@ -77,15 +76,4 @@ a.maroon:hover {
 .panel-maroon {
   background: #a6203e;
   color: #ffffff;
-}
-
-.fullwidth_01 {
-  height: 100%;
-  background-position: top;
-  background-repeat: no-repeat;
-  background-size: cover;
-}
-
-img.ani:hover {
-  margin-top: -30px;
 }

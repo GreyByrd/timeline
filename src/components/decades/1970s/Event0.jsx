@@ -2,7 +2,7 @@ import "./style-1970.css";
 
 const Event0 = () => {
   return (
-    <div className="event-container">
+    <div className="event-container campaign">
       <div className="col-2">
         <p className="caption">This is a caption.</p>
       </div>
