@@ -1,9 +1,9 @@
 import "./style-1980.css";
 
-const Event3 = () => {
+const Event2 = () => {
   return (
     <div className="event-container event-narrative panel-maroon">
-      <div className="event-narrative-content">
+      <div className="event-content">
         <h1 className="date">July 9</h1>
         <h1 className="year">1976</h1>
         <h2>Claremont Men’s College becomes Claremont McKenna College</h2>
@@ -18,4 +18,4 @@ const Event3 = () => {
   );
 };
 
-export default Event3;
+export default Event2;

@@ -1,6 +1,6 @@
 import "./style-1980.css";
 
-const Event6 = () => {
+const Event5 = () => {
   return (
     <div className="event-container event-narrative panel-yellow">
       <div className="profile-content">
@@ -22,4 +22,4 @@ const Event6 = () => {
   );
 };
 
-export default Event6;
+export default Event5;

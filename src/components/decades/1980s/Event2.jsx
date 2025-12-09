@@ -2,17 +2,27 @@ import "./style-1980.css";
 
 const Event2 = () => {
   return (
-    <div className="event">
-      <h1>1970s</h1>
-      <h2>The age of change</h2>
-      <p>
-        Time was changing. The world was becoming more connected than ever,
-        bridging geographic gaps in efficient time with the rise in airline
-        travel. Likewise, the United States established the 28th Amendment, xxx.
-        With the landmark decision in Roe v. Wade, equality became the new
-        baseline.
-      </p>
-      <img src="src/assets/1970s_1.gif" alt="" />
+    <div className="event-container panel-yellow">
+      <div className="profile-content">
+        <h1 className="date">July</h1>
+        <h1 className="year">1983</h1>
+        <p>
+          <em>
+            CMC received its single largest bequest in its history at the time:
+            a $1.273m gift from the estate of the late Madeline Kaiser of
+            Altadena, to be used to establish a scholarship fund in memory of
+            her father.
+          </em>
+        </p>
+      </div>
+      <div className="col-2">
+        <img
+          className="event-1-image"
+          src="src/assets/1970s_Collage_JackS.jpg"
+          alt="Jack Stark."
+        />
+      </div>
+      <img src="/src/assets/1980s_placeholder.png"></img>
     </div>
   );
 };
