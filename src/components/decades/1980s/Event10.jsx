@@ -15,7 +15,7 @@ const Event9 = () => {
       <div className="event-4-content">
         <img
           className="event-1-image"
-          src="src/assets/1980s_placeholder.png"
+          src="/src/assets/1980s-placeholder.png"
           alt="Placeholder."
         />
       </div>

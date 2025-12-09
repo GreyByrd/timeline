@@ -11,14 +11,10 @@ const Event7 = () => {
             CMC history.
           </em>
         </p>
-        <br />
-        <h1 className="year">1986</h1>
-        <p>
-          <em>Linda Davis named dean of admission and financial aid.</em>
-        </p>
       </div>
+      <br />
       <div className="event-1-image">
-        <img src="/src/assets/1980s_placeholder.png"></img>
+        <img src="/src/assets/1980s-placeholder.png"></img>
       </div>
     </div>
   );

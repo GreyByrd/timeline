@@ -3,7 +3,7 @@ import "./style-1980.css";
 const Event4 = () => {
   return (
     <div className="event-4-container panel-gray">
-      <div className="event-4-content">
+      <div className="col-2">
         <h1 className="year">1982</h1>
         <h2>The Athenaeum Program</h2>
         <p>
@@ -19,18 +19,20 @@ const Event4 = () => {
           excitement." 
         </p>
         <p>
-          <span className="small-year">1983</span>The Marian Miner Cook
-          Athenaeum dedication
+          <strong>
+            <span className="small-year">1983</span>
+          </strong>{" "}
+          The Marian Miner Cook Athenaeum dedication
         </p>
       </div>
-      <div className="event-4-content">
+      <div className="col-2">
         <img
-          className="event-1-image"
+          className="ani"
           src="src/assets/1970s_Collage_JackS.jpg"
           alt="Jack Stark."
         />
       </div>
-      <div className="event-4-content">
+      <div className="col-1">
         <h1 className="year">1987-92</h1>
         <p>Jil Stark becomes first woman Ath director</p>
       </div>

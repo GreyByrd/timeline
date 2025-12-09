@@ -18,7 +18,7 @@ const Event6 = () => {
         </p>
       </div>
       <div className="event-1-image">
-        <img src="/src/assets/1980s_placeholder.png"></img>
+        <img src="/src/assets/1980s-placeholder-duo.png"></img>
       </div>
     </div>
   );
