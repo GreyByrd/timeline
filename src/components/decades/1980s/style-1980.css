@@ -1,16 +1,3 @@
-.event-container {
-  height: 100%;
-  flex: 0 0 100%;
-  flex-wrap: wrap;
-  background-color: #f5f5f5;
-  display: flex;
-  justify-content: center;
-  align-content: space-around;
-  align-items: center;
-  color: #231f20;
-  padding: 0 3% 0;
-}
-
 .event {
   min-width: 100vw;
   height: 80%;
@@ -40,6 +27,17 @@
   flex: 0 0 67%;
 }
 
+.event-narrative {
+  display: flex;
+  flex-direction: column;
+  text-align: left;
+  max-width: 700px;
+  padding: 1% 8%;
+  align-items: flex-start;
+  align-content: flex-start;
+}
+
+/* typography */
 h1.maroon {
   font-size: 5rem;
   font-family: serif;
@@ -47,43 +45,45 @@ h1.maroon {
   color: #a6203e;
 }
 
-.intro-content {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  text-align: left;
-  padding: 0 3%;
+a.maroon {
+  font-weight: bold;
+  color: #a6203e;
 }
 
-.intro-text {
-  position: absolute;
-  align-items: center;
-  text-align: left;
-  z-index: 3;
-  max-width: 1000px;
+a.maroon:hover {
+  text-decoration: underline;
 }
 
-.intro-text p {
-  width: 60%;
+.caption {
+  font-size: 0.9em;
+  font-style: italic;
+  width: 40%;
+  margin-top: -18%;
 }
 
-.intro-image {
-  width: 85%;
-  max-width: 100%;
-  height: auto;
-  margin-top: 2rem;
-  margin-left: 10rem;
-  object-fit: contain;
-  align-content: center;
-  z-index: 0;
+/* colors*/
+.white-txt {
+  color: white;
 }
+
+.maroon-txt {
+  color: #a6203e;
+}
+
+.yellow-txt {
+  color: #dbbc78;
+}
+
 .panel-maroon {
   background: #a6203e;
   color: #ffffff;
 }
 
-.white-txt {
-  color: white;
+.fullwidth_01 {
+  height: 100%;
+  background-position: top;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 img.ani:hover {
