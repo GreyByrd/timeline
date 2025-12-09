@@ -3,8 +3,8 @@ import "./style-1970.css";
 const Event1 = () => {
   return (
     <div className="event-container panel-white">
-      <div className="intro-content">
-        <div className="intro-text">
+      <div className="col-2">
+        <div>
           <h1>1970s</h1>
           <h2>The age of change</h2>
           <p>
@@ -15,11 +15,9 @@ const Event1 = () => {
             baseline.
           </p>
         </div>
-        <img
-          className="intro-image"
-          src="src/assets/1970s_1.gif"
-          alt="Collage of historical events in 1970s."
-        />
+      </div>
+      <div className="col-4">
+        <img src="src/assets/1970s_1.gif" alt="Image." />
       </div>
     </div>
   );
