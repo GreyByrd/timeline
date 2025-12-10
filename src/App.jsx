@@ -7,6 +7,7 @@ const App = () => {
     <ScrollyProvider>
       <Decade1970s />
       <Decade1980s />
+      <Decade1990s />
     </ScrollyProvider>
   );
 };
