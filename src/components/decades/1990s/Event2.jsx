@@ -2,21 +2,30 @@ import "./style-1980.css";
 
 const Event2 = () => {
   return (
-    <div className="event-container panel-yellow">
-      <div className="col-1">
-        <h1 className="date">July</h1>
-        <h1 className="year">1983</h1>
+    <div className="event-container campaign">
+      <div className="col-2">
         <p>
-          <em>
-            CMC received its single largest bequest in its history at the time:
-            a $1.273m gift from the estate of the late Madeline Kaiser of
-            Altadena, to be used to establish a scholarship fund in memory of
-            her father.
-          </em>
+          Sagittis diam massa vestibulum scelerisque felis bibendum ante. Sed
+          scelerisque dui quisque odio purus feugiat. Turpis viverra neque
+          turpis congue eu aliquet vulputate quis sagittis. Placerat commodo
+          commodo sed sed dignissim mattis ullamcorper. Aliquet platea euismod
+          et hac. Fermentum sollicitudin morbi tristique parturient orci ac
+          elementum.
         </p>
       </div>
-      <div className="col-3">
-        <img src="/src/assets/1980s-placeholder-duo.png"></img>
+      <div className="col-2">
+        <img className="profile-duo-01" src="/src/assets/stock02.jpg" />
+        <p className="caption">This is a caption.</p>
+      </div>
+      <div className="col-2">
+        <p>
+          Sagittis diam massa vestibulum scelerisque felis bibendum ante. Sed
+          scelerisque dui quisque odio purus feugiat. Turpis viverra neque
+          turpis congue eu aliquet vulputate quis sagittis. Placerat commodo
+          commodo sed sed dignissim mattis ullamcorper. Aliquet platea euismod
+          et hac. Fermentum sollicitudin morbi tristique parturient orci ac
+          elementum.
+        </p>
       </div>
     </div>
   );

@@ -3,9 +3,10 @@ import "./style-1990.css";
 const Event1 = () => {
   return (
     <div className="event-container panel-white">
-      <div className="col-1">
-        <h1 className="maroon">1980s</h1>
-        <h2>The age of change</h2>
+      <div className="col-2">
+        <h1 className="eyebrow">A moment in history</h1>
+        <h1 className="maroon">1990s</h1>
+        <h2>xxx</h2>
         <p>
           Sagittis diam massa vestibulum scelerisque felis bibendum ante. Sed
           scelerisque dui quisque odio purus feugiat. Turpis viverra neque
@@ -15,11 +16,8 @@ const Event1 = () => {
           elementum.
         </p>
       </div>
-      <div className="intro-content">
-        <img
-          src="src/assets/1970s_1.gif"
-          alt="Collage of historical events in 1970s."
-        />
+      <div className="col-4">
+        <img src="src/assets/stock.jpg" alt="Placeholder." />
       </div>
     </div>
   );
