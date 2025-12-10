@@ -1,6 +1,7 @@
 import { ScrollyProvider } from "react-scrolly-telling";
 import Decade1970s from "./components/decades/Decade1970s";
 import Decade1980s from "./components/decades/Decade1980s";
+import Decade1990s from "./components/decades/Decade1990s";
 
 const App = () => {
   return (
