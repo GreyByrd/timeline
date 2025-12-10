@@ -112,7 +112,11 @@ p.blurb {
 }
 
 p.link-list {
-  margin: 2rem 0;
+  margin: 2em 0;
+}
+
+.link-list > a {
+  margin-bottom: 20px;
 }
 
 .quote {
@@ -328,6 +332,7 @@ img.ani:hover {
   .event-container {
     flex-direction: column;
     flex-wrap: nowrap;
+    padding-top: 2rem;
   }
 
   .col-1,
@@ -336,6 +341,7 @@ img.ani:hover {
   .col-4 {
     width: 100%;
     max-width: 100% !important;
+    min-height: 10vh;
   }
   .profile-duo-01,
   .profile-duo-02 {
