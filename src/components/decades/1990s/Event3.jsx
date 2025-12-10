@@ -2,10 +2,10 @@ import "./style-1980.css";
 
 const Event3 = () => {
   return (
-    <div className="event-container panel-yellow">
+    <div className="event-narrative-container panel-yellow">
       <div className=" col-1">
-        <h1 className="date">July</h1>
-        <h1 className="year">1983</h1>
+        <h1 className="date">October 25</h1>
+        <h1 className="year">1996</h1>
         <p>
           <em>
             CMC received its single largest bequest in its history at the time:
@@ -14,9 +14,6 @@ const Event3 = () => {
             her father.
           </em>
         </p>
-      </div>
-      <div className=" col-3">
-        <img className="ani" src="/src/assets/1980s-placeholder.png"></img>
       </div>
     </div>
   );
