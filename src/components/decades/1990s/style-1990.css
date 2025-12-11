@@ -71,3 +71,24 @@ a.maroon:hover {
   background: #a6203e;
   color: #ffffff;
 }
+
+/* images */
+.interstitial-01 {
+  background-image: url("/src/assets/fullwidth-placeholder.png");
+  height: 100%;
+  width: 80%;
+  float: right;
+  background-position: top;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.campaign {
+  background-image: url("/src/assets/fullwidth-placeholder.png");
+  height: 100%;
+  width: 80%;
+  float: right;
+  background-position: top;
+  background-repeat: no-repeat;
+  background-size: cover;
+}

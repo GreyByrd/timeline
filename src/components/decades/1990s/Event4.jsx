@@ -1,9 +1,10 @@
 import "./style-1990.css";
 
-const Event2 = () => {
+const Event4 = () => {
   return (
-    <div className="event-container interstitial-01">
+    <div className="event-container campaign">
       <div className="col-2">
+        <img src="src/assets/1980s-placeholder.png" />
         <p>
           Sagittis diam massa vestibulum scelerisque felis bibendum ante. Sed
           scelerisque dui quisque odio purus feugiat. Turpis viverra neque
@@ -12,6 +13,11 @@ const Event2 = () => {
           et hac. Fermentum sollicitudin morbi tristique parturient orci ac
           elementum.
         </p>
+      </div>
+      <div className="col-2">
+        <img src="src/assets/1980s-placeholder.png" />
+      </div>
+      <div className="col-2">
         <p>
           Sagittis diam massa vestibulum scelerisque felis bibendum ante. Sed
           scelerisque dui quisque odio purus feugiat. Turpis viverra neque
@@ -22,4 +28,4 @@ const Event2 = () => {
   );
 };
 
-export default Event2;
+export default Event4;
