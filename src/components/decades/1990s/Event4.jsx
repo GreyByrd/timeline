@@ -2,13 +2,13 @@ import "./style-1990.css";
 
 const Event4 = () => {
   return (
-    <div className="event-container campaign">
+    <div className="event-container panel-gray">
       <div className="col-2">
         <h1 className="date">October 25</h1>
         <h1 className="year">1996</h1>
-      </div>
-      <div className="col-2">
-        <img src="src/assets/1980s-placeholder.png" />
+        <h2>
+          The Campaign for CMC: Fifty Years of Leadership campaign announced
+        </h2>
         <p>
           Sagittis diam massa vestibulum scelerisque felis bibendum ante. Sed
           scelerisque dui quisque odio purus feugiat. Turpis viverra neque
@@ -18,8 +18,16 @@ const Event4 = () => {
           elementum.
         </p>
       </div>
-      <div className="col-2">
+      <div className="col-3">
         <img src="src/assets/1980s-placeholder.png" />
+        <p>
+          Sagittis diam massa vestibulum scelerisque felis bibendum ante. Sed
+          scelerisque dui quisque odio purus feugiat. Turpis viverra neque
+          turpis congue eu aliquet vulputate quis sagittis. Placerat commodo
+          commodo sed sed dignissim mattis ullamcorper. Aliquet platea euismod
+          et hac. Fermentum sollicitudin morbi tristique parturient orci ac
+          elementum.
+        </p>
       </div>
     </div>
   );

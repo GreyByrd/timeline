@@ -59,6 +59,10 @@ a.maroon:hover {
   color: white;
 }
 
+.purple-txt {
+  color: #5e308e;
+}
+
 .maroon-txt {
   color: #a6203e;
 }
@@ -86,9 +90,10 @@ a.maroon:hover {
 .campaign {
   background-image: url("/src/assets/fullwidth-placeholder.jpg");
   height: 100%;
-  width: 80%;
-  float: right;
+  width: 100%;
+  margin-left: -37%;
   background-position: top;
   background-repeat: no-repeat;
   background-size: cover;
+  z-index: 0;
 }
