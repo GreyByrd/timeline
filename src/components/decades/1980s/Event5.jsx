@@ -4,7 +4,7 @@ const Event4 = () => {
   return (
     <div className="event-4-container panel-gray">
       <div className="col-2">
-        <h1 className="year">1982</h1>
+        <h1 className="year maroon-txt">1982</h1>
         <h2>The Athenaeum Program</h2>
         <p>
           Marian Miner Cook joins first fundraisers for the Athenaeum program
@@ -33,7 +33,7 @@ const Event4 = () => {
         />
       </div>
       <div className="col-1">
-        <h1 className="year">1987-92</h1>
+        <h1 className="year maroon-txt">1987-92</h1>
         <p>Jil Stark becomes first woman Ath director</p>
       </div>
     </div>

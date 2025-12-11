@@ -3,23 +3,21 @@ import "./style-1980.css";
 const Event1 = () => {
   return (
     <div className="event-container panel-white">
-      <div className="col-1">
-        <h1 className="maroon">1980s</h1>
-        <h2>The age of change</h2>
-        <p>
-          Sagittis diam massa vestibulum scelerisque felis bibendum ante. Sed
-          scelerisque dui quisque odio purus feugiat. Turpis viverra neque
-          turpis congue eu aliquet vulputate quis sagittis. Placerat commodo
-          commodo sed sed dignissim mattis ullamcorper. Aliquet platea euismod
-          et hac. Fermentum sollicitudin morbi tristique parturient orci ac
-          elementum.
-        </p>
+      <div className="col-2">
+        <div>
+        <h1 className="eyebrow">A moment in history</h1>
+          <h1 className="maroon">1980s</h1>
+          <h2>XXX</h2>
+          <p>
+            Pretium nulla nisl at quis vel sed sit ut. Ornare eu eros consequat
+            proin amet. Feugiat ut sem id vitae sagittis.Pretium nulla nisl at
+            quis vel sed sit ut. Ornare eu eros consequat proin amet. Feugiat ut
+            sem id vitae sagittis.
+          </p>
+        </div>
       </div>
-      <div className="intro-content">
-        <img
-          src="src/assets/1970s_1.gif"
-          alt="Collage of historical events in 1970s."
-        />
+      <div className="col-4">
+        <img src="src/assets/1970s_1.gif" alt="Image." />
       </div>
     </div>
   );

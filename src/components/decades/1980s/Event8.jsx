@@ -4,7 +4,7 @@ const Event7 = () => {
   return (
     <div className="event-4-container panel-maroon">
       <div className="event-4-content">
-        <h1 className="year">1984-85</h1>
+        <h1 className="year white-txt">1984-85</h1>
         <p>
           <em>
             Michele Walsh ’85 became first woman Marshall scholar, and 3rd in

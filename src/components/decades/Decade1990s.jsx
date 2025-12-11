@@ -3,6 +3,7 @@ import Event1 from "./1990s/Event1";
 import Event2 from "./1990s/Event2";
 import Event3 from "./1990s/Event3";
 import Event4 from "./1990s/Event4";
+import Event5 from "./1990s/Event5";
 
 const Decade1990s = () => {
   return (
@@ -11,6 +12,7 @@ const Decade1990s = () => {
       <Event2 id={2} />
       <Event3 id={3} />
       <Event4 id={4} />
+      <Event5 id={5} />
     </ScrollyElement>
   );
 };

@@ -1,11 +1,17 @@
 import "./style-1990.css";
 
-const Event4 = () => {
+const Event5 = () => {
   return (
     <div className="event-container campaign">
       <div className="col-2">
-        <h1 className="date">October 25</h1>
-        <h1 className="year">1996</h1>
+        <p className="quote">
+          Sagittis diam massa vestibulum scelerisque felis bibendum ante. Sed
+          scelerisque dui quisque odio purus feugiat. Turpis viverra neque
+          turpis congue eu aliquet vulputate quis sagittis. Placerat commodo
+          commodo sed sed dignissim mattis ullamcorper. Aliquet platea euismod
+          et hac. Fermentum sollicitudin morbi tristique parturient orci ac
+          elementum.
+        </p>
       </div>
       <div className="col-2">
         <img src="src/assets/1980s-placeholder.png" />
@@ -25,4 +31,4 @@ const Event4 = () => {
   );
 };
 
-export default Event4;
+export default Event5;
