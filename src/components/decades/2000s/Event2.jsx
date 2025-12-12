@@ -1,6 +1,6 @@
 import "./style-1980.css";
 
-const Event1 = () => {
+const Event2 = () => {
   return (
     <div className="event-container panel-purple">
       <div className="col-2">
