@@ -1,6 +1,6 @@
 import "./style-2000.css";
 
-const Event7 = () => {
+const Event10 = () => {
   return (
     <div className="event-container-sm kravis">
       <div className="col-2">

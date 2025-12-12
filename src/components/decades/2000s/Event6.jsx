@@ -1,10 +1,7 @@
-import "./style-2000.css";
+import "./style-1990.css";
 
 const Event6 = () => {
-  return;
-  <div className="event-container-sm">
-    <img className="fullwidth" src="/src/assets/fullwidth-placeholder.png" />
-  </div>;
+  return <div className="event-container-sm interstitial-01"></div>;
 };
 
 export default Event6;
