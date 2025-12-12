@@ -1,12 +1,12 @@
 import "./style-2000.css";
 
-const Event3 = () => {
+const Event4 = () => {
   return (
-    <div className="event-container panel-white">
+    <div className="event-container-sm panel-white">
       <div className="col-2">
         <div>
-          <h1 className="date">October 24</h1>
-          <h1 className="year purple-txt">2000</h1>
+          <h1 className="date">January 1</h1>
+          <h1 className="year purple-txt">2004</h1>
           <h2>Student Excellence</h2>
           <p>
             <strong>March 16: Suzy Nicoletti ’02</strong> becomes the first CMS
@@ -18,16 +18,9 @@ const Event3 = () => {
       </div>
       <div className="col-3">
         <img src="src/assets/placeholder.png" alt="Image." />
-        <p className="caption">
-          During the NCAA Division III Swimming and Diving Championships in
-          Oxford, Ohio, Nicoletti, who had just missed winning the 100-yard
-          breaststroke (her strongest event) during Friday's finals, went on the
-          next day to win the 200-yard breaststroke with a CMS and SCIAC record
-          time of 2:21.17.
-        </p>
       </div>
     </div>
   );
 };
 
-export default Event3;
+export default Event4;
