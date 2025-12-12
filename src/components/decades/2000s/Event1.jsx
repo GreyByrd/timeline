@@ -5,8 +5,8 @@ const Event1 = () => {
     <div className="event-container panel-white">
       <div className="col-2">
         <div>
-        <h1 className="eyebrow">A moment in history</h1>
-          <h1 className="maroon">1980s</h1>
+          <h1 className="eyebrow">A moment in history</h1>
+          <h1 className="maroon">2000s</h1>
           <h2>XXX</h2>
           <p>
             Pretium nulla nisl at quis vel sed sit ut. Ornare eu eros consequat
@@ -17,7 +17,7 @@ const Event1 = () => {
         </div>
       </div>
       <div className="col-4">
-        <img src="src/assets/1970s_1.gif" alt="Image." />
+        <img src="src/assets/placeholder.png" alt="Image." />
       </div>
     </div>
   );
