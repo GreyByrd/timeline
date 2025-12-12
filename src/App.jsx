@@ -12,6 +12,7 @@ const App = () => {
       <Decade1980s />
       <Decade1990s />
       <Decade2000s />
+      <Decade2010s />
     </ScrollyProvider>
   );
 };
