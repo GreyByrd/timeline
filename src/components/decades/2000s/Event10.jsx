@@ -15,7 +15,7 @@ const Event10 = () => {
         </div>
       </div>
       <div className="col-3">
-        <img src="src/assets/1980s-placeholder-duo.png" alt="Image." />
+        <img src="src/assets/placeholder-collage.png" alt="Image." />
       </div>
     </div>
   );
