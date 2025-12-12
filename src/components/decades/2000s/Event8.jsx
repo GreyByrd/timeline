@@ -14,7 +14,7 @@ const Event8 = () => {
             Prize and first African woman to win the Nobel Prize for her
             "contribution to sustainable development, democracy, and peace,
             visits the Marian Miner Cook Athenaeum for her presentation,
-            "Sustainable Development, Democracy, and Peace: A Critical Link." 
+            "Sustainable Development, Democracy, and Peace: A Critical Link."
           </p>
         </div>
         <p className="caption">

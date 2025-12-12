@@ -21,7 +21,7 @@ const Event4 = () => {
         <p>
           <strong>
             <span className="small-year">1983</span>
-          </strong>{" "}
+          </strong>
           The Marian Miner Cook Athenaeum dedication
         </p>
       </div>
