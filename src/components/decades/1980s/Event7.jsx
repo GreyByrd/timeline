@@ -2,9 +2,9 @@ import "./style-1980.css";
 
 const Event6 = () => {
   return (
-    <div className="event-4-container panel-maroon">
+    <div className="event-container panel-maroon">
       <h1 className="honors-gray">Honors</h1>
-      <div className="event-4-content">
+      <div className="col-2">
         <h1 className="year white-txt">1984-85</h1>
         <p>
           <em>
@@ -18,7 +18,7 @@ const Event6 = () => {
           <em>Linda Davis named dean of admission and financial aid.</em>
         </p>
       </div>
-      <div className="event-1-image">
+      <div className="col-3">
         <img src="/src/assets/1980s-placeholder-duo.png"></img>
       </div>
     </div>

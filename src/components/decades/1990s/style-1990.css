@@ -71,16 +71,6 @@ a.maroon:hover {
   color: #ffffff;
 }
 
-.event-container-sm {
-  height: 100%;
-  flex: 0 0 60%;
-  display: flex;
-  flex-wrap: wrap;
-  width: 600px;
-  align-content: center;
-  padding: 0 2%;
-}
-
 /* images */
 .interstitial-01 {
   background-image: url("/src/assets/fullwidth-placeholder.jpg");

@@ -37,6 +37,16 @@
   align-content: flex-start;
 }
 
+.event-container-sm {
+  height: 100%;
+  flex: 0 0 60%;
+  display: flex;
+  flex-wrap: wrap;
+  width: 600px;
+  align-content: center;
+  padding: 0 2%;
+}
+
 /* typography */
 h1.year {
   font-size: 4.5rem;

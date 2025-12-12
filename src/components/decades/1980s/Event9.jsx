@@ -2,7 +2,7 @@ import "./style-1980.css";
 
 const Event8 = () => {
   return (
-    <div className="event-container panel-maroon">
+    <div className="event-container-sm panel-maroon">
       <div className="col-2">
         <h1 className="date">July</h1>
         <h1 className="year white-txt">1983</h1>
