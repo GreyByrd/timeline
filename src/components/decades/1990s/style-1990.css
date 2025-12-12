@@ -53,6 +53,10 @@ a.maroon:hover {
   font-style: italic;
 }
 
+.quote-yellow {
+  border-left: 4px solid #dbbc78;
+}
+
 /* colors*/
 .white-txt {
   color: white;

@@ -56,6 +56,10 @@ a.maroon:hover {
   text-decoration: underline;
 }
 
+.quote-purple {
+  border-left: 4px solid #5e308e;
+}
+
 /* colors*/
 .white-txt {
   color: white;

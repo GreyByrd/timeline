@@ -4,7 +4,7 @@ const Event5 = () => {
   return (
     <div className="event-container campaign">
       <div className="col-1">
-        <p className="quote">
+        <p className="quote quote-yellow">
           Sagittis diam massa vestibulum scelerisque felis bibendum ante. Sed
           scelerisque dui quisque odio purus feugiat. Turpis viverra neque
           turpis congue eu aliquet vulputate quis sagittis. Placerat commodo
@@ -21,7 +21,7 @@ const Event5 = () => {
       </div>
       <div className="col-2 campaign-sm-02">
         <img src="src/assets/1980s-placeholder.png" />
-        <p className="quote">
+        <p className="quote quote-yellow">
           Sagittis diam massa vestibulum scelerisque felis bibendum ante. Sed
           scelerisque dui quisque odio purus feugiat. Turpis viverra neque
           turpis congue.

@@ -137,8 +137,14 @@ p.blurb {
   margin-left: 20px;
 }
 
+.quote-purple {
+  border-left: 4px solid #5e308e;
+}
+
 .quote-name {
-  font-size: 0.8em;
+  font-size: 0.7em;
+  margin-top: 12px;
+  float: right;
 }
 
 .quote-alt {
@@ -151,6 +157,11 @@ p.blurb {
   font-style: italic;
   width: 40%;
   margin-top: -6em;
+}
+
+.small-year {
+  font-size: 1.5em;
+  margin-right: 5px;
 }
 
 a {

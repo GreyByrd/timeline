@@ -6,15 +6,21 @@ const Event2 = () => {
       <div className="event-content">
         <h1 className="date">July 9</h1>
         <h1 className="year white-txt">1976</h1>
-        <h2>Claremont Men’s College becomes Claremont McKenna College</h2>
-        <p className="quote">
+        <h2>
+          <span className="strikethrough">Claremont Men’s College</span> becomes
+          Claremont McKenna College
+        </h2>
+        <p className="quote quote-white">
           <em>This is not a break with the past, but a natural evolution.</em>
-          <br />
           <br />
           <span className="quote-name">
             —Jack Stark, press conference at the LA Times building
           </span>
         </p>
+        <br />
+        <br />
+        <img className="photo-insert" src="/src/assets/1980s-placeholder.png" />
+        <p>this is a thing</p>
       </div>
     </div>
   );

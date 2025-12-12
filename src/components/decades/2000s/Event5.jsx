@@ -18,27 +18,30 @@ const Event5 = () => {
         </p>
       </div>
       <div className="col-2">
-        <img src="src/assets/placeholder.png" alt="Image." />
+        <img src="src/assets/placeholder-collage.png" alt="Image." />
       </div>
       <div className="col-2">
-        <p className="quote">
+        <p className="quote quote-purple">
           "I'm sure that everyone's intention was to have some fun with an ocean
           swim. Once the race starts, though, it gets competitive. If you put
           Athenas into a body of water, they'll try to find a way to come out
           victorious.
           <br />
-          <br />
-          <em>
-            —CMS head swimming coach Charlie Griffiths said of the results
-          </em>
+          <span className="quote-name">
+            <em>
+              —CMS head swimming coach Charlie Griffiths said of the results
+            </em>
+          </span>
         </p>
-        <p className="quote">
+        <br />
+        <p className="quote quote-purple">
           Lisal's win is significant. The ocean swimming circuit in Southern
           California is incredibly competitive, with many ex-NCAA Division I
           swimmers competing. Most of the top-finishers are well into their 30s.
           <br />
-          <br />
-          <em>—Former CMS swimmer, Lou Caron ’80</em>
+          <span className="quote-name">
+            <em>—Former CMS swimmer, Lou Caron ’80</em>
+          </span>
         </p>
       </div>
     </div>

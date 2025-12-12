@@ -71,6 +71,14 @@ a.maroon:hover {
   text-decoration: underline;
 }
 
+.quote-white {
+  border-left: 4px solid #ffffff;
+}
+
+.strikethrough {
+  text-decoration: line-through;
+}
+
 /* colors*/
 .white-txt {
   color: white;
@@ -101,4 +109,9 @@ a.maroon:hover {
   background-position: top;
   background-repeat: no-repeat;
   background-size: cover;
+}
+
+img.photo-insert {
+  width: 40%;
+  float: right;
 }
