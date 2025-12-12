@@ -133,22 +133,29 @@ p.link-list {
   border-left: 4px solid;
   padding-left: 25px;
   margin-left: 20px;
+  width: 60%;
 }
 
 .caption {
   font-size: 0.9em;
   font-style: italic;
   width: 40%;
+  margin-top: -5em;
 }
 
 a {
   font-weight: bold;
-  color: purple;
+  color: inherit;
 }
 
 a:hover {
   text-decoration: underline;
 }
+
+.purple-txt {
+  color: #5e308e;
+}
+
 .white-txt {
   color: white;
 }
@@ -248,7 +255,7 @@ a:hover {
   display: flex;
   flex-direction: column;
   text-align: left;
-  max-width: 640px;
+  width: 740px;
   padding: 1% 8%;
   align-items: flex-start;
   align-content: flex-start;
@@ -273,7 +280,7 @@ a:hover {
 
 /* panels */
 .panel-purple {
-  background: purple;
+  background: #5e308e;
   color: #ffffff;
 }
 

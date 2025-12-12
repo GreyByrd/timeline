@@ -5,11 +5,11 @@ const Event9 = () => {
     <div className="event-container panel-2">
       <div className="col-2">
         <h1 className="date">July 9</h1>
-        <h1 className="year">1972</h1>
+        <h1 className="year purple-txt">1972</h1>
         <h2>
           The <em>Pioneers</em> excel on campus
         </h2>
-        <p className="link-list">
+        <p className="link-list purple-txt">
           <a href="#">
             The first women students graduate
             <br />

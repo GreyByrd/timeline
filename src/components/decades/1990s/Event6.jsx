@@ -13,7 +13,7 @@ const Event6 = () => {
           non egestas ut amet scelerisque adipiscing enim.
         </p>
       </div>
-      <div className="col-4">
+      <div className="col-3">
         <img src="src/assets/1980s-placeholder.png" />
         <p className="quote">
           Sagittis diam massa vestibulum scelerisque felis bibendum ante. Sed

@@ -5,7 +5,7 @@ const Event4 = () => {
     <div className="event-container panel-gray">
       <div className="col-1">
         <h1 className="date">July 9</h1>
-        <h1 className="year">1972</h1>
+        <h1 className="year purple-txt">1972</h1>
         <h2>President Stark pens letter</h2>
         <p>
           Jack Start urges the Claremont Men’s College’s Board of Trustees to
@@ -22,7 +22,7 @@ const Event4 = () => {
       </div>
       <div className="col-1">
         <h1 className="date">November 17</h1>
-        <h1 className="year-sm">1972</h1>
+        <h1 className="year-sm purple-txt">1972</h1>
         <p>
           <em>
             Los Angeles Times article outlines potential shift to coeducation.

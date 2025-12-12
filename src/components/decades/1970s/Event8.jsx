@@ -5,7 +5,7 @@ const Event8 = () => {
     <div className="event-container event-narrative panel-yellow">
       <div className="event-narrative-content">
         <h1 className="date">September 18</h1>
-        <h1 className="year">1976</h1>
+        <h1 className="year purple-txt">1976</h1>
         <h2>First Co-ed Orientation</h2>
         <p>
           The Starks’ warmth and welcoming attitude helped the Pioneers adjust

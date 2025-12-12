@@ -3,16 +3,16 @@ import "./style-1970.css";
 const Event7 = () => {
   return (
     <div className="event-container panel-gray">
-      <div className="event-7-content">
+      <div className="col-2">
         <h1 className="date">March 15</h1>
-        <h1 className="year">1976</h1>
+        <h1 className="year purple-txt">1976</h1>
         <h2>First women on campus</h2>
         <p>
           Marking the College’s 30th anniversary, the first women are welcomes
           on campus.
         </p>
       </div>
-      <div className="event-7-img">
+      <div className="col-3">
         <img
           src="src/assets/1970s_Kathleen-campus.gif"
           alt="Collage of images related to Kathleen Evans early time on campus."

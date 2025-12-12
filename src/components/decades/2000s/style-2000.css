@@ -38,12 +38,6 @@
 }
 
 /* typography */
-h1.maroon {
-  font-size: 5rem;
-  font-family: serif;
-  line-height: 3.4rem;
-  color: #a6203e;
-}
 
 h1.white {
   color: #ffffff;
@@ -71,33 +65,9 @@ a.maroon:hover {
   color: #a6203e;
 }
 
-.yellow-txt {
-  color: #dbbc78;
-}
-
 .panel-maroon {
   background: #a6203e;
   color: #ffffff;
 }
 
 /* images */
-.interstitial-01 {
-  background-image: url("/src/assets/fullwidth-placeholder.jpg");
-  height: 100%;
-  width: 80%;
-  float: right;
-  background-position: top;
-  background-repeat: no-repeat;
-  background-size: cover;
-}
-
-.campaign {
-  background-image: url("/src/assets/fullwidth-placeholder.jpg");
-  height: 100%;
-  width: 100%;
-  margin-left: -37%;
-  background-position: top;
-  background-repeat: no-repeat;
-  background-size: cover;
-  z-index: 0;
-}

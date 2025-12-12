@@ -5,7 +5,7 @@ const Event1 = () => {
     <div className="event-container panel-white">
       <div className="col-2">
         <h1 className="eyebrow">A moment in history</h1>
-        <h1>1970s</h1>
+        <h1 className="purple-txt">1970s</h1>
         <h2>The age of change</h2>
         <p>
           Time was changing. The world was becoming more connected than ever,

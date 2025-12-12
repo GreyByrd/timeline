@@ -18,16 +18,8 @@ const Event4 = () => {
           elementum.
         </p>
       </div>
-      <div className="col-3">
-        <img src="src/assets/1980s-placeholder.png" />
-        <p>
-          Sagittis diam massa vestibulum scelerisque felis bibendum ante. Sed
-          scelerisque dui quisque odio purus feugiat. Turpis viverra neque
-          turpis congue eu aliquet vulputate quis sagittis. Placerat commodo
-          commodo sed sed dignissim mattis ullamcorper. Aliquet platea euismod
-          et hac. Fermentum sollicitudin morbi tristique parturient orci ac
-          elementum.
-        </p>
+      <div className="col-4">
+        <img src="src/assets/fullwidth-placeholder.jpg" />
       </div>
     </div>
   );

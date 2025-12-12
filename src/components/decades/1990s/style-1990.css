@@ -61,13 +61,15 @@ a.maroon:hover {
   color: #a6203e;
 }
 
-.yellow-txt {
-  color: #dbbc78;
-}
-
 .panel-maroon {
   background: #a6203e;
   color: #ffffff;
+}
+
+.event-container-sm {
+  height: 100%;
+  flex: 0 0 60%;
+  width: 300px;
 }
 
 /* images */
@@ -90,4 +92,15 @@ a.maroon:hover {
   background-repeat: no-repeat;
   background-size: cover;
   z-index: 0;
+}
+
+.campaign-sm-01 {
+  margin-top: 8em;
+  display: flex;
+  padding: 2% 4%;
+}
+
+.campaign-sm-02 {
+  margin-top: -5em;
+  padding: 2% 4%;
 }

@@ -2,22 +2,17 @@ import "./style-1990.css";
 
 const Event2 = () => {
   return (
-    <div className="event-container interstitial-01">
-      <div className="col-2">
-        <p>
-          Sagittis diam massa vestibulum scelerisque felis bibendum ante. Sed
-          scelerisque dui quisque odio purus feugiat. Turpis viverra neque
-          turpis congue eu aliquet vulputate quis sagittis. Placerat commodo
-          commodo sed sed dignissim mattis ullamcorper. Aliquet platea euismod
-          et hac. Fermentum sollicitudin morbi tristique parturient orci ac
-          elementum.
-        </p>
-        <p>
-          Sagittis diam massa vestibulum scelerisque felis bibendum ante. Sed
-          scelerisque dui quisque odio purus feugiat. Turpis viverra neque
-          turpis congue eu aliquet vulputate.
-        </p>
-      </div>
+    <div className="event-container event-narrative panel-yellow">
+      <h1 className="year">1990</h1>
+      <p>Kravis de Roulet Conference launched</p>
+      <br />
+      <h1 className="date">December 5</h1>
+      <h1 className="year">1990</h1>
+      <p>
+        Board approves increase to 1,000 students and requested that the College
+        undertake a planning process consistent with its mission that would
+        involve all segments of the CMC community.
+      </p>
     </div>
   );
 };
