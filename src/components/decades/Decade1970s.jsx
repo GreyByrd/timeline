@@ -1,5 +1,4 @@
 import ScrollyElement from "react-scrolly-telling/element";
-import Event0 from "./1970s/Event0";
 import Event1 from "./1970s/Event1";
 import Event2 from "./1970s/Event2";
 import Event3 from "./1970s/Event3";
@@ -14,7 +13,6 @@ import Event10 from "./1970s/Event10";
 const Decade1970s = () => {
   return (
     <ScrollyElement horizontal>
-      <Event0 id={0} />
       <Event1 id={1} />
       <Event2 id={2} />
       <Event3 id={3} />

@@ -306,16 +306,6 @@ a:hover {
   background-size: cover;
 }
 
-.campaign {
-  background-image: url("/src/assets/stock.jpg");
-  height: 100%;
-  width: 80%;
-  float: right;
-  background-position: top;
-  background-repeat: no-repeat;
-  background-size: cover;
-}
-
 .profile-content {
   width: 45%;
 }

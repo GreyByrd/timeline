@@ -91,7 +91,7 @@ a.maroon:hover {
   background-image: url("/src/assets/fullwidth-placeholder.jpg");
   height: 100%;
   width: 100%;
-  margin-left: -37%;
+  margin-left: 0;
   background-position: top;
   background-repeat: no-repeat;
   background-size: cover;

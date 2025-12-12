@@ -26,11 +26,7 @@ const Event4 = () => {
         </p>
       </div>
       <div className="col-2">
-        <img
-          className="ani"
-          src="src/assets/1970s_Collage_JackS.jpg"
-          alt="Jack Stark."
-        />
+        <img className="ani" src="src/assets/1980s-ath.png" alt="Jack Stark." />
       </div>
       <div className="col-1">
         <h1 className="year maroon-txt">1987-92</h1>
