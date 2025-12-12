@@ -68,6 +68,13 @@ h1.maroon {
   color: #a6203e;
 }
 
+h1.honors {
+  font-size: 8rem;
+  position: absolute;
+  top: 0;
+  margin-left: -25px;
+}
+
 a.maroon {
   font-weight: bold;
   color: #a6203e;
