@@ -15,9 +15,7 @@ const Event1 = () => {
           baseline.
         </p>
       </div>
-      <div className="col-4">
-        <img src="src/assets/1970s_1.gif" alt="Image." />
-      </div>
+      <div className="col-4"></div>
     </div>
   );
 };
