@@ -5,12 +5,12 @@ const Event8 = () => {
     <div className="event-container-sm panel-maroon">
       <div className="col-2">
         <h1 className="date">July</h1>
-        <h1 className="year white-txt">1983</h1>
+        <h1 className="year-sm white-txt">1983</h1>
         <p>
           <em>
-            <strong>Laura May ’86</strong> and <strong>Diane Silver ’88</strong>{" "}
+            <strong>Laura May ’86</strong> and <strong>Diane Silver ’88</strong>
             became CMC's first women students to become Truman Scholars (and 3rd
-            and 4th Truman Scholars in CMC history){" "}
+            and 4th Truman Scholars in CMC history)
           </em>
         </p>
       </div>

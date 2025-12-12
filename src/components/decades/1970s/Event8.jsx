@@ -11,9 +11,10 @@ const Event8 = () => {
           The Starks’ warmth and welcoming attitude helped the Pioneers adjust
           to life on campus, especially Jil.
         </p>
-        <p className="quote">
-          Jil, particularly, was very activfaae in her support. She wanted to
-          make sure that no one felt like they were in the corner.”
+        <p>
+          <span className="quote-alt">“</span>Jil, particularly, was very
+          activfaae in her support. She wanted to make sure that no one felt
+          like they were in the corner.<span className="quote-alt">”</span>
           <br />
           <br />
           <strong>—Meridith (Ulmann) Brenalvirez ’80</strong>

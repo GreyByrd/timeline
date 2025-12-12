@@ -5,7 +5,7 @@ const Event5 = () => {
     <div className="event-container panel-gray">
       <div className=" col-2">
         <h1 className="date">July</h1>
-        <h1 className="year maroon">1983</h1>
+        <h1 className="year-sm maroon">1983</h1>
         <p>
           <em>
             CMC received its single largest bequest in its history at the time:

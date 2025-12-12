@@ -29,7 +29,7 @@ const Event4 = () => {
         <img src="src/assets/1980s-ath.png" alt="Jack Stark." />
       </div>
       <div className="col-1">
-        <h1 className="year maroon-txt">1987-92</h1>
+        <h1 className="year-sm maroon-txt">1987-92</h1>
         <p>Jil Stark becomes first woman Ath director</p>
       </div>
     </div>

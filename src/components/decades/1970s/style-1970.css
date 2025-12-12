@@ -73,8 +73,8 @@ h1.year {
 }
 
 h1.year-sm {
-  font-size: 3.5rem;
-  line-height: 3rem;
+  font-size: 3rem;
+  line-height: 3.4rem;
   margin-bottom: 15px;
   font-style: italic;
   font-weight: bold;
@@ -121,26 +121,36 @@ p.blurb {
   width: 60%;
 }
 
-p.link-list {
+.link-list {
   margin: 2em 0;
 }
 
-.link-list > a {
-  margin-bottom: 20px;
+.link-list p {
+  margin-bottom: 10px;
 }
 
 .quote {
+  margin-top: 2.5em;
+  font-size: 1.2em;
   border-left: 4px solid;
   padding-left: 25px;
   margin-left: 20px;
-  width: 60%;
+}
+
+.quote-name {
+  font-size: 0.8em;
+}
+
+.quote-alt {
+  font-size: 2em;
+  font-weight: bold;
 }
 
 .caption {
   font-size: 0.9em;
   font-style: italic;
   width: 40%;
-  margin-top: -5em;
+  margin-top: -6em;
 }
 
 a {

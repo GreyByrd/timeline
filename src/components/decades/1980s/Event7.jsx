@@ -5,7 +5,7 @@ const Event6 = () => {
     <div className="event-container panel-maroon">
       <h1 className="honors-gray">Honors</h1>
       <div className="col-2">
-        <h1 className="year white-txt">1984-85</h1>
+        <h1 className="year-sm white-txt">1984-85</h1>
         <p>
           <em>
             Michele Walsh ’85 became first woman Marshall scholar, and 3rd in
@@ -13,7 +13,7 @@ const Event6 = () => {
           </em>
         </p>
         <br />
-        <h1 className="year white-txt">1986</h1>
+        <h1 className="year-sm white-txt">1986</h1>
         <p>
           <em>Linda Davis named dean of admission and financial aid.</em>
         </p>

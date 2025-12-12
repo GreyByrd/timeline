@@ -9,31 +9,20 @@ const Event9 = () => {
         <h2>
           The <em>Pioneers</em> excel on campus
         </h2>
-        <p className="link-list purple-txt">
-          <a href="#">
-            The first women students graduate
-            <br />
-          </a>
-          <a href="#">
-            CMS Cross Country becomes first women’s sport SCIAC
-            <br />
-          </a>
-          <a href="#">Mary Tracey ’81 is first female All-American for CMC</a>
-        </p>
+        <div className="link-list purple-txt">
+          <p>
+            <a href="#">The first women students graduate</a>
+          </p>
+          <p>
+            <a href="#">CMS Cross Country becomes first women’s sport SCIAC</a>
+          </p>
+          <p>
+            <a href="#">Mary Tracey ’81 is first female All-American for CMC</a>
+          </p>
+        </div>
       </div>
       <div className="col-2">
-        <img
-          className="profile-duo-01"
-          src="src/assets/placeholder.png"
-          alt="dfds."
-        />
-      </div>
-      <div className="col-2">
-        <img
-          className="profile-duo-02"
-          src="src/assets/placeholder.png"
-          alt="dfds."
-        />
+        <img s src="src/assets/1970s_pioneers.png" alt="dfds." />
       </div>
     </div>
   );
