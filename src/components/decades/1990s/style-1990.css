@@ -48,6 +48,11 @@ a.maroon:hover {
   text-decoration: underline;
 }
 
+.caption-alt {
+  font-size: 0.9em;
+  font-style: italic;
+}
+
 /* colors*/
 .white-txt {
   color: white;
@@ -69,7 +74,9 @@ a.maroon:hover {
 .event-container-sm {
   height: 100%;
   flex: 0 0 60%;
-  width: 300px;
+  flex-wrap: wrap;
+  width: 600px;
+  align-content: center;
 }
 
 /* images */
@@ -103,4 +110,7 @@ a.maroon:hover {
 .campaign-sm-02 {
   margin-top: -5em;
   padding: 2% 4%;
+}
+
+@media (max-width: 767px) {
 }

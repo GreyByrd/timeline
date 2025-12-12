@@ -43,6 +43,10 @@ h1.white {
   color: #ffffff;
 }
 
+h1.yellow {
+  color: #dbbc78;
+}
+
 a.maroon {
   font-weight: bold;
   color: #a6203e;

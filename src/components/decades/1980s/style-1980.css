@@ -104,8 +104,12 @@ a.maroon:hover {
   background: #e3e3e3;
 }
 
+.name-change {
+  margin-top: -20%;
+}
+
 .celebration {
-  background-image: url("/src/assets/stock.jpg");
+  background-image: url("/src/assets/name-change-celebration-collage.png");
   height: 100%;
   width: 80%;
   float: right;

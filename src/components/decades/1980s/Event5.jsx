@@ -26,7 +26,7 @@ const Event4 = () => {
         </p>
       </div>
       <div className="col-3">
-        <img className="ani" src="src/assets/1980s-ath.png" alt="Jack Stark." />
+        <img src="src/assets/1980s-ath.png" alt="Jack Stark." />
       </div>
       <div className="col-1">
         <h1 className="year maroon-txt">1987-92</h1>

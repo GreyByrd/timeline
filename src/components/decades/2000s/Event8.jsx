@@ -2,7 +2,7 @@ import "./style-2000.css";
 
 const Event8 = () => {
   return (
-    <div className="event-container-sm panel-gray">
+    <div className="event-container panel-gray">
       <div className="col-2">
         <div>
           <h1 className="date">April 8</h1>
@@ -17,7 +17,7 @@ const Event8 = () => {
             "Sustainable Development, Democracy, and Peace: A Critical Link."
           </p>
         </div>
-        <p className="caption">
+        <p className="caption-alt">
           The Marian Miner Cook Athenaeum has been hosted several notable
           figures such as <a href="#">XYZ</a> and <a href="#">ABC</a>.{" "}
           <a href="#">See more xxxxx</a>

@@ -17,8 +17,8 @@ const Event3 = () => {
         </div>
       </div>
       <div className="col-3">
-        <img src="src/assets/placeholder.png" alt="Image." />
-        <p className="caption">
+        <img src="src/assets/1980s-placeholder.png" alt="Image." />
+        <p className="caption-alt">
           During the NCAA Division III Swimming and Diving Championships in
           Oxford, Ohio, Nicoletti, who had just missed winning the 100-yard
           breaststroke (her strongest event) during Friday's finals, went on the

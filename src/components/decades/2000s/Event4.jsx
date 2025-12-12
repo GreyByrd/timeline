@@ -2,17 +2,16 @@ import "./style-2000.css";
 
 const Event4 = () => {
   return (
-    <div className="event-container-sm panel-white">
+    <div className="event-container panel-white">
       <div className="col-2">
         <div>
           <h1 className="date">January 1</h1>
           <h1 className="year purple-txt">2004</h1>
-          <h2>Student Excellence</h2>
+          <h2>Faculty Excellence</h2>
           <p>
-            <strong>March 16: Suzy Nicoletti ’02</strong> becomes the first CMS
-            women’s national champion. She was awarded the Avery scholarship to
-            swim in China to study first-hand what the country’s rigorous swim
-            institutes are like.
+            <strong>Psychological Sciences Professor Diane F. Harpern</strong>{" "}
+            and director of the Berger Institute, assumes the national
+            presidency of the American Psychological Association.
           </p>
         </div>
       </div>

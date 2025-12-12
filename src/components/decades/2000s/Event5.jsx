@@ -2,8 +2,8 @@ import "./style-2000.css";
 
 const Event5 = () => {
   return (
-    <div className="event-container-sm panel-white">
-      <div className="col-2">
+    <div className="event-container panel-white">
+      <div className="col-1">
         <h1 className="date">September 16</h1>
         <h1 className="year purple-txt">2005</h1>
         <h2>Student Excellence</h2>
@@ -21,20 +21,24 @@ const Event5 = () => {
         <img src="src/assets/placeholder.png" alt="Image." />
       </div>
       <div className="col-2">
-        <h1 className="date">September 16</h1>
-        <h1 className="year purple-txt">2005</h1>
-        <h2>Student Excellence</h2>
         <p className="quote">
-          This is not a break with the past, but a natural evolution.
+          "I'm sure that everyone's intention was to have some fun with an ocean
+          swim. Once the race starts, though, it gets competitive. If you put
+          Athenas into a body of water, they'll try to find a way to come out
+          victorious.
           <br />
           <br />
-          <strong>Jack Stark, press conference at teh LA Times building</strong>
+          <em>
+            —CMS head swimming coach Charlie Griffiths said of the results
+          </em>
         </p>
         <p className="quote">
-          This is not a break with the past, but a natural evolution.
+          Lisal's win is significant. The ocean swimming circuit in Southern
+          California is incredibly competitive, with many ex-NCAA Division I
+          swimmers competing. Most of the top-finishers are well into their 30s.
           <br />
           <br />
-          <strong>Jack Stark, press conference at teh LA Times building</strong>
+          <em>—Former CMS swimmer, Lou Caron ’80</em>
         </p>
       </div>
     </div>
