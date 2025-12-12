@@ -2,10 +2,10 @@ import "./style-1980.css";
 
 const Event2 = () => {
   return (
-    <div className="event-container panel-yellow">
+    <div className="event-container panel-gray">
       <div className="col-1">
         <h1 className="date">July</h1>
-        <h1 className="year">1983</h1>
+        <h1 className="year maroon">1983</h1>
         <p>
           <em>
             CMC received its single largest bequest in its history at the time:

@@ -3,7 +3,7 @@ import "./style-1970.css";
 const Event9 = () => {
   return (
     <div className="event-container panel-2">
-      <div className="event-1-content">
+      <div className="col-2">
         <h1 className="date">July 9</h1>
         <h1 className="year">1972</h1>
         <h2>
@@ -21,10 +21,17 @@ const Event9 = () => {
           <a href="#">Mary Tracey ’81 is first female All-American for CMC</a>
         </p>
       </div>
-      <div className="event-1-content">
+      <div className="col-2">
         <img
-          className="event-image-sm"
-          src="src/assets/1970s_pioneers.png"
+          className="profile-duo-01"
+          src="src/assets/placeholder.png"
+          alt="dfds."
+        />
+      </div>
+      <div className="col-2">
+        <img
+          className="profile-duo-02"
+          src="src/assets/placeholder.png"
           alt="dfds."
         />
       </div>
