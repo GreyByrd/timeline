@@ -2,7 +2,7 @@ import ScrollyElement from "react-scrolly-telling/element";
 import Event1 from "./2000s/Event1";
 import Event2 from "./2000s/Event2";
 
-const Decade1990s = () => {
+const Decade2000s = () => {
   return (
     <ScrollyElement horizontal>
       <Event1 id={1} />
@@ -11,4 +11,4 @@ const Decade1990s = () => {
   );
 };
 
-export default Decade1990s;
+export default Decade2000s;
