@@ -13,4 +13,4 @@ const Decade2000s = () => {
   );
 };
 
-export default Decade2000s;
+export default Decade2010s;
