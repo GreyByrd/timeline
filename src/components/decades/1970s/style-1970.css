@@ -356,11 +356,13 @@ img.ani:hover {
   margin-top: -30px;
 }
 
-@media (max-width: 767px) {
+@media (max-width: 992px) {
   .event-container {
-    flex-direction: column;
-    flex-wrap: nowrap;
-    padding-top: 2rem;
+    display: block;
+    width: auto;
+    height: auto;
+    overflow-x: hidden; /* Enables horizontal scrolling */
+    overflow-y: auto;
   }
 
   .col-1,
