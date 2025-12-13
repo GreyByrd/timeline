@@ -1,6 +1,6 @@
 import "./style-2010.css";
 
-const Event1 = () => {
+const Event2 = () => {
   return (
     <div className="event-container panel-white">
       <div className="col-2">
