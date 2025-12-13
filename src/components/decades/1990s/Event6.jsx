@@ -3,7 +3,7 @@ import "./style-1990.css";
 const Event6 = () => {
   return (
     <div className="event-container panel-yellow">
-      <div className="col-2">
+      <div className="col-1">
         <h1 className="date">July 1</h1>
         <h1 className="year">1999</h1>
         <h2>Pam Gann becomes the first woman president of CMC</h2>
@@ -16,12 +16,9 @@ const Event6 = () => {
       <div className="col-3">
         <img src="src/assets/pam-gann-circle.png" />
         <p className="quote">
-          Sagittis diam massa vestibulum scelerisque felis bibendum ante. Sed
-          scelerisque dui quisque odio purus feugiat. Turpis viverra neque We,
-          at this college, already possess the very educated practices for your
-          future here.” commodo sed sed dignissim mattis ullamcorper. Aliquet
-          platea euismod
-          <p>
+          “We, at this college, already possess the very educated practices for
+          your future here.”
+          <p className="quote-name">
             <em>—September 99</em>
           </p>
         </p>
