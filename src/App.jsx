@@ -8,7 +8,6 @@ import Decade2010s from "./components/decades/Decade2010s";
 const App = () => {
   return (
     <ScrollyProvider>
-      s
       <Decade1970s />
       <Decade1980s />
       <Decade1990s />
