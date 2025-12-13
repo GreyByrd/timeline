@@ -2,21 +2,18 @@ import "./style-2010.css";
 
 const Event4 = () => {
   return (
-    <div className="event-container event-narrative panel-maroon">
-      <div className="col-1">
+    <div className="event-container event-narrative panel-white">
       <h1 className="date">January 16</h1>
-        <h1 className="year">2011</h1>
-        <h2>Header</h2>
-        <p>
-          <strong>
-            March 2011: <a href="#">Center for Global Education</a>
-          </strong>
-          opens, encompassing CMC's Office of Off-Campus Study, including Study
-          Abroad and The Washington Program, as well as coordination and
-          promotion of fellowship programs and national awards for CMC students
-          and faculty.
-        </p>
-      </div>
+      <h1 className="year maroon">2014</h1>
+      <h2>The Student Imperative</h2>
+      <p>
+        President Hiram Chodosh presented Claremont McKenna College’s (CMC) new
+        initiative,{" "}
+        <a className="maroon-txt" href="#">
+          The Student Imperative
+        </a>
+        , at a White House summit on college opportunity
+      </p>
     </div>
   );
 };
