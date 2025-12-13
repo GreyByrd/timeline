@@ -14,12 +14,9 @@
     overflow-x: auto; /* Enables horizontal scrolling */
     overflow-y: hidden;
   }
-  .scrolly-horizontal-container {
-    box-sizing: border-box;
-    position: static;
-    width: auto;
-    pointer-events: none;
-    height: auto;
+  #root .scrolly-horizontal-container {
+    width: auto !important;
+    height: auto !important;
   }
   .scrolly-horizontal-sticky {
     top: 0px;

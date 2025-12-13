@@ -358,17 +358,17 @@ img.ani:hover {
 
 @media (max-width: 992px) {
   .scrolly-horizontal-container {
-    box-sizing: border-box;
-    position: static;
-    width: auto;
-    pointer-events: none;
-    height: auto;
+    height: auto !important;
   }
   .scrolly-horizontal-sticky {
     top: 0px;
-    height: auto;
-    width: 100vw;
-    overflow: visible;
+    height: auto !important;
+    overflow: visible !important;
+  }
+
+  .scrolly-horizontal-sticky > div {
+    height: auto !important;
+    flex-direction: column !important;
   }
 
   .event-container {
@@ -377,6 +377,12 @@ img.ani:hover {
     height: auto;
     overflow-x: hidden; /* Enables horizontal scrolling */
     overflow-y: auto;
+    padding: 7% 4%;
+  }
+
+  .event-narrative {
+    display: block;
+    padding: 7% 6%;
   }
 
   .col-1,

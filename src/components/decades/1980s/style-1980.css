@@ -27,16 +27,6 @@
   flex: 0 0 67%;
 }
 
-.event-narrative {
-  display: flex;
-  flex-direction: column;
-  text-align: left;
-  max-width: 700px;
-  padding: 1% 8%;
-  align-items: flex-start;
-  align-content: flex-start;
-}
-
 .event-container-sm {
   height: 100%;
   flex: 0 0 60%;
