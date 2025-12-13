@@ -14,4 +14,17 @@
     overflow-x: auto; /* Enables horizontal scrolling */
     overflow-y: hidden;
   }
+  .scrolly-horizontal-container {
+    box-sizing: border-box;
+    position: static;
+    width: auto;
+    pointer-events: none;
+    height: auto;
+  }
+  .scrolly-horizontal-sticky {
+    top: 0px;
+    height: auto;
+    width: 100vw;
+    overflow: visible;
+  }
 }

@@ -357,6 +357,20 @@ img.ani:hover {
 }
 
 @media (max-width: 992px) {
+  .scrolly-horizontal-container {
+    box-sizing: border-box;
+    position: static;
+    width: auto;
+    pointer-events: none;
+    height: auto;
+  }
+  .scrolly-horizontal-sticky {
+    top: 0px;
+    height: auto;
+    width: 100vw;
+    overflow: visible;
+  }
+
   .event-container {
     display: block;
     width: auto;
