@@ -14,7 +14,7 @@ const Event6 = () => {
         </p>
       </div>
       <div className="col-3">
-        <img src="src/assets/1980s-placeholder.png" />
+        <img src="src/assets/pam-gann-circle.png" />
         <p className="quote">
           Sagittis diam massa vestibulum scelerisque felis bibendum ante. Sed
           scelerisque dui quisque odio purus feugiat. Turpis viverra neque We,
