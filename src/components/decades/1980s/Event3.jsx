@@ -18,6 +18,8 @@ const Event2 = () => {
           </span>
         </p>
         <br />
+      </div>
+      <div className="inset">
         <br />
         <img className="photo-insert" src="/src/assets/1980s-placeholder.png" />
         <p>this is a thing</p>

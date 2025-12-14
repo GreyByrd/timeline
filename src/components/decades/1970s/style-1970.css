@@ -69,7 +69,7 @@ h1.year {
   font-size: 4.5rem;
   margin-bottom: 15px;
   font-weight: bold;
-  font-family: Georgia, "Times New Roman", Times, serif;
+  font-family: 'Times New Roman', Times, serif;
 }
 
 h1.year-sm {

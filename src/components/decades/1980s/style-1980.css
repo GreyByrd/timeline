@@ -37,6 +37,16 @@
   padding: 0 2%;
 }
 
+.event-narrative {
+  display: flex;
+  flex-direction: column;
+  text-align: left;
+  max-width: 740px;
+  padding: 1% 8%;
+  align-items: flex-start;
+  align-content: flex-start;
+}
+
 /* typography */
 
 h1.maroon {
@@ -101,7 +111,15 @@ a.maroon:hover {
   background-size: cover;
 }
 
-img.photo-insert {
+.photo-insert {
   width: 40%;
   float: right;
+}
+
+.inset {
+  margin-top: 2.5em;
+}
+
+.inset p {
+  align-items: baseline;
 }
