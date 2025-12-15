@@ -4,15 +4,13 @@ const Event6 = () => {
   return (
     <div className="event-container-sm panel-black">
       <section>
-        <h1 className="honors-white">Honors</h1>
+        <h1 className="honors-white">Faculty Excellence</h1>
         <div className="profile-section">
-          <h2>Faculty Excellence</h2>
           <div className="profile-mini">
             <p className="profile">
-              <strong>Dr. Jeane Kirkpatrick</strong>, United States
-              representative to the United Nations under President Ronald Regan
-              and first woman to serve as Permanent Representative to the UN,
-              was the featured Res Publica speaker.
+              <strong>2022:</strong> CMC <strong>Prof. Jennifer Feitosa</strong>
+              has joined an elite cadre, having recently been recognized with a
+              prestigious U.S. Scholar Fulbright grant.
             </p>
             <img
               className="profile"
@@ -27,18 +25,15 @@ const Event6 = () => {
               alt="Image."
             />
             <p className="profile">
-              <strong>Dr. Jeane Kirkpatrick</strong>, United States
-              representative to the United Nations under President Ronald Regan
-              and first woman to serve as Permanent Representative to the UN,
-              was the featured Res Publica speaker.
+              <strong>November 7, 2023: Professor Emily Wiley</strong> earns
+              Fulbright Scholar Award.
             </p>
           </div>
           <div className="profile-mini">
             <p className="profile">
-              <strong>Dr. Jeane Kirkpatrick</strong>, United States
-              representative to the United Nations under President Ronald Regan
-              and first woman to serve as Permanent Representative to the UN,
-              was the featured Res Publica speaker.
+              <strong>2024: Emerita Professor Nita Kumar</strong>is awarded a
+              Guggenheim Fellowship to research and write a social history of an
+              Indian family.
             </p>
             <img
               className="profile"

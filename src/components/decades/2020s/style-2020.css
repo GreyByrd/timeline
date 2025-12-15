@@ -1,15 +1,17 @@
 h1.honors-white {
-  font-size: 8rem;
-  letter-spacing: -0.4rem;
+  font-size: 6rem;
+  letter-spacing: -0.3rem;
+  font-weight: 400;
   color: #ffffff;
   position: absolute;
   top: 25px;
   margin-left: -25px;
+  width: 100%;
 }
 
 .profile-section {
   padding: 12% 4% 4%;
-  align-content: end;
+  justify-content: center;
 }
 
 .profile-mini {
@@ -19,11 +21,11 @@ h1.honors-white {
 }
 
 img.profile {
-  width: 18%;
+  width: 20%;
 }
 
 p.profile {
-  width: 82%;
+  width: 70%;
   flex: 0 0 80%;
   margin: 0 15px;
 }
@@ -31,4 +33,14 @@ p.profile {
 .panel-black {
   background: #231f20;
   color: #ffffff;
+}
+
+.cms {
+  background-image: url("/src/assets/Womens_Tennis_NCAA.jpg");
+  height: 100%;
+  width: 80%;
+  float: right;
+  background-position: top;
+  background-repeat: no-repeat;
+  background-size: cover;
 }

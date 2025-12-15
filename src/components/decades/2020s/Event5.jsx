@@ -5,20 +5,17 @@ const Event4 = () => {
     <div className="event-container-sm panel-white">
       <div className="col-2">
         <div>
-          <h1 className="year white-txt">2023</h1>
-          <h2>Women and Leadership Alliance established</h2>
+          <h1 className="date">April 5</h1>
+          <h1 className="year-sm yellow">2010</h1>
           <p>
-            Jointly coordinated by the Kravis Leadership Institute, Robert Day
-            School, and women administrators on campus.
+            <strong>Alice Chang ’15</strong> and{" "}
+            <strong>Sara Linssen ’16</strong> work for Uzima Chicken Rwanda and
+            Uganda.
           </p>
         </div>
       </div>
       <div className="col-3">
-        <img
-          className="fullwidth"
-          src="src/assets/placeholder-collage-02.png"
-          alt="Image."
-        />
+        <img src="src/assets/profile-img.png" alt="Image." />
       </div>
     </div>
   );

@@ -4,15 +4,12 @@ const Event3 = () => {
   return (
     <div className="event-container-sm panel-black">
       <section>
-        <h1 className="honors-white">Honors</h1>
+        <h1 className="honors-white">Alumni-in-Action</h1>
         <div className="profile-section">
-          <h2>Alumni in Action</h2>
           <div className="profile-mini">
             <p className="profile">
-              <strong>Dr. Jeane Kirkpatrick</strong>, United States
-              representative to the United Nations under President Ronald Regan
-              and first woman to serve as Permanent Representative to the UN,
-              was the featured Res Publica speaker.
+              <strong>August 29, 2022: Tamara Lawson ’92</strong> has been named
+              the new dean of University of Washington School of Law.
             </p>
             <img
               className="profile"
@@ -27,10 +24,11 @@ const Event3 = () => {
               alt="Image."
             />
             <p className="profile">
-              <strong>Dr. Jeane Kirkpatrick</strong>, United States
-              representative to the United Nations under President Ronald Regan
-              and first woman to serve as Permanent Representative to the UN,
-              was the featured Res Publica speaker.
+              <strong>March 7, 2024: Harriet Nembhard ’91</strong>{" "}
+              <a className="yellow-txt" href="#">
+                inaugurated president of Harvey Mudd College
+              </a>
+              .
             </p>
           </div>
         </div>

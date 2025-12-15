@@ -1,24 +1,21 @@
-import "./style-2010.css";
+import "./style-2020.css";
 
 const Event4 = () => {
   return (
     <div className="event-container-sm panel-white">
       <div className="col-2">
         <div>
-          <h1 className="year white-txt">2010</h1>
-          <h2>Women and Leadership Alliance established</h2>
+          <h1 className="date">April 5</h1>
+          <h1 className="year-sm yellow">2010</h1>
           <p>
-            Jointly coordinated by the Kravis Leadership Institute, Robert Day
-            School, and women administrators on campus.
+            <strong>Joyce Kim ’24</strong>, a Claremont McKenna College
+            biochemistry major, has been awarded the prestigious Barry Goldwater
+            Scholarship.
           </p>
         </div>
       </div>
       <div className="col-3">
-        <img
-          className="fullwidth"
-          src="src/assets/profile-img.png"
-          alt="Image."
-        />
+        <img src="src/assets/profile-img.png" alt="Image." />
       </div>
     </div>
   );
