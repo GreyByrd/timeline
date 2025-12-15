@@ -1,0 +1,14 @@
+.profile-mini {
+  display: flex;
+  flex-direction: column;
+}
+
+.profile-mini img {
+  width: 30%;
+  flex: 0 0 30%;
+}
+
+.profile-mini p {
+  width: 70%;
+  flex: 0 0 70%;
+}
