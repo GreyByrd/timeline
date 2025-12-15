@@ -397,9 +397,9 @@ img.ani:hover {
   .col-3,
   .col-4 {
     width: 100%;
-    flex: 0 0 100%;
     max-width: 100% !important;
     min-height: 10vh;
+    padding: 0;
   }
   .profile-duo-01,
   .profile-duo-02 {
