@@ -1,6 +1,6 @@
 import "./style-1980.css";
 
-const Event2 = () => {
+const Event3 = () => {
   return (
     <div className="event-container event-narrative panel-maroon">
       <div className="event-content">
@@ -28,4 +28,4 @@ const Event2 = () => {
   );
 };
 
-export default Event2;
+export default Event3;

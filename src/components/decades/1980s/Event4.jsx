@@ -1,7 +1,11 @@
 import "./style-1980.css";
 
-const Event3 = () => {
-  return <div className="event-container celebration panel-gray"></div>;
+const Event4 = () => {
+  return (
+    <div className="img-container panel-gray">
+      <img src="/src/assets/name-change-celebration-collage.png" />
+    </div>
+  );
 };
 
-export default Event3;
+export default Event4;
