@@ -1,4 +1,5 @@
 import { ScrollyProvider } from "react-scrolly-telling";
+import DecadeIntro from "./components/decades/DecadeIntro";
 import Decade1970s from "./components/decades/Decade1970s";
 import Decade1980s from "./components/decades/Decade1980s";
 import Decade1990s from "./components/decades/Decade1990s";
@@ -8,6 +9,7 @@ import Decade2010s from "./components/decades/Decade2010s";
 const App = () => {
   return (
     <ScrollyProvider>
+      <DecadeIntro />
       <Decade1970s />
       <Decade1980s />
       <Decade1990s />

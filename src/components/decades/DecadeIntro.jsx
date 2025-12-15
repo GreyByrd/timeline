@@ -1,7 +1,7 @@
 import ScrollyElement from "react-scrolly-telling/element";
 import Event0 from "./Intro/Event0";
 
-const Decade1970s = () => {
+const DecadeIntro = () => {
   return (
     <ScrollyElement horizontal>
       <Event0 id={0} />
