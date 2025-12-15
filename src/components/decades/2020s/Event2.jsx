@@ -2,9 +2,9 @@ import "./style-2020.css";
 
 const Event2 = () => {
   return (
-    <div className="event-container-sm panel-purple">
-      <div className="col-2 white-txt">
-        <h1 className="year-sm white-txt">2020</h1>
+    <div className="event-container-sm panel-yellow">
+      <div className="col-2">
+        <h1 className="year-sm">2020</h1>
         <p>
           POLITICO reporter <strong>Helena Bottemiller Evich '09</strong>wins a
           prestigious Polk Award for a series of articles on how the USDA is
