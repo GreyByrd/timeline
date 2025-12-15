@@ -5,6 +5,7 @@ import Event3 from "./2020s/Event3";
 import Event4 from "./2020s/Event4";
 import Event5 from "./2020s/Event5";
 import Event6 from "./2020s/Event6";
+import Event7 from "./2020s/Event7";
 
 const Decade2020s = () => {
   return (
@@ -15,6 +16,7 @@ const Decade2020s = () => {
       <Event4 id={4} />
       <Event5 id={5} />
       <Event6 id={6} />
+      <Event7 id={7} />
     </ScrollyElement>
   );
 };
