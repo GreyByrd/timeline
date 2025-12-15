@@ -2,11 +2,11 @@ import "./style-1970.css";
 
 const Event10 = () => {
   return (
-    <div className="event-container event-narrative panel-purple">
+    <div className="event-container panel-purple">
       <div className="event-narrative-content">
         <p className="lead-text">
-          Pretium nulla nisl at quis vel sed sit ut. Ornare eu eros consequat
-          proin amet. Feugiat ut sem id vitae sagittis.
+          The College would continue to find its footing, and conflict, as it
+          evolves and grows.
         </p>
       </div>
     </div>

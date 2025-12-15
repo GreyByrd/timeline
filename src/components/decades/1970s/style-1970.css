@@ -13,17 +13,31 @@
   padding: 0 3% 0;
 }
 
+.event-container-wide {
+  height: 100%;
+  flex: 0 0 110%;
+  display: flex;
+  flex-wrap: wrap;
+  align-content: center;
+  padding: 0 3%;
+}
+
+.event-narrative {
+  display: flex;
+  flex-direction: column;
+  text-align: left;
+  max-width: 740px;
+  padding: 1% 8%;
+  align-items: flex-start;
+  align-content: flex-start;
+}
+
 .img-container {
   display: flex;
   flex: 0 0 100%;
   width: 100%;
   height: auto;
   margin-top: -15px;
-}
-
-.img-container img {
-  object-fit: cover;
-  width: 100%;
 }
 
 .col-1 {
@@ -135,7 +149,6 @@ p.blurb {
 
 .quote {
   margin-top: 2.5em;
-  font-size: 1.2em;
   border-left: 4px solid;
   padding-left: 25px;
   margin-left: 20px;
@@ -148,7 +161,6 @@ p.blurb {
 .quote-name {
   font-size: 0.7em;
   margin-top: 12px;
-  float: right;
 }
 
 .quote-alt {
@@ -270,22 +282,6 @@ a:hover {
   margin-top: -10%;
 }
 
-.event-content-wide {
-  padding: 0 6%;
-  max-width: 1600px;
-  background: coral;
-}
-
-.event-narrative {
-  display: flex;
-  flex-direction: column;
-  text-align: left;
-  max-width: 740px;
-  padding: 1% 8%;
-  align-items: flex-start;
-  align-content: flex-start;
-}
-
 .event-1-intro {
   background-image: url("/src/assets/1970s_1.gif");
   background-repeat: repeat-x;
@@ -341,6 +337,7 @@ img {
   background-position: top;
   background-repeat: no-repeat;
   object-fit: cover;
+  margin: 0;
 }
 
 .profile-content {
@@ -399,6 +396,7 @@ img.ani:hover {
   .col-3,
   .col-4 {
     width: 100%;
+    flex: 0 0 100%;
     max-width: 100% !important;
     min-height: 10vh;
   }

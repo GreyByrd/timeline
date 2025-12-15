@@ -2,8 +2,8 @@ import "./style-1980.css";
 
 const Event4 = () => {
   return (
-    <div className="event-container panel-gray">
-      <div className="col-1">
+    <div className="event-container-wide panel-gray">
+      <div className="col-2">
         <h1 className="year maroon-txt">1982</h1>
         <h2>The Athenaeum Program</h2>
         <p>
@@ -25,7 +25,7 @@ const Event4 = () => {
           The Marian Miner Cook Athenaeum dedication
         </p>
       </div>
-      <div className="col-3">
+      <div className="col-2">
         <img src="src/assets/1980s-ath.png" alt="Jack Stark." />
       </div>
       <div className="col-1">

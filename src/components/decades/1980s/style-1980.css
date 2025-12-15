@@ -7,25 +7,7 @@
   color: #a6203e;
 }
 
-.col-1 {
-  max-width: 25%;
-  flex: 0 0 25%;
-}
-
-.col-2 {
-  max-width: 33%;
-  flex: 0 0 33%;
-}
-
-.col-3 {
-  max-width: 50%;
-  flex: 0 0 50%;
-}
-
-.col-4 {
-  max-width: 67%;
-  flex: 0 0 67%;
-}
+/* column sizes, see style-1970s */
 
 .event-container-sm {
   height: 100%;
@@ -111,7 +93,8 @@ a.maroon:hover {
 }
 
 .inset p {
-  align-items: baseline;
+  margin-top: 31%;
+  font-size: 0.9rem;
 }
 
 @media (max-width: 767px) {

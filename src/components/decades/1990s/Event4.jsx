@@ -5,7 +5,7 @@ const Event4 = () => {
     <div className="event-container panel-gray">
       <div className="col-2">
         <h1 className="date">October 25</h1>
-        <h1 className="year">1996</h1>
+        <h1 className="year yellow">1996</h1>
         <h2>
           The Campaign for CMC: Fifty Years of Leadership campaign announced
         </h2>
@@ -18,8 +18,8 @@ const Event4 = () => {
           elementum.
         </p>
       </div>
-      <div className="col-4">
-        <img src="src/assets/fullwidth-placeholder.jpg" />
+      <div className="col-3">
+        <img className="campaign-sticky" src="src/assets/profile-img.png" />
       </div>
     </div>
   );

@@ -3,7 +3,7 @@ import "./style-1990.css";
 const Event6 = () => {
   return (
     <div className="event-container panel-yellow">
-      <div className="col-1">
+      <div className="col-2">
         <h1 className="date">July 1</h1>
         <h1 className="year">1999</h1>
         <h2>Pam Gann becomes the first woman president of CMC</h2>
