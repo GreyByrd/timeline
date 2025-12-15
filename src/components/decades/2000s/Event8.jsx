@@ -19,8 +19,18 @@ const Event8 = () => {
         </div>
         <p className="caption-alt">
           The Marian Miner Cook Athenaeum has been hosted several notable
-          figures such as <a href="#">XYZ</a> and <a href="#">ABC</a>.{" "}
-          <a href="#">See more xxxxx</a>
+          figures such as{" "}
+          <a className="purple-txt" href="#">
+            XYZ
+          </a>{" "}
+          and{" "}
+          <a className="purple-txt" href="#">
+            ABC
+          </a>
+          .{" "}
+          <a className="purple-txt" href="#">
+            See more xxxxx
+          </a>
         </p>
       </div>
       <div className="col-3">

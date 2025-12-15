@@ -9,7 +9,7 @@ const Event4 = () => {
           <h1 className="year purple-txt">2004</h1>
           <h2>Faculty Excellence</h2>
           <p>
-            <strong>Psychological Sciences Professor Diane F. Harpern</strong>
+            <strong>Psychological Sciences Professor Diane F. Harpern</strong>{" "}
             and director of the Berger Institute, assumes the national
             presidency of the American Psychological Association.
           </p>
