@@ -2,13 +2,17 @@ import "./style-2010.css";
 
 const Event6 = () => {
   return (
-    <div className="event-container-wide panel-white">
+    <div className="event-container-wide panel-gray">
       <div className="col-4">
-        <img src="/src/assets/fullwidth-placeholder.jpg" />
+        <img
+          className="fullwidth"
+          src="/src/assets/fullwidth-placeholder.jpg"
+        />
       </div>
-      <div className="col-2">
+      <div className="col-1">
+        <img src="/src/assets/profile-img.png" />
         <h1 className="date">September 13</h1>
-        <h1 className="year maroon">2014</h1>
+        <h1 className="year-sm maroon">2014</h1>
         <h2>
           <a href="#">From the Mountain to the Sea</a> installed
         </h2>
