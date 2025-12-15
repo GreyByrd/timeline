@@ -10,7 +10,7 @@ h1.honors-white {
 }
 
 .profile-section {
-  padding: 12% 4% 4%;
+  padding: 12% 6% 4%;
   justify-content: center;
 }
 
@@ -33,6 +33,14 @@ p.profile {
 .panel-black {
   background: #231f20;
   color: #ffffff;
+}
+
+.cms-gradient {
+  background: linear-gradient(
+    180deg,
+    rgba(255, 255, 255, 0) 0%,
+    rgba(252, 252, 252, 1) 58%
+  );
 }
 
 .cms {
