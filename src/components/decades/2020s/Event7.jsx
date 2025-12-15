@@ -1,6 +1,6 @@
 import "./style-2020.css";
 
-const Event1 = () => {
+const Event7 = () => {
   return (
     <div className="event-container interstitial-01">
       <div className="col-2">
