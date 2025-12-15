@@ -3,7 +3,7 @@ import "./style-2020.css";
 const Event7 = () => {
   return (
     <div className="event-container event-narrative cms-gradient">
-      <div className="col-3">
+      <div className="col-4">
         <h1 className="date">May 25</h1>
         <h1 className="year-sm yellow-txt">2022</h1>
         <p>
