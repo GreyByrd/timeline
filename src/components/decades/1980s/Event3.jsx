@@ -23,7 +23,9 @@ const Event3 = () => {
         <br />
         <img className="photo-insert" src="/src/assets/name-change-01.jpg" />
         <p>
-          Claremont Men's College signage is removed from Pitzer Hall in 1981
+          <em>
+            Claremont Men's College signage is removed from Pitzer Hall in 1981
+          </em>
         </p>
       </div>
     </div>

@@ -86,6 +86,7 @@ a.maroon:hover {
 .photo-insert {
   width: 40%;
   float: right;
+  margin-left: 15px;
 }
 
 .inset {

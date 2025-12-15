@@ -5,7 +5,6 @@ import Decade1980s from "./components/decades/Decade1980s";
 import Decade1990s from "./components/decades/Decade1990s";
 import Decade2000s from "./components/decades/Decade2000s";
 import Decade2010s from "./components/decades/Decade2010s";
-import Decade2020s from "./components/decades/Decade2020s";
 
 const App = () => {
   return (
@@ -16,7 +15,6 @@ const App = () => {
       <Decade1990s />
       <Decade2000s />
       <Decade2010s />
-      <Decade2020s />
     </ScrollyProvider>
   );
 };
