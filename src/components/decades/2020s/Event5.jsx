@@ -6,7 +6,7 @@ const Event4 = () => {
       <div className="col-2">
         <div>
           <h1 className="date">April 5</h1>
-          <h1 className="year-sm yellow">2010</h1>
+          <h1 className="year-sm yellow-txt">2023</h1>
           <p>
             <strong>Alice Chang ’15</strong> and{" "}
             <strong>Sara Linssen ’16</strong> work for Uzima Chicken Rwanda and
