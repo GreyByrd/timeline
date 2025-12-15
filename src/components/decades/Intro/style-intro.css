@@ -1,3 +1,16 @@
+.navigation {
+  position: absolute;
+  opacity: 0.6;
+  top: 0;
+  left: 0;
+  padding: 15px 35px;
+  z-index: 3;
+}
+
+.navigation li:hover {
+  opacity: 1;
+}
+
 .img-container {
   display: flex;
   flex: 0 0 100%;

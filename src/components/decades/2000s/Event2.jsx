@@ -5,7 +5,7 @@ const Event2 = () => {
     <div className="event-container-sm panel-purple">
       <div className="col-2 white-txt">
         <h1 className="date">October 24</h1>
-        <h1 className="year-sm white-txt">2010</h1>
+        <h1 className="year-sm white-txt">2000</h1>
         <p>
           <strong>Dr. Jeane Kirkpatrick</strong>, United States representative
           to the United Nations under President Ronald Regan and first woman to
