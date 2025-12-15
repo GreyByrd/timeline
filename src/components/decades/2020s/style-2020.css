@@ -1,18 +1,34 @@
+h1.honors-white {
+  font-size: 8rem;
+  letter-spacing: -0.4rem;
+  color: #ffffff;
+  position: absolute;
+  top: 25px;
+  margin-left: -25px;
+}
+
+.profile-section {
+  padding: 12% 4% 4%;
+  align-content: end;
+}
+
 .profile-mini {
   display: flex;
-  flex-direction: column;
+  align-items: center;
+  flex-direction: row;
 }
 
-.profile-mini img {
-  width: 30%;
-  flex: 0 0 30%;
+img.profile {
+  width: 18%;
 }
 
-.profile-mini p {
-  width: 70%;
-  flex: 0 0 70%;
+p.profile {
+  width: 82%;
+  flex: 0 0 80%;
+  margin: 0 15px;
 }
 
 .panel-black {
   background: #231f20;
+  color: #ffffff;
 }

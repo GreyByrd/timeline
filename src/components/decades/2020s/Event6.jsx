@@ -1,12 +1,12 @@
 import "./style-2020.css";
 
-const Event3 = () => {
+const Event6 = () => {
   return (
     <div className="event-container-sm panel-black">
       <section>
         <h1 className="honors-white">Honors</h1>
         <div className="profile-section">
-          <h2>Alumni in Action</h2>
+          <h2>Faculty Excellence</h2>
           <div className="profile-mini">
             <p className="profile">
               <strong>Dr. Jeane Kirkpatrick</strong>, United States
@@ -32,6 +32,19 @@ const Event3 = () => {
               and first woman to serve as Permanent Representative to the UN,
               was the featured Res Publica speaker.
             </p>
+          </div>
+          <div className="profile-mini">
+            <p className="profile">
+              <strong>Dr. Jeane Kirkpatrick</strong>, United States
+              representative to the United Nations under President Ronald Regan
+              and first woman to serve as Permanent Representative to the UN,
+              was the featured Res Publica speaker.
+            </p>
+            <img
+              className="profile"
+              src="src/assets/profile-img.png"
+              alt="Image."
+            />
           </div>
         </div>
       </section>
@@ -39,4 +52,4 @@ const Event3 = () => {
   );
 };
 
-export default Event3;
+export default Event6;
