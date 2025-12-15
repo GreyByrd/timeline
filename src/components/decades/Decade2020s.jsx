@@ -12,6 +12,5 @@ const Decade2020s = () => {
     </ScrollyElement>
   );
 };
-s;
 
 export default Decade2020s;
