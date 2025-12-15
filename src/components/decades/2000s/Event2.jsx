@@ -16,7 +16,7 @@ const Event2 = () => {
       <div className="col-3">
         <img
           className="fullwidth"
-          src="src/assets/fullwidth-placeholder.png"
+          src="src/assets/fullwidth-placeholder.jpg"
           alt="Image."
         />
       </div>

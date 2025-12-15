@@ -13,7 +13,7 @@ const Event6 = () => {
           non egestas ut amet scelerisque adipiscing enim.
         </p>
       </div>
-      <div className="col-3">
+      <div className="col-2">
         <img src="src/assets/pam-gann-circle.png" />
         <p className="quote">
           “We, at this college, already possess the very educated practices for

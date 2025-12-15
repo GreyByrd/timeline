@@ -9,7 +9,7 @@ const Event3 = () => {
         <p>
           <strong>
             March 2011: <a href="#">Center for Global Education</a>
-          </strong>
+          </strong>{" "}
           opens, encompassing CMC's Office of Off-Campus Study, including Study
           Abroad and The Washington Program, as well as coordination and
           promotion of fellowship programs and national awards for CMC students
@@ -35,7 +35,7 @@ const Event3 = () => {
         <h1 className="year white-txt">2011</h1>
         <h2>Stand-out CMCers</h2>
         <p>
-          <strong>March 2011:</strong> International Relations major
+          <strong>March 2011:</strong> International Relations major{" "}
           <strong>Takako Mino ’11</strong> won the inaugural Napier Award for
           Creative Leadership. Mino was one of two students from The Claremont
           Colleges to receive the inaugural award, which carried a cash grant of
@@ -43,9 +43,9 @@ const Event3 = () => {
         </p>
         <br />
         <p>
-          <strong>October 24, 2012:</strong> CMC student-athlete
-          <strong>Kristin Lim</strong> wselected as the Honda Award nominee in
-          NCAA Division III tennis by the Collegiate Women Sports Awards
+          <strong>October 24, 2012:</strong> CMC student-athlete{" "}
+          <strong>Kristin Lim</strong> was selected as the Honda Award nominee
+          in NCAA Division III tennis by the Collegiate Women Sports Awards
           Program. Lim is the first CMS/CMC athlete to receive this recognition.
         </p>
         <br />

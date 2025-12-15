@@ -12,8 +12,10 @@ const Event8 = () => {
           to life on campus, especially Jil.
         </p>
         <p className="quote quote-purple">
-          “Jil, particularly, was very activfaae in her support. She wanted to
-          make sure that no one felt like they were in the corner.”
+          <em>
+            “Jil, particularly, was very activate in her support. She wanted to
+            make sure that no one felt like they were in the corner.”
+          </em>
           <br />
           <span className="quote-name">—Meridith (Ulmann) Brenalvirez ’80</span>
         </p>

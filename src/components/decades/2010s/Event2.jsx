@@ -22,7 +22,7 @@ const Event2 = () => {
           realize that I was connected to generations of alumni through a shared
           CMC experience.”
           <br />
-          <span className="quote-name">—Priscilla Hsu 13</span>
+          <span className="quote-name">—Priscilla Hsu ’13</span>
         </p>
       </div>
       <div className="col-2">
