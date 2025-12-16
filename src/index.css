@@ -1,1 +1,27 @@
 @import "tailwindcss";
+
+.test {
+  position: fixed;
+  z-index: 10;
+  opacity: 0.2;
+  padding: 10px 20px;
+  margin-bottom: 5px;
+  clip-path: circle(50px);
+}
+
+.test p {
+  margin-bottom: 5px;
+}
+
+.test-links {
+  display: none;
+}
+
+.test:hover {
+  opacity: 1;
+  font-weight: bold;
+}
+
+.test:hover > .test-links {
+  display: block;
+}
