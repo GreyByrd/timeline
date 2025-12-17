@@ -2,11 +2,11 @@ import "./style-2010.css";
 
 const Event1 = () => {
   return (
-    <div className="event-container panel-white">
+    <div id="2010" className="event-container panel-white">
       <div className="col-2">
         <div>
           <h1 className="eyebrow">A moment in history</h1>
-          <h1 className="year purple-txt">2010s</h1>
+          <h1 className="purple-txt">2010s</h1>
           <h2>XXX</h2>
           <p>
             Pretium nulla nisl at quis vel sed sit ut. Ornare eu eros consequat

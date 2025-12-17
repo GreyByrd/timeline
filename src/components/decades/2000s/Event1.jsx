@@ -6,7 +6,7 @@ const Event1 = () => {
       <div className="col-2">
         <div>
           <h1 className="eyebrow">A moment in history</h1>
-          <h1 className="year purple-txt">2000s</h1>
+          <h1 className="purple-txt">2000s</h1>
           <h2>XXX</h2>
           <p>
             Pretium nulla nisl at quis vel sed sit ut. Ornare eu eros consequat
