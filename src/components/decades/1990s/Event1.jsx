@@ -2,7 +2,7 @@ import "./style-1990.css";
 
 const Event1 = () => {
   return (
-    <div className="event-container panel-white">
+    <div id="1990" className="event-container panel-white">
       <div className="col-2">
         <h1 className="eyebrow">A moment in history</h1>
         <h1 className="yellow-txt">1990s</h1>

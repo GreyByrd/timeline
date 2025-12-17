@@ -29,6 +29,7 @@
 
 .test-links {
   display: none;
+  font-size: 0.8rem;
 }
 
 .test:hover > .test-links {
@@ -37,4 +38,8 @@
 
 .test-links a:hover {
   color: coral;
+}
+
+.anchor {
+  scroll-margin-right: -150px;
 }
