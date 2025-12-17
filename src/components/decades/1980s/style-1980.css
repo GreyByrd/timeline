@@ -99,7 +99,8 @@ a.maroon:hover {
 }
 
 @media (max-width: 767px) {
-  .event-container-sm {
+  .event-container-sm,
+  .event-container-wide {
     display: block;
     width: 100vw;
     height: auto;
