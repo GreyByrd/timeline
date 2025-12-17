@@ -2,16 +2,20 @@ import "./style-2020.css";
 
 const Event9 = () => {
   return (
-    <div className="event-container event-narrative panel-maroon">
-      <h1 className="honor-white">Honors</h1>
-      <div className="col-1">
+    <div className="event-container panel-yellow">
+      <h1 className="honors-black">Honors</h1>
+      <div className="col-2">
         <h2>Rhodes Scholars</h2>
-        <h2 className="year">2021</h2>
+        <br />
+        <br />
+        <h2 className="year-sm">2021</h2>
         <p>Sara Chen ’22 named first female Rhodes Scholar</p>
         <br />
-        <h2>Rhodes Scholars</h2>
-        <h2 className="year">2023</h2>
+        <h2 className="year-sm">2023</h2>
         <p>Bertha Tobias ’24 named second female Rhodes Scholar</p>
+      </div>
+      <div className="col-3">
+        <img src="/src/assets/placeholder.png" />
       </div>
     </div>
   );

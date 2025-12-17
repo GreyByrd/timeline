@@ -9,6 +9,28 @@ h1.honors-white {
   width: 100%;
 }
 
+h1.honors-black {
+  font-size: 8rem;
+  letter-spacing: -0.3rem;
+  font-weight: 400;
+  position: absolute;
+  top: 25px;
+  margin-left: 0;
+  width: 100%;
+}
+
+.header {
+  display: block;
+  width: 100%;
+}
+
+.subsection {
+  display: flex;
+  flex-wrap: wrap;
+  flex: 0 0 100%;
+  justify-content: center;
+}
+
 .profile-section {
   padding: 12% 6% 4%;
   justify-content: center;
