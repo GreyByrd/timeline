@@ -6,12 +6,15 @@ const Event9 = () => {
       <div className="col-2">
         <h1 className="date">July 1</h1>
         <h1 className="year">1999</h1>
-        <h2>Pam Gann becomes the first woman president of CMC</h2>
+        <h2>Promise realized</h2>
         <p>
-          Leo quis quis in nibh potenti odio sed proin ultrices. Proin risus
-          libero vestibulum condimentum consectetur eget. Eget purus adipiscing
-          non egestas ut amet scelerisque adipiscing enim.
+          Pamela Gann began her tenure as the fourth president of CMC and first
+          woman to lead the College. During her tenure, the ranks of the tenured
+          faculty increased by 65 percent, two new research institutes and two
+          new resource centers were established, and increased opportunities for
+          graduates emerged with expanded student internship opportunities.
         </p>
+        <p>Gann recognized the responsibility she carried on her shoulders.</p>
       </div>
       <div className="col-2">
         <img src="src/assets/pam-gann-circle.png" />

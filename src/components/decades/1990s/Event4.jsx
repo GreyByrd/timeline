@@ -22,7 +22,7 @@ const Event4 = () => {
         </p>
       </div>
       <div className="col-2">
-        <img src="/src/assets/placeholder.png"></img>
+        <img src="/src/assets/Timeline-placeholder-02.png"></img>
       </div>
     </div>
   );

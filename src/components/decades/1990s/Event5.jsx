@@ -2,8 +2,11 @@ import "./style-1990.css";
 
 const Event5 = () => {
   return (
-    <div className="event-container">
-      <div className="col-3">
+    <div className="event-container-sm">
+      <div className="col-2">
+        <img src="/src/assets/Timeline-placeholder-02.png"></img>
+      </div>
+      <div className="col-4">
         <h2>Presidential Leader</h2>
         <p>
           Christine (Wight) Huddleson ’91 was the first female president of the
@@ -20,9 +23,6 @@ const Event5 = () => {
           sign that those who made a co-ed CMC a reality “remained so engaged
           and supportive of women in our campus community.”
         </p>
-      </div>
-      <div className="col-2">
-        <img src="/src/assets/profile-img.png"></img>
       </div>
     </div>
   );
