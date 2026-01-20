@@ -1,6 +1,6 @@
 import "./style-1990.css";
 
-const Event8 = () => {
+const Event9 = () => {
   return (
     <div className="event-container panel-yellow">
       <div className="col-2">
@@ -27,4 +27,4 @@ const Event8 = () => {
   );
 };
 
-export default Event8;
+export default Event9;

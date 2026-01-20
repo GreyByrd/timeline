@@ -2,28 +2,16 @@ import "./style-1990.css";
 
 const Event6 = () => {
   return (
-    <div className="event-container-wide campaign">
-      <div className="col-1">
-        <p className="quote quote-yellow">
-          Sagittis diam massa vestibulum scelerisque felis bibendum ante. Sed
-          scelerisque dui quisque odio purus feugiat. Turpis viverra neque
-          turpis congue eu aliquet vulputate quis sagittis. Placerat commodo
-          commodo sed sed dignissim mattis ullamcorper. Aliquet platea euismod
-          et hac. Fermentum sollicitudin morbi tristique parturient orci ac
-          elementum.
-        </p>
-      </div>
-      <div className="col-2">
-        <img className="campaign-sm-01" src="src/assets/profile-img.png" />
-      </div>
-      <div className="col-2 campaign-sm-02">
-        <img src="src/assets/profile-img.png" />
-        <p className="quote quote-yellow">
-          Sagittis diam massa vestibulum scelerisque felis bibendum ante. Sed
-          scelerisque dui quisque odio purus feugiat. Turpis viverra neque
-          turpis congue.
-        </p>
-      </div>
+    <div className="event-container event-narrative panel-yellow">
+      <h1 className="date">December 5</h1>
+      <h1 className="year">1991</h1>
+      <h2>Growing bigger</h2>
+      <p>
+        The Board approves an enrollment increase to 1,000 students and beings
+        the planning process for a major fundraising campaign. Launched to
+        coincide with the College’s 50th anniversary in 1996, “The Campaign for
+        CMC: Fifty Years of Leadership.”
+      </p>
     </div>
   );
 };

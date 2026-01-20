@@ -2,11 +2,11 @@ import "./style-1990.css";
 
 const Event4 = () => {
   return (
-    <div className="event-container">
+    <div className="event-container-sm">
       <h1 className="honors-gray">Notables</h1>
       <div className="col-3">
         <h1 className="date">May </h1>
-        <h1 className="year-sm yellow-txt">1985</h1>
+        <h1 className="year-sm yellow-txt">1991</h1>
         <h2>Presidential Leader</h2>
         <p>
           Thirty-two years after she graduated from Claremont-McKenna College,
@@ -21,8 +21,8 @@ const Event4 = () => {
           </a>
         </p>
       </div>
-      <div className="col-3">
-        <img src="/src/assets/placeholder-duo.png"></img>
+      <div className="col-2">
+        <img src="/src/assets/placeholder.png"></img>
       </div>
     </div>
   );
