@@ -19,13 +19,22 @@
 
 /* typography */
 
-h1.honors-black {
+h1.honors-yellow {
   font-size: 8rem;
   letter-spacing: -0.4rem;
-  color: #231f20;
+  color: #d7ae32;
   position: absolute;
   top: 10px;
-  margin-left: -4em;
+  margin-left: -5em;
+}
+
+h1.honors-yellow-02 {
+  font-size: 8rem;
+  letter-spacing: -0.4rem;
+  color: #d7ae32;
+  position: absolute;
+  top: 10px;
+  margin-left: -12em;
 }
 
 a.maroon {

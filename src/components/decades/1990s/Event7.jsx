@@ -3,7 +3,7 @@ import "./style-1990.css";
 const Event7 = () => {
   return (
     <div className="event-container-wide">
-      <h1 className="honors-black">Notables</h1>
+      <h1 className="honors-yellow">Notables</h1>
       <div className="col-1">
         <h1 className="date">May</h1>
         <h1 className="year-sm yellow-txt">1993</h1>
