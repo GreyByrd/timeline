@@ -2,10 +2,10 @@ import "./style-1970.css";
 
 const Event6 = () => {
   return (
-    <div className="event-container event-narrative panel-yellow">
+    <div className="event-container event-narrative panel-purple">
       <div className="event-narrative-content">
         <h1 className="date">April 24</h1>
-        <h1 className="year purple-txt">1975</h1>
+        <h1 className="year white-txt">1975</h1>
         <p>
           As the summer of 1973 began, support on the Board subcommittee was
           strong. Admission of women would boost the applicant pool; women were

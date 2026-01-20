@@ -7,18 +7,13 @@ const Event7 = () => {
         <h1 className="date">March</h1>
         <h1 className="year purple-txt">1976</h1>
         <h2>First women on campus</h2>
-      </div>
-      <div className="col-3">
-        <img
-          src="src/assets/1970s_Kathleen-campus.gif"
-          alt="Collage of images related to Kathleen Evans early time on campus."
-        />
-        <p className="caption">
+        <p>
           Coeducation is official, and Kathleen Evans Hurley ’80 P’07 from
           Colorado is the first woman to be admitted and enroll at CMC. “Miss
           Evans typifies the student Claremont Men’s College strives to admit,”
           said President Stark in a{" "}
           <a
+            className="purple-txt"
             href="https://cmcarchives.omeka.net/items/show/198"
             target="_blank"
             aria-label="CMC Archives (open in new tab)"
@@ -30,6 +25,12 @@ const Event7 = () => {
           would go on excel as an Economics major and all-Southern California
           Intercollegiate Athletics Conference athlete.
         </p>
+      </div>
+      <div className="col-3">
+        <img
+          src="src/assets/1970s_Kathleen-campus.gif"
+          alt="Collage of images related to Kathleen Evans early time on campus."
+        />
       </div>
     </div>
   );

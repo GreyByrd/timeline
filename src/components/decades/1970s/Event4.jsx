@@ -3,7 +3,7 @@ import "./style-1970.css";
 const Event4 = () => {
   return (
     <div className="event-container panel-gray">
-      <div className="col-1">
+      <div className="col-2">
         <h1 className="date">July</h1>
         <h1 className="year purple-txt">1972</h1>
         <h2>President Stark pens letter</h2>
@@ -16,14 +16,15 @@ const Event4 = () => {
           steps.
         </p>
         <p>
-          Read President Starks’
+          Read President Starks’{" "}
           <a
+            className="purple-txt"
             href="https://cmcarchives.omeka.net/items/show/232"
             target="_blank"
             aria-label="CMC Archives (open in new tab)"
           >
             letter
-          </a>
+          </a>{" "}
           to the Board
         </p>
       </div>
@@ -33,15 +34,6 @@ const Event4 = () => {
           src="src/assets/1970s_Collage_JackS.jpg"
           alt="Jack Stark."
         />
-      </div>
-      <div className="col-1">
-        <h1 className="date">November 17</h1>
-        <h1 className="year-sm purple-txt">1972</h1>
-        <p>
-          <em>
-            Los Angeles Times article outlines potential shift to coeducation.
-          </em>
-        </p>
       </div>
     </div>
   );

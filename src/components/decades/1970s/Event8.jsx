@@ -32,15 +32,15 @@ const Event8 = () => {
           </a>{" "}
           from January, 1974
         </p>
+        <p className="quote quote-purple">
+          <em>
+            “Jil, particularly, was very active in her support. She wanted to
+            make sure that no one felt like they were in the corner.”
+          </em>
+          <br />
+          <span className="quote-name">—Meridith (Ulmann) Brenalvirez ’80</span>
+        </p>
       </div>
-      <p className="quote quote-white">
-        <em>
-          “Jil, particularly, was very active in her support. She wanted to make
-          sure that no one felt like they were in the corner.”
-        </em>
-        <br />
-        <span className="quote-name">—Meridith (Ulmann) Brenalvirez ’80</span>
-      </p>
     </div>
   );
 };
