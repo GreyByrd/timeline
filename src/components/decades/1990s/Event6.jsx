@@ -2,25 +2,26 @@ import "./style-1990.css";
 
 const Event6 = () => {
   return (
-    <div className="event-container panel-yellow">
-      <div className="col-2">
-        <h1 className="date">July 1</h1>
-        <h1 className="year">1999</h1>
-        <h2>Pam Gann becomes the first woman president of CMC</h2>
-        <p>
-          Leo quis quis in nibh potenti odio sed proin ultrices. Proin risus
-          libero vestibulum condimentum consectetur eget. Eget purus adipiscing
-          non egestas ut amet scelerisque adipiscing enim.
+    <div className="event-container-wide campaign">
+      <div className="col-1">
+        <p className="quote quote-yellow">
+          Sagittis diam massa vestibulum scelerisque felis bibendum ante. Sed
+          scelerisque dui quisque odio purus feugiat. Turpis viverra neque
+          turpis congue eu aliquet vulputate quis sagittis. Placerat commodo
+          commodo sed sed dignissim mattis ullamcorper. Aliquet platea euismod
+          et hac. Fermentum sollicitudin morbi tristique parturient orci ac
+          elementum.
         </p>
       </div>
       <div className="col-2">
-        <img src="src/assets/pam-gann-circle.png" />
-        <p className="quote">
-          “We, at this college, already possess the very educated practices for
-          your future here.”
-          <p className="quote-name">
-            <em>—September 99</em>
-          </p>
+        <img className="campaign-sm-01" src="src/assets/profile-img.png" />
+      </div>
+      <div className="col-2 campaign-sm-02">
+        <img src="src/assets/profile-img.png" />
+        <p className="quote quote-yellow">
+          Sagittis diam massa vestibulum scelerisque felis bibendum ante. Sed
+          scelerisque dui quisque odio purus feugiat. Turpis viverra neque
+          turpis congue.
         </p>
       </div>
     </div>
