@@ -27,6 +27,11 @@ const Event4 = () => {
           </a>{" "}
           to the Board
         </p>
+        <img
+          className="profile"
+          src="src/assets/not-for-men-only.png"
+          alt="Jack Stark."
+        />
       </div>
       <div className="col-3">
         <img
