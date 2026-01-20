@@ -8,11 +8,13 @@ const Event1 = () => {
         <h1 className="purple-txt">1970s</h1>
         <h2>The age of change</h2>
         <p>
-          Time was changing. The world was becoming more connected than ever,
-          bridging geographic gaps in efficient time with the rise in airline
-          travel. Likewise, the United States established the 28th Amendment.
-          With the landmark decision in Roe v. Wade, equality became the new
-          baseline.
+          Times were changing. People were changing. Our nation and our world
+          were changing. A rise in airline travel connected people like never
+          before and global citizens were created. Congress approved the Equal
+          Rights Amendment to the U.S. Constitution, advancing a conversation
+          across the country about the status of women in society. With the
+          landmark Roe v. Wade decision at the Supreme Court, a new framework
+          for women’s rights was taking shape.
         </p>
       </div>
       <div className="col-4">

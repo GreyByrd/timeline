@@ -9,16 +9,20 @@ const Event1 = () => {
       <div className="cover-content">
         <div className="col-2">
           <p>
-            Enim varius sem laoreet nunc vulputate nam. Augue id amet lectus
-            tincidunt et ornare. Netus sagittis ut nam sed at aliquet eget
-            blandit. Et phasellus ut sed eu id vel iaculis suspendisse.
+            In 1976, Claremont McKenna College—then Claremont Men’s College—took
+            the transformative step of admitting women to its student body,
+            marking a significant milestone in the institution’s history. This
+            landmark decision ensured CMC’s compass stayed pointed toward the
+            future and positioned the College to better prepare students—all
+            students—for responsible leadership in an increasingly complex and
+            diverse world.
           </p>
         </div>
         <div className="col-2">
           <p>
-            Enim varius sem laoreet nunc vulputate nam. Augue id amet lectus
-            tincidunt et ornare. Netus sagittis ut nam sed at aliquet eget
-            blandit. Et phasellus ut sed eu id vel iaculis suspendisse.
+            It is with tremendous pride and a celebratory spirit that we
+            commemorate the 50th anniversary of this momentous occasion, reflect
+            on our progress, and chart the course for the future…together.
           </p>
         </div>
       </div>

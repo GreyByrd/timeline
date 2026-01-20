@@ -4,14 +4,18 @@ const Event9 = () => {
   return (
     <div className="event-container panel-2">
       <div className="col-2">
-        <h1 className="date">July 9</h1>
-        <h1 className="year purple-txt">1972</h1>
-        <h2>
-          The <em>Pioneers</em> excel on campus
-        </h2>
+        <h1 className="date">Spring</h1>
+        <h1 className="year purple-txt">1978</h1>
+        <h2>Congratulations to the first CMC coeducational class</h2>
         <div className="link-list purple-txt">
           <p>
-            <a href="#">The first women students graduate</a>
+            In a milestone moment, CMC honored its first women graduates.
+            Already making their mark in a short span of time, CMC’s female
+            students were creating history at the College: Women's cross country
+            became the first Claremont-Mudd-Scripps women's sport to win a
+            conference title, and Mary Tracey ’81 was first female All-American
+            for CMS Athletics. By the fall of 1978, 17 percent of ROTC students
+            at the College were women.
           </p>
           <p>
             <a href="#">CMS Cross Country becomes first women’s sport SCIAC</a>
@@ -22,7 +26,11 @@ const Event9 = () => {
         </div>
       </div>
       <div className="col-2">
-        <img s src="src/assets/1970s_pioneers.png" alt="dfds." />
+        <img
+          s
+          src="src/assets/1970s_pioneers.png"
+          alt="(Top) Mary Tracey ’81, the first female to win and (bottom) the first female graduate class."
+        />
       </div>
     </div>
   );

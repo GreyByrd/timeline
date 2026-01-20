@@ -4,12 +4,25 @@ const Event3 = () => {
   return (
     <div className="event-container panel-purple">
       <div className="col-2">
-        <h1 className="date white">February 27</h1>
+        <h1 className="date white">February</h1>
         <h1 className="year yellow-txt">1971</h1>
-        <h2>Jil Stark becomes First Lady</h2>
+        <h2>Jil Stark '58 GP'11 becomes First Lady of CMC</h2>
         <p>
-          Pretium nulla nisl at quis vel sed sit ut. Ornare eu eros consequat
-          proin amet. Feugiat ut sem id vitae sagittis.
+          Jil Stark’s leadership, including six years building the intellectual
+          and social fabric of the College as{" "}
+          <a
+            href="https://www.cmc.edu/athenaeum/profile-of-director-jil-stark"
+            target="_blank"
+            aria-label="Jil Stark Profile (open in new tab)"
+          >
+            Director of the Athenaeum
+          </a>
+          , impacted the campus and the community with enormous generosity,
+          tireless commitment, and gracious dedication while her husband was
+          President of the College from 1970 to 1999. She was also an early
+          advocate for co-education at CMC – when expanded co-enrollment with
+          Scripps College was put on the table, Jil worked behind the scenes to
+          steer CMC toward full enrollment for women.
         </p>
       </div>
       <div className="col-3">

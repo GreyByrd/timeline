@@ -4,13 +4,27 @@ const Event4 = () => {
   return (
     <div className="event-container panel-gray">
       <div className="col-1">
-        <h1 className="date">July 9</h1>
+        <h1 className="date">July</h1>
         <h1 className="year purple-txt">1972</h1>
         <h2>President Stark pens letter</h2>
         <p>
-          Jack Start urges the Claremont Men’s College’s Board of Trustees to
-          undertake a study of the single-sex nature of the College. Soon,
-          serious discussions begin concerning next steps.
+          In a pivotal act, President Jack Stark urged the Claremont Men’s
+          College’s Board of Trustees to undertake a study of the single-sex
+          nature of the College: “I believe that the time is ripe to reexamine
+          the strengths and weaknesses of CMC as a single-sex college.” A
+          committee was formed and serious discussions began concerning next
+          steps.
+        </p>
+        <p>
+          Read President Starks’
+          <a
+            href="https://cmcarchives.omeka.net/items/show/232"
+            target="_blank"
+            aria-label="CMC Archives (open in new tab)"
+          >
+            letter
+          </a>
+          to the Board
         </p>
       </div>
       <div className="col-3">

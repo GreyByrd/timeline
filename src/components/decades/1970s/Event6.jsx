@@ -2,21 +2,32 @@ import "./style-1970.css";
 
 const Event6 = () => {
   return (
-    <div className="event-container">
-      <div className="col-3">
-        <img
-          className="event-1-image"
-          src="/src/assets/1970s-newspaper.png"
-          alt="Placeholder."
-        />
-      </div>
-      <div className="col-2">
+    <div className="event-container event-narrative panel-yellow">
+      <div className="event-narrative-content">
         <h1 className="date">April 24</h1>
         <h1 className="year purple-txt">1975</h1>
         <p>
-          Board of Trustees voted to admit women to CMC with a final count of 28
-          for coeducation and 13 opposed. CMC’s first group of entering women
-          was scheduled to enroll in the academic year 1976-1977.
+          As the summer of 1973 began, support on the Board subcommittee was
+          strong. Admission of women would boost the applicant pool; women were
+          increasingly serving in leadership in business, government, and the
+          professions; and a national trend toward co-education was well
+          underway. Concerns remained, however, with voices raising fears of
+          diminished fundraising and a loss of CMC’s unique identity within the
+          Claremont Colleges and American higher education as a whole. The
+          debate continued at the highest levels of the College for nearly three
+          years. ring women was scheduled to enroll in the academic year
+          1976-1977.
+        </p>
+        <p>
+          Read a{" "}
+          <a
+            href="https://cmcarchives.omeka.net/exhibits/show/notformenonly/item/235"
+            target="_blank"
+            aria-label="CMC Co-education Archives (opens in new tab)"
+          >
+            list of arguments in favor and opposed to co-education
+          </a>{" "}
+          from January, 1974
         </p>
       </div>
     </div>
