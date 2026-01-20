@@ -19,6 +19,15 @@
 
 /* typography */
 
+h1.honors-black {
+  font-size: 8rem;
+  letter-spacing: -0.4rem;
+  color: #231f20;
+  position: absolute;
+  top: 10px;
+  margin-left: -4em;
+}
+
 a.maroon {
   font-weight: bold;
   color: #a6203e;
