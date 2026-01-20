@@ -1,23 +1,24 @@
 import "./style-1980.css";
 
-const Event7 = () => {
+const Event8 = () => {
   return (
-    <div className="event-container-sm panel-maroon">
-      <div className="col-2">
-        <h1 className="year-sm white-txt">1984-85</h1>
+    <div className="event-container-sm panel-white">
+      <div className="col-3">
+        <h1 className="year-sm maroon">1987</h1>
+        <h2>Familiar face at the Ath</h2>
         <p>
           <em>
-            Michele Walsh ’85 became first woman Marshall scholar, and 3rd in
-            CMC history.
+            CMC First Lady Jil Stark is named the first female director of the
+            Athenaeum, carrying Marian Miner Cook’s charge to bring
+            “intellectual challenges and excitement” to CMC students.
           </em>
         </p>
       </div>
-      <br />
-      <div className="col-3">
-        <img src="/src/assets/1980s-placeholder.png"></img>
+      <div className="col-2">
+        <img className="ani" src="/src/assets/1980s-placeholder.png"></img>
       </div>
     </div>
   );
 };
 
-export default Event7;
+export default Event8;

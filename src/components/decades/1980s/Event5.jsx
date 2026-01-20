@@ -1,30 +1,37 @@
 import "./style-1980.css";
 
-const Event4 = () => {
+const Event5 = () => {
   return (
-    <div className="event-container-wide panel-gray">
-      <div className="col-2">
-        <h1 className="date">Fall of</h1>
-        <h1 className="year-sm maroon-txt">1982</h1>
-        <h2>The Ath gets a new home</h2>
+    <div className="event-container event-narrative panel-maroon">
+      <div className="event-content">
+        <h1 className="date">July 9</h1>
+        <h1 className="year white-txt">1981</h1>
+        <h2>
+          <span className="strikethrough">Claremont Men’s College</span> becomes
+          Claremont McKenna College
+        </h2>
         <p>
-          To keep engaging in the conversations that drove world affairs, the
-          first fundraisers for the Athenaeum, led by a $1 million gift from
-          Marian Miner Cook, broke ground on a new building. Ms. Cook’s gift
-          continued the tradition of her late husband, John Brown Cook, who
-          sponsored congressional and senatorial internships, a lecture series,
-          and a library. "My husband was a creative man in his business and
-          philanthropic interests. I shared many of his interests, and he shared
-          many of mine,” said Ms. Cook. “Together, we had a challenging and
-          exciting life. I hope the Athenaeum will help students to experience
-          similar intellectual challenges and excitement."
+          Following a 34-5 board vote, Claremont McKenna College celebrated its
+          official debut with parties, athletics, an aerial flyover, a black-tie
+          dinner, and a national press campaign.
+        </p>
+        <p className="quote quote-white">
+          <em>This is not a break with the past, but a natural evolution.</em>
+          <span className="quote-name">
+            —Jack Stark, press conference at the LA Times building
+          </span>
         </p>
       </div>
-      <div className="col-3">
-        <img src="src/assets/1980s-ath.png" alt="Jack Stark." />
+      <div className="inset">
+        <img className="photo-insert" src="/src/assets/name-change-01.jpg" />
+        <p>
+          <em>
+            Claremont Men's College signage is removed from Pitzer Hall in 1981
+          </em>
+        </p>
       </div>
     </div>
   );
 };
 
-export default Event4;
+export default Event5;

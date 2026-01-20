@@ -1,26 +1,24 @@
 import "./style-1980.css";
 
-const Event9 = () => {
+const Event10 = () => {
   return (
-    <div className="event-4-container panel-maroon">
-      <div className="event-4-content">
-        <h1 className="year maroon">1988</h1>
+    <div className="event-container panel-gray">
+      <div className="col-2">
+        <h1 className="date">July</h1>
+        <h1 className="year-sm maroon-txt">1983</h1>
+        <h2>Alumni Association breaks barriers</h2>
         <p>
-          CMS wins men's, women's, and overall SCIAC All-Sports trophy for the
-          first time; Stag and Athena soccer players{" "}
-          <strong>R.J. Romero</strong> and <strong>Robyn Hollingshead</strong>{" "}
-          won SCIAC player of the year honors.
+          In 1988, Lorraine Bains ’88 became the first woman and first woman of
+          color to serve as the CMC Alumni Association President. A banking
+          executive, she continues to serve CMC as a Trustee and a co-chair of
+          CMC’s co-ed celebration.
         </p>
       </div>
-      <div className="event-4-content">
-        <img
-          className="event-1-image"
-          src="/src/assets/1980s-placeholder.png"
-          alt="Placeholder."
-        />
+      <div className="col-3">
+        <img src="/src/assets/1980s-placeholder.png"></img>
       </div>
     </div>
   );
 };
 
-export default Event9;
+export default Event10;
