@@ -4,14 +4,13 @@ const Event3 = () => {
   return (
     <div className="event-container event-narrative panel-yellow">
       <h1 className="year">1990</h1>
-      <p>Kravis de Roulet Conference launched</p>
-      <br />
-      <h1 className="date">December 5</h1>
-      <h1 className="year">1990</h1>
+      <h2>Leading the charge</h2>
       <p>
-        Board approves increase to 1,000 students and requested that the College
-        undertake a planning process consistent with its mission that would
-        involve all segments of the CMC community.
+        The inaugural session of the Kravis-de Roulet Conference is held by the
+        Kravis Leadership Institute. The conference has grown into a major
+        annual gathering of leadership scholars and practitioners, with
+        groundbreaking scholarship into the unique challenges and opportunities
+        for women leaders.
       </p>
     </div>
   );

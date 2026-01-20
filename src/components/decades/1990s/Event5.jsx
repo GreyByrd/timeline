@@ -2,24 +2,26 @@ import "./style-1990.css";
 
 const Event5 = () => {
   return (
-    <div className="event-container panel-gray">
-      <div className="col-2">
-        <h1 className="date">October 25</h1>
-        <h1 className="year yellow">1996</h1>
-        <h2>
-          The Campaign for CMC: Fifty Years of Leadership campaign announced
-        </h2>
+    <div className="event-container-sm">
+      <div className="col-3">
+        <h1 className="date">May </h1>
+        <h1 className="year-sm yellow-txt">1985</h1>
+        <h2>Presidential Leader</h2>
         <p>
-          Sagittis diam massa vestibulum scelerisque felis bibendum ante. Sed
-          scelerisque dui quisque odio purus feugiat. Turpis viverra neque
-          turpis congue eu aliquet vulputate quis sagittis. Placerat commodo
-          commodo sed sed dignissim mattis ullamcorper. Aliquet platea euismod
-          et hac. Fermentum sollicitudin morbi tristique parturient orci ac
-          elementum.
+          Thirty-two years after she graduated from Claremont-McKenna College,
+          Harriet Nembhard '91 was inaugurated as the sixth president of Harvey
+          Mudd College. A nationally respected leader in industrial and
+          operations engineering, she has served as a CMC Alumna Trustee and was
+          a member of CMC’s inaugural Integrated Sciences Advisory Council.
+        </p>
+        <p>
+          <a href="https://www.cmc.edu/newsfeed/harvey-mudd-college-inaugurates-harriet-nembhard-91-president">
+            Read about our coverage
+          </a>
         </p>
       </div>
       <div className="col-3">
-        <img className="campaign-sticky" src="src/assets/profile-img.png" />
+        <img src="/src/assets/placeholder-duo.png"></img>
       </div>
     </div>
   );
