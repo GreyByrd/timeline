@@ -7,11 +7,9 @@ const Event8 = () => {
         <h1 className="year-sm maroon">1987</h1>
         <h2>Familiar face at the Ath</h2>
         <p>
-          <em>
-            CMC First Lady Jil Stark is named the first female director of the
-            Athenaeum, carrying Marian Miner Cook’s charge to bring
-            “intellectual challenges and excitement” to CMC students.
-          </em>
+          CMC First Lady Jil Stark is named the first female director of the
+          Athenaeum, carrying Marian Miner Cook’s charge to bring “intellectual
+          challenges and excitement” to CMC students.
         </p>
       </div>
       <div className="col-2">

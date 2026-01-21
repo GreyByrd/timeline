@@ -22,8 +22,8 @@ const Event7 = () => {
           <p>Read the article</p>
         </a>
       </div>
-      <div className="col-2">
-        <img src="/src/assets/Timeline-placeholder-02.png"></img>
+      <div className="col-1">
+        <img src="/src/assets/profile-tamara.png"></img>
       </div>
       <div className="col-2">
         <h1 className="date">May</h1>
