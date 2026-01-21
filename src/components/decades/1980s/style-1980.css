@@ -51,6 +51,11 @@ a.maroon:hover {
   text-decoration: line-through;
 }
 
+ul li {
+  list-style: disc;
+  margin-left: 20px;
+}
+
 /* colors*/
 .white-txt {
   color: white;

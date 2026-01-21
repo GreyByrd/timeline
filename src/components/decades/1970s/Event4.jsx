@@ -26,19 +26,15 @@ const Event4 = () => {
             letter
           </a>{" "}
           to the Board
+          <img
+            className="photo-insert-btn"
+            src="src/assets/not-for-men-only.png"
+            alt="Jack Stark."
+          />
         </p>
-        <img
-          className="profile"
-          src="src/assets/not-for-men-only.png"
-          alt="Jack Stark."
-        />
       </div>
       <div className="col-3">
-        <img
-          className="event-1-image"
-          src="src/assets/1970s_Collage_JackS.jpg"
-          alt="Jack Stark."
-        />
+        <img src="src/assets/1970s_Collage_JackS.jpg" alt="Jack Stark." />
       </div>
     </div>
   );

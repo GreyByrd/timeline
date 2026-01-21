@@ -359,6 +359,11 @@ img {
   margin-top: -4em;
 }
 
+.photo-insert-btn {
+  width: 40%;
+  float: right;
+}
+
 /* extras */
 img.ani:hover {
   margin-top: -30px;

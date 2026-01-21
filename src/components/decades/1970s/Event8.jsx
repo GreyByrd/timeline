@@ -24,6 +24,7 @@ const Event8 = () => {
         <p>
           Read a{" "}
           <a
+            className="purple-txt"
             href="https://cmcarchives.omeka.net/exhibits/show/notformenonly/item/235"
             target="_blank"
             aria-label="CMC Co-education Archive (opens in new tab)"
