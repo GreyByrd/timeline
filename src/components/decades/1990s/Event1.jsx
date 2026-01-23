@@ -24,7 +24,14 @@ const Event1 = () => {
         </p>
       </div>
       <div className="col-3">
-        <img src="src/assets/stock.jpg" alt="Placeholder." />
+        <video
+          src="/src/assets/cloud-mountain.mp4"
+          type="video/mp4"
+          autoPlay="true"
+          controls
+          loop
+          alt="Clouds blowing off a mountain."
+        />
       </div>
     </div>
   );

@@ -1,4 +1,5 @@
 import "./style-1980.css";
+import ath from "../../../assets/1980-ath.png";
 
 const Event6 = () => {
   return (
@@ -21,7 +22,7 @@ const Event6 = () => {
         </p>
       </div>
       <div className="col-3">
-        <img src="src/assets/1980s-ath.png" alt="Jack Stark." />
+        <img src={ath} alt="xxx." />
       </div>
     </div>
   );

@@ -1,4 +1,5 @@
 import "./style-1980.css";
+import sciac from "../../../assets/1980-sciac-wins.png";
 
 const Event9 = () => {
   return (
@@ -15,7 +16,7 @@ const Event9 = () => {
       </div>
       <br />
       <div className="col-3">
-        <img src="/src/assets/1980s-placeholder.png"></img>
+        <img src={sciac} />
       </div>
     </div>
   );

@@ -88,6 +88,10 @@ ul li {
   background-size: cover;
 }
 
+.photo-sm {
+  width: 60%;
+}
+
 .photo-insert {
   width: 40%;
   float: right;

@@ -1,4 +1,5 @@
 import "./style-1980.css";
+import jil02 from "../../../assets/1980-jil-ath.png";
 
 const Event8 = () => {
   return (
@@ -13,7 +14,7 @@ const Event8 = () => {
         </p>
       </div>
       <div className="col-2">
-        <img className="ani" src="/src/assets/1980s-placeholder.png"></img>
+        <img className="ani" src={jil02}></img>
       </div>
     </div>
   );

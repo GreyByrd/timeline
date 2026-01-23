@@ -1,4 +1,5 @@
 import "./style-1990.css";
+import pic from "../../../assets/1980s-ath.png";
 
 const Event7 = () => {
   return (
@@ -23,7 +24,7 @@ const Event7 = () => {
         </a>
       </div>
       <div className="col-1">
-        <img src="/src/assets/profile-tamara.png"></img>
+        <img src={pic}></img>
       </div>
       <div className="col-2">
         <h1 className="date">May</h1>
