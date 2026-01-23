@@ -1,4 +1,5 @@
 import "./style-1980.css";
+import namechange from "../../../assets/1980-name-change-sign.jpg";
 
 const Event5 = () => {
   return (
@@ -23,7 +24,7 @@ const Event5 = () => {
         </p>
       </div>
       <div className="inset">
-        <img className="photo-insert" src="/src/assets/name-change-01.jpg" />
+        <img className="photo-insert" src={namechange} />
         <p>
           <em>
             Claremont Men's College signage is removed from Pitzer Hall in 1981
