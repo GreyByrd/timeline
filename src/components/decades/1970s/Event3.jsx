@@ -1,4 +1,5 @@
 import "./style-1970.css";
+import jil01 from "../../../assets/1970-collage-jil.jpg";
 
 const Event3 = () => {
   return (
@@ -28,7 +29,7 @@ const Event3 = () => {
       <div className="col-3">
         <img
           className="event-1-image"
-          src="src/assets/1970s_Collage_JS.jpg"
+          src={jil01}
           alt="Collage of Jil Stark on wedding day and by herself."
         />
       </div>

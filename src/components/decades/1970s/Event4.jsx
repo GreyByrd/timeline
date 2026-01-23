@@ -1,5 +1,6 @@
 import "./style-1970.css";
-import 1970stark from "../../../assets/1970-collage-JS.jpg"
+import stark from "../../../assets/1970-collage-jack.jpg";
+import notformen from "../../../assets/not-for-men-only.png";
 
 const Event4 = () => {
   return (
@@ -29,13 +30,13 @@ const Event4 = () => {
           to the Board
           <img
             className="photo-insert-btn"
-            src="src/assets/not-for-men-only.png"
-            alt="Jack Stark."
+            src={notformen}
+            alt="Button that says Not For Men Only."
           />
         </p>
       </div>
       <div className="col-3">
-        <img src={1970stark} alt="Jack Stark."></img>
+        <img src={stark} alt="Jack Stark."></img>
       </div>
     </div>
   );
