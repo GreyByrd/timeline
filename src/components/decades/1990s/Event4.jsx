@@ -1,4 +1,5 @@
 import "./style-1990.css";
+import harriet from "../../../assets/1990-profile-harriet.png";
 
 const Event4 = () => {
   return (
@@ -22,7 +23,7 @@ const Event4 = () => {
         </p>
       </div>
       <div className="col-2">
-        <img src="/src/assets/profile-harriet.png"></img>
+        <img src={harriet}></img>
       </div>
     </div>
   );
