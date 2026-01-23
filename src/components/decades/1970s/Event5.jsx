@@ -4,7 +4,7 @@ import edessa from "../../../assets/1970-profile-edessa-rose.png";
 const Event5 = () => {
   return (
     <div className="event-container event-narrative panel-yellow">
-      <img src={edessa}></img>
+      <img src={edessa} />
       <h1 className="year-sm purple-txt">1972</h1>
       <p>
         In 1972, businesswoman, lawyer, feminist, and California activist Edessa
