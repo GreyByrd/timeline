@@ -34,7 +34,7 @@ const Event4 = () => {
         </p>
       </div>
       <div className="col-3">
-        <img src="src/assets/1970s_Collage_JackS.jpg" alt="Jack Stark." />
+        <img src="src/assets/1970_Collage_JackS.jpg" alt="Jack Stark." />
       </div>
     </div>
   );
