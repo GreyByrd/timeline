@@ -1,4 +1,5 @@
 import "./style-1970.css";
+import WE1970 from "../../../assets/World-Event-1970.gif";
 
 const Event1 = () => {
   return (
@@ -18,7 +19,7 @@ const Event1 = () => {
         </p>
       </div>
       <div className="col-4">
-        <img src="/src/assets/1970s-intro.gif" />
+        <img src={WE1970} />
       </div>
     </div>
   );
