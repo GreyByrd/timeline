@@ -1,5 +1,5 @@
 import "./style-1980.css";
-import jil02 from "../../../assets/1980-jil-ath.png";
+import jil02 from "../../../assets/1980-profile-jil-ath.png";
 
 const Event8 = () => {
   return (

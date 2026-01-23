@@ -7,10 +7,10 @@
   background-color: #ffffff;
   display: flex;
   justify-content: center;
-  align-content: space-around;
-  align-items: center;
+  align-content: flex-start;
+  align-items: flex-start;
   color: #231f20;
-  padding: 0 3% 0;
+  padding: 13% 3% 0;
 }
 
 .event-container-wide {
