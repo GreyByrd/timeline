@@ -3,7 +3,7 @@ import "./style-1990.css";
 const Event5 = () => {
   return (
     <div className="event-container-sm">
-      <div className="col-2">
+      <div className="col-1">
         <img src="/src/assets/Timeline-placeholder-02.png"></img>
       </div>
       <div className="col-4">

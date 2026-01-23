@@ -1,4 +1,5 @@
 import "./style-1990.css";
+import pamgann from "../../../assets/1990-pam-gann.png";
 
 const Event9 = () => {
   return (
@@ -17,7 +18,7 @@ const Event9 = () => {
         <p>Gann recognized the responsibility she carried on her shoulders.</p>
       </div>
       <div className="col-2">
-        <img src="src/assets/pam-gann-circle.png" />
+        <img src={pamgann} />
         <p className="quote">
           “We, at this college, already possess the very educated practices for
           your future here.”
