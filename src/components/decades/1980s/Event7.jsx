@@ -1,4 +1,5 @@
 import "./style-1980.css";
+import profile-laura from "../../../"
 
 const Event7 = () => {
   return (
@@ -27,7 +28,7 @@ const Event7 = () => {
         </p>
       </div>
       <div className="col-3">
-        <img src="/src/assets/1980s-placeholder-duo.png"></img>
+        <img src={profile-laura}></img>
       </div>
     </div>
   );
