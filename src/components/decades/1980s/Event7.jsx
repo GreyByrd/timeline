@@ -1,5 +1,5 @@
 import "./style-1980.css";
-import profile-laura from "../../../"
+import laura from "../../../assets/1980-profile-laura.png";
 
 const Event7 = () => {
   return (
@@ -28,7 +28,7 @@ const Event7 = () => {
         </p>
       </div>
       <div className="col-3">
-        <img src={profile-laura}></img>
+        <img src={profile - laura}></img>
       </div>
     </div>
   );
