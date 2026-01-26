@@ -14,7 +14,7 @@ const Event8 = () => {
         </p>
       </div>
       <div className="col-2">
-        <img className="ani" src={jil02}></img>
+        <img className="ani" src={jil02} alt-text="Jil Stark, January 1986."></img>
       </div>
     </div>
   );

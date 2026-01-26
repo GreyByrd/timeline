@@ -5,7 +5,11 @@ const Event3 = () => {
     <div className="event-container event-narrative panel-gray">
       <h1 className="date">April 24</h1>
       <h1 className="year-sm maroon">1980</h1>
-      <img className="photo-sm" src="/src/assets/1980-name-change.jpg" />
+      <img
+        className="photo-sm"
+        src="/src/assets/1980-name-change.jpg"
+        alt-text="Jack Stark's letter to the Board of Trustees."
+      />
       <p>
         <em>Click on the image to view larger</em>
       </p>

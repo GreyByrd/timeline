@@ -28,7 +28,10 @@ const Event7 = () => {
         </p>
       </div>
       <div className="col-3">
-        <img src={profile - laura}></img>
+        <img
+          src={laura}
+          alt-text="Collage of Laura Grisolano ’86 during her time at CMC and now."
+        ></img>
       </div>
     </div>
   );

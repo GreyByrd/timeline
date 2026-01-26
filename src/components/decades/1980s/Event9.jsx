@@ -16,7 +16,7 @@ const Event9 = () => {
       </div>
       <br />
       <div className="col-3">
-        <img src={sciac} />
+        <img src={sciac} alt-text="Collage of CMC women's sports teams." />
       </div>
     </div>
   );
