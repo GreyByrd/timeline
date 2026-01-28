@@ -25,7 +25,7 @@ const Event8 = () => {
         </a>
       </div>
       <div className="col-2">
-        <img src="/src/assets/Timeline-placeholder-02.png"></img>
+        <img src={tanya}></img>
       </div>
     </div>
   );
