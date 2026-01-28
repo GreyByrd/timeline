@@ -1,8 +1,12 @@
 import "./style-2000.css";
+import heather from "../../../assets/2000-profile-heather-a.png";
 
 const Event3 = () => {
   return (
     <div className="event-container panel-purple">
+      <div className="col-2">
+        <img src={heather} alt="Heather Antecol." />
+      </div>
       <div className="col-3 white-txt">
         <h1 className="date">October 24</h1>
         <h1 className="year-sm white-txt">2000</h1>
@@ -15,9 +19,6 @@ const Event3 = () => {
           influential research on labor economics is recognized on a global
           scale.
         </p>
-      </div>
-      <div className="col-2">
-        <p></p>
       </div>
     </div>
   );

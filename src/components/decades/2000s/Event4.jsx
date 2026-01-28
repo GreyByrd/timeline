@@ -1,4 +1,5 @@
 import "./style-2000.css";
+import suzi from "../../../assets/2000-profile-suzi.png";
 
 const Event4 = () => {
   return (
@@ -17,8 +18,8 @@ const Event4 = () => {
           </p>
         </div>
       </div>
-      <div className="col-3">
-        <img src="src/assets/placeholder.png" alt="Image." />
+      <div className="col-2">
+        <img src={suzi} alt="Suzi Nicoletti ’02." />
         <p className="caption-alt">
           During the NCAA Division III Swimming and Diving Championships in
           Oxford, Ohio, Nicoletti, who had just missed winning the 100-yard

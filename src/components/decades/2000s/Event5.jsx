@@ -4,7 +4,7 @@ const Event5 = () => {
   return (
     <div className="event-container event-narrative panel-white">
       <h1 className="date">January 1</h1>
-      <h1 className="year purple-txt">2004</h1>
+      <h1 className="year-sm purple-txt">2004</h1>
       <h2>Pioneer - Psychology Leader</h2>
       <p>
         In January 2004,{" "}

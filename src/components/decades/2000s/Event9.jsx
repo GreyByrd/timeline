@@ -1,11 +1,12 @@
 import "./style-2000.css";
+import berger from "../../../assets/women_and_leadership_berger.jpg";
 
 const Event9 = () => {
   return (
     <div className="event-container panel-gray">
       <div className="col-3">
         <h1 className="date">March 24</h1>
-        <h1 className="year purple-txt">2007</h1>
+        <h1 className="year-sm purple-txt">2007</h1>
         <h2>The Women in Real Life: The Work/Family Challenge conference</h2>
         <p>
           For the first-ever event for women (and men) of all ages, stages, and
@@ -16,7 +17,7 @@ const Event9 = () => {
         </p>
       </div>
       <div className="col-3">
-        <img src="src/assets/placeholder.png" alt="Image." />
+        <img src={berger} alt="Image." />
       </div>
     </div>
   );

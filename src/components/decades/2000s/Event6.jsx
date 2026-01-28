@@ -1,11 +1,12 @@
 import "./style-2000.css";
+import lisal from "../../../assets/2000-profile-lisal.png";
 
 const Event6 = () => {
   return (
     <div className="event-container-wide panel-white">
-      <div className="col-1">
+      <div className="col-2">
         <h1 className="date">September 16</h1>
-        <h1 className="year purple-txt">2005</h1>
+        <h1 className="year-sm purple-txt">2005</h1>
         <h2>Student Excellence</h2>
         <p>
           <strong>Lisal Smith ’07</strong>, an economics major and CMC Female
@@ -18,7 +19,7 @@ const Event6 = () => {
         </p>
       </div>
       <div className="col-2">
-        <img src="src/assets/placeholder-collage.png" alt="Image." />
+        <img src={lisal} alt="Lisal Smith ’07 with fellow Athena swimmer." />
       </div>
       <div className="col-2">
         <p className="quote quote-purple">

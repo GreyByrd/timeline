@@ -29,7 +29,7 @@ const Event8 = () => {
         </p>
       </div>
       <div className="col-3">
-        <img src="src/assets/placeholder.png" alt="Image." />
+        <img src="src/assets/Wangari-Maathai_stockoptions.png" alt="Image." />
       </div>
     </div>
   );

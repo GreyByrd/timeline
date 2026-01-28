@@ -1,9 +1,10 @@
 import "./style-2000.css";
+import asuman from "../../../assets/2000-profile-asuman.png";
 
 const Event7 = () => {
   return (
     <div className="event-container panel-gray">
-      <div className="col-2">
+      <div className="col-3">
         <div>
           <h1 className="date">April 8</h1>
           <h1 className="year-sm purple-txt">2006</h1>
@@ -17,8 +18,8 @@ const Event7 = () => {
           </p>
         </div>
       </div>
-      <div className="col-3">
-        <img src="src/assets/placeholder.png" alt="Image." />
+      <div className="col-2">
+        <img src={asuman} alt="Asuman Aksoy." />
       </div>
     </div>
   );
