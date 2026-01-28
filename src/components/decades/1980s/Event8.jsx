@@ -13,8 +13,12 @@ const Event8 = () => {
           challenges and excitement” to CMC students.
         </p>
       </div>
-      <div className="col-2">
-        <img className="ani" src={jil02} alt-text="Jil Stark, January 1986."></img>
+      <div className="col-3">
+        <img
+          className="ani"
+          src={jil02}
+          alt-text="Jil Stark, January 1986."
+        ></img>
       </div>
     </div>
   );
