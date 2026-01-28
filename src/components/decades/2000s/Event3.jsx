@@ -3,7 +3,7 @@ import "./style-2000.css";
 const Event3 = () => {
   return (
     <div className="event-container panel-purple">
-      <div className="col-2 white-txt">
+      <div className="col-3 white-txt">
         <h1 className="date">October 24</h1>
         <h1 className="year-sm white-txt">2000</h1>
         <h2>Notable Dean</h2>
@@ -15,6 +15,9 @@ const Event3 = () => {
           influential research on labor economics is recognized on a global
           scale.
         </p>
+      </div>
+      <div className="col-2">
+        <p></p>
       </div>
     </div>
   );

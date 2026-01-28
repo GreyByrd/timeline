@@ -2,25 +2,18 @@ import "./style-2000.css";
 
 const Event5 = () => {
   return (
-    <div className="event-container panel-white">
-      <div className="col-2">
-        <div>
-          <h1 className="date">January 1</h1>
-          <h1 className="year purple-txt">2004</h1>
-          <h2>Pioneer - Psychology Leader</h2>
-          <p>
-            In January 2004,{" "}
-            <strong>Psychological Sciences Professor Diane F. Harpern</strong>{" "}
-            assumed the national presidency of the American Psychological
-            Association. Halpern was director of CMC's Berger Institute for
-            Work, Family and Children from 2001-08, and the McElwee Family
-            Emerita Professor of Psychology from 2001-16.
-          </p>
-        </div>
-      </div>
-      <div className="col-3">
-        <img src="/src/assets/placeholder-collage.png" alt="Image." />
-      </div>
+    <div className="event-container event-narrative panel-white">
+      <h1 className="date">January 1</h1>
+      <h1 className="year purple-txt">2004</h1>
+      <h2>Pioneer - Psychology Leader</h2>
+      <p>
+        In January 2004,{" "}
+        <strong>Psychological Sciences Professor Diane F. Harpern</strong>{" "}
+        assumed the national presidency of the American Psychological
+        Association. Halpern was director of CMC's Berger Institute for Work,
+        Family and Children from 2001-08, and the McElwee Family Emerita
+        Professor of Psychology from 2001-16.
+      </p>
     </div>
   );
 };
