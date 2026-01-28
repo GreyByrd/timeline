@@ -1,4 +1,5 @@
 import "./style-1990.css";
+import christine from "../../../assets/1990-profile-christine-w";
 
 const Event5 = () => {
   return (
