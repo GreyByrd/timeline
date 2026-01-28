@@ -1,8 +1,9 @@
 import "./style-1990.css";
+import tanya from "../../../assets/1990-profile-tanya.png";
 
 const Event8 = () => {
   return (
-    <div className="event-container-sm">
+    <div className="event-container">
       <div className="col-3">
         <h1 className="date">May</h1>
         <h1 className="year-sm yellow-txt">1994</h1>

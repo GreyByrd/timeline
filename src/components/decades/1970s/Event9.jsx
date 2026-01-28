@@ -1,4 +1,5 @@
 import "./style-1970.css";
+import pioneers from "../../../assets/1970-pioneers.png";
 
 const Event9 = () => {
   return (
@@ -19,8 +20,7 @@ const Event9 = () => {
       </div>
       <div className="col-2">
         <img
-          s
-          src="src/assets/1970s_pioneers.png"
+          src={pioneers}
           alt="(Top) Mary Tracey ’81, the first female to win and (bottom) the first female graduate class."
         />
       </div>

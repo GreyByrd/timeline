@@ -1,4 +1,5 @@
 import "./style-1970.css";
+import kathleen from "../../../assets/1970-kathleen-campus.gif";
 
 const Event7 = () => {
   return (
@@ -28,7 +29,7 @@ const Event7 = () => {
       </div>
       <div className="col-3">
         <img
-          src="src/assets/1970s_Kathleen-campus.gif"
+          src={kathleen}
           alt="Collage of images related to Kathleen Evans early time on campus."
         />
       </div>
