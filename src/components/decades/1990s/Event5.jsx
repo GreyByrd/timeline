@@ -10,7 +10,7 @@ const Event5 = () => {
       <div className="col-3">
         <h2>Presidential Leader</h2>
         <p>
-          Christine (Wight) Huddleson ’91 was the first female president of the
+          <strong>Christine (Wight) Huddleson ’91</strong> was the first female president of the
           Associated Students of CMC — and she was no stranger to the symbolism
           of her service. “One benefit to being the first female ASCMC president
           was the chance to help overcome some of the lingering stereotypes

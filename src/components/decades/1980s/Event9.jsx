@@ -11,7 +11,7 @@ const Event9 = () => {
           CMS Athletics won men's, women's, and overall Southern California
           Intercollegiate Athletics Conference All-Sports trophies for the first
           time. In addition, Athena soccer player and future CMC Hall of Famer
-          Robyn Hollingshead was named a SCIAC Player of the Year.
+          <strong>Robyn Hollingshead</strong> was named a SCIAC Player of the Year.
         </p>
       </div>
       <br />

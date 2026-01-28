@@ -9,11 +9,12 @@ const Event9 = () => {
         <h1 className="year">1999</h1>
         <h2>Promise realized</h2>
         <p>
-          Pamela Gann began her tenure as the fourth president of CMC and first
-          woman to lead the College. During her tenure, the ranks of the tenured
-          faculty increased by 65 percent, two new research institutes and two
-          new resource centers were established, and increased opportunities for
-          graduates emerged with expanded student internship opportunities.
+          <strong>Pamela Gann</strong> began her tenure as the fourth president
+          of CMC and first woman to lead the College. During her tenure, the
+          ranks of the tenured faculty increased by 65 percent, two new research
+          institutes and two new resource centers were established, and
+          increased opportunities for graduates emerged with expanded student
+          internship opportunities.
         </p>
         <p>Gann recognized the responsibility she carried on her shoulders.</p>
       </div>

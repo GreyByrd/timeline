@@ -8,7 +8,7 @@ const Event8 = () => {
         <h1 className="year-sm maroon">1987</h1>
         <h2>Familiar face at the Ath</h2>
         <p>
-          CMC First Lady Jil Stark is named the first female director of the
+          CMC First Lady <strong>Jil Stark</strong> is named the first female director of the
           Athenaeum, carrying Marian Miner Cook’s charge to bring “intellectual
           challenges and excitement” to CMC students.
         </p>

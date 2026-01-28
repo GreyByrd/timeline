@@ -9,14 +9,15 @@ const Event8 = () => {
         <h1 className="year-sm yellow-txt">1994</h1>
         <h2>Doctor for the people</h2>
         <p>
-          When she graduated from CMC in 1994, Tanya (Remer) Altmann knew she
-          wanted to practice medicine. She didn’t know that she would go on to
-          be one of the most recognizable pediatricians in the country. In
-          addition to regular appearances on major media outlets, Dr. Altmann
-          also consults with companies on the design and marketing of products
-          for children and serves as a spokesperson for the American Academy for
-          Pediatrics. “It is just what CMCers do,” she said. “I think we are all
-          trying to make a difference in the world in our own way.”
+          When she graduated from CMC in 1994,{" "}
+          <strong>Tanya (Remer) Altmann</strong> knew she wanted to practice
+          medicine. She didn’t know that she would go on to be one of the most
+          recognizable pediatricians in the country. In addition to regular
+          appearances on major media outlets, Dr. Altmann also consults with
+          companies on the design and marketing of products for children and
+          serves as a spokesperson for the American Academy for Pediatrics. “It
+          is just what CMCers do,” she said. “I think we are all trying to make
+          a difference in the world in our own way.”
         </p>
         <a
           href="https://www.cmc.edu/news/dr-tanya-altmann-combines-media-medicine-to-educate-about-childrens-health"

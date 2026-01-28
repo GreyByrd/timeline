@@ -18,6 +18,7 @@ const Event5 = () => {
         </p>
         <p className="quote quote-white">
           <em>This is not a break with the past, but a natural evolution.</em>
+          <br />
           <span className="quote-name">
             —Jack Stark, press conference at the LA Times building
           </span>
@@ -25,6 +26,7 @@ const Event5 = () => {
       </div>
       <div className="inset">
         <img className="photo-insert" src={namechange} />
+        <br />
         <p>
           <em>
             Claremont Men's College signage is removed from Pitzer Hall in 1981

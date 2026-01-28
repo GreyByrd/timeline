@@ -10,7 +10,7 @@ const Event7 = () => {
         <h1 className="year-sm yellow-txt">1993</h1>
         <h2>Impactful Lawyer</h2>
         <p>
-          Tamara Lawson, who earned her degree in government from CMC in 1992,
+          <strong>Tamara Lawson</strong>, who earned her degree in government from CMC in 1992,
           was named the dean of the University of Washington School of Law in
           2022. Lawson returned to her alma mater the following year to deliver
           the 2023 Dr. Martin Luther King Jr. Commemorative Lecture at the
@@ -31,7 +31,7 @@ const Event7 = () => {
         <h1 className="year-sm yellow-txt">1993</h1>
         <h2>Connector at heart</h2>
         <p>
-          CMC alumna Tina Daniels, who graduated in 1993, has spent her career
+          CMC alumna <strong>Tina Daniels</strong>, who graduated in 1993, has spent her career
           bringing people together. In fact, one of her favorite books is Priya
           Parker’s The Art of Gathering, which encourages us to “examine the
           deeper assumptions behind why we gather” around an event or an idea.
