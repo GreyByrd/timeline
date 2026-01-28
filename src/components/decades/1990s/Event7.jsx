@@ -1,5 +1,5 @@
 import "./style-1990.css";
-import tamara from "../../../assets/1990-profile-tamara.png";
+import tamaratina from "../../../assets/1990-profile-tamara-tina.png";
 
 const Event7 = () => {
   return (
@@ -23,8 +23,8 @@ const Event7 = () => {
           <p>Read the article</p>
         </a>
       </div>
-      <div className="col-1">
-        <img src={tamara}></img>
+      <div className="col-2">
+        <img src={tamaratina}></img>
       </div>
       <div className="col-2">
         <h1 className="date">May</h1>
