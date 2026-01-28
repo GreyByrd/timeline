@@ -6,8 +6,8 @@ const Event8 = () => {
       <div className="col-2">
         <div>
           <h1 className="date">April 8</h1>
-          <h1 className="year purple-txt">2006</h1>
-          <h2>Notable Speakers</h2>
+          <h1 className="year-sm purple-txt">2006</h1>
+          <h2>Challenger</h2>
           <p>
             Kenyan environmentalist and political activist{" "}
             <strong>Wangari Maathai</strong>, winner of the 2004 Nobel Peace
@@ -18,18 +18,13 @@ const Event8 = () => {
           </p>
         </div>
         <p className="caption-alt">
-          The Marian Miner Cook Athenaeum has been hosted several notable
-          figures such as{" "}
-          <a className="purple-txt" href="#">
-            XYZ
-          </a>{" "}
-          and{" "}
-          <a className="purple-txt" href="#">
-            ABC
-          </a>
-          .{" "}
-          <a className="purple-txt" href="#">
-            See more xxxxx
+          <a
+            className="purple-txt"
+            href="https://www.cmc.edu/athenaeum/historical-archives-apr-26-2006"
+            aria-label="Athenaeum Archive (opens in new tab)"
+            target="_blank"
+          >
+            See more information
           </a>
         </p>
       </div>

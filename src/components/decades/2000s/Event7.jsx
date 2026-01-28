@@ -6,14 +6,14 @@ const Event7 = () => {
       <div className="col-2">
         <div>
           <h1 className="date">April 8</h1>
-          <h1 className="year purple-txt">2006</h1>
-          <h2>Faculty Excellence</h2>
+          <h1 className="year-sm purple-txt">2006</h1>
+          <h2>Influencer</h2>
           <p>
-            <strong>Professor Asuman Aksoy</strong> honored with the
+            April 2006, <strong>Professor Asuman Aksoy</strong> was the first
+            woman professor, and second in CMC history, to be honored with the
             Distinguished College or University Teaching Award from the Southern
             California-Nevada Section of the Mathematical Association of
-            America. First woman professor at CMC to be selected, and second in
-            history.
+            America.
           </p>
         </div>
       </div>

@@ -5,18 +5,27 @@ const Event4 = () => {
     <div className="event-container panel-white">
       <div className="col-2">
         <div>
-          <h1 className="date">January 1</h1>
-          <h1 className="year purple-txt">2004</h1>
-          <h2>Faculty Excellence</h2>
+          <h1 className="date purple-txt">March 16</h1>
+          <h1 className="year-sm purple-txt">2002</h1>
+          <h2>Champion Swimmer</h2>
           <p>
-            <strong>Psychological Sciences Professor Diane F. Harpern</strong>{" "}
-            and director of the Berger Institute, assumes the national
-            presidency of the American Psychological Association.
+            In 2002, <strong>Suzy Nicoletti ’02</strong> became the first woman
+            to be a CMS national swimming champion with her CMS and SCIAC
+            record-breaking time of 2:21.17 for the 200-yard breaststroke during
+            the NCAA Division III Swimming and Diving Championships in Oxford,
+            Ohio.
           </p>
         </div>
       </div>
       <div className="col-3">
-        <img src="/src/assets/placeholder-collage.png" alt="Image." />
+        <img src="src/assets/placeholder.png" alt="Image." />
+        <p className="caption-alt">
+          During the NCAA Division III Swimming and Diving Championships in
+          Oxford, Ohio, Nicoletti, who had just missed winning the 100-yard
+          breaststroke (her strongest event) during Friday's finals, went on the
+          next day to win the 200-yard breaststroke with a CMS and SCIAC record
+          time of 2:21.17.
+        </p>
       </div>
     </div>
   );
