@@ -3,7 +3,7 @@ import harriet from "../../../assets/1990-profile-harriet.png";
 
 const Event4 = () => {
   return (
-    <div className="event-container-sm">
+    <div className="event-container">
       <h1 className="honors-yellow">Notables</h1>
       <div className="col-3">
         <h1 className="date">May</h1>

@@ -1,13 +1,13 @@
 import "./style-1990.css";
-import christine from "../../../assets/1990-profile-christine-w";
+import christine from "../../../assets/1990-profile-christine-w.png";
 
 const Event5 = () => {
   return (
-    <div className="event-container-sm">
-      <div className="col-1">
-        <img src="/src/assets/Timeline-placeholder-02.png"></img>
+    <div className="event-container">
+      <div className="col-2">
+        <img src={christine}></img>
       </div>
-      <div className="col-4">
+      <div className="col-3">
         <h2>Presidential Leader</h2>
         <p>
           Christine (Wight) Huddleson ’91 was the first female president of the
