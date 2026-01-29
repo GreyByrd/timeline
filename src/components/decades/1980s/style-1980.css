@@ -26,8 +26,9 @@ h1.maroon {
 }
 
 h1.honors-gray {
-  font-size: 8rem;
-  letter-spacing: -0.4rem;
+  font-size: 5rem;
+  margin-bottom: 25px;
+  letter-spacing: -0.2ßrem;
   color: #e3e3e3;
   position: absolute;
   top: 10px;
@@ -115,5 +116,15 @@ a.maroon:hover {
   .celebration {
     height: 50vh;
     width: 100%;
+  }
+
+  h1.honors-gray {
+    font-size: 2rem;
+    letter-spacing: 0rem;
+    color: #e3e3e3;
+    position: relative;
+    border-bottom: 1px solid #e3e3e3;
+    margin-bottom: 35px;
+    padding-bottom: 0;
   }
 }
