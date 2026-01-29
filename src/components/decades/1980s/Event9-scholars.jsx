@@ -4,7 +4,7 @@ import laura from "../../../assets/1980-profile-laura-g.png";
 const Event9 = () => {
   return (
     <div className="event-container panel-maroon">
-      <h1 className="honors-gray">Trailblazers</h1>
+      <h1 className="trailblazer-gray">Trailblazers</h1>
       <div className="col-3">
         <h1 className="year-sm white-txt">1985-1988</h1>
         <h2>Scholars of distinction</h2>
