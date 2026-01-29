@@ -82,26 +82,6 @@ a.maroon:hover {
   );
   color: #231f20;
 }
-.multi-gradient {
-  background: linear-gradient(
-    45deg,
-    hsla(269, 49%, 37%, 1) 0%,
-    hsla(347, 68%, 39%, 1) 54%,
-    hsla(45, 67%, 52%, 1) 100%
-  );
-  background: -moz-linear-gradient(
-    45deg,
-    hsla(269, 49%, 37%, 1) 0%,
-    hsla(347, 68%, 39%, 1) 54%,
-    hsla(45, 67%, 52%, 1) 100%
-  );
-  background: -webkit-linear-gradient(
-    45deg,
-    hsla(269, 49%, 37%, 1) 0%,
-    hsla(347, 68%, 39%, 1) 54%,
-    hsla(45, 67%, 52%, 1) 100%
-  );
-}
 
 /* images */
 .interstitial-01 {
