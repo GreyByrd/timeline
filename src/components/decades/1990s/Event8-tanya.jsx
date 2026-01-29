@@ -21,6 +21,7 @@ const Event8 = () => {
           in the world in our own way.”
         </p>
         <a
+          className="yellow-txt"
           href="https://www.cmc.edu/news/dr-tanya-altmann-combines-media-medicine-to-educate-about-childrens-health"
           target="_blank"
         >
