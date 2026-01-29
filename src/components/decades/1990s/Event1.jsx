@@ -1,4 +1,5 @@
 import "./style-1990.css";
+import WE1990 from "../../../assets/1990-World-Event.gif";
 
 const Event1 = () => {
   return (
@@ -24,14 +25,7 @@ const Event1 = () => {
         </p>
       </div>
       <div className="col-3">
-        <video
-          src="/src/assets/cloud-mountain.mp4"
-          type="video/mp4"
-          autoPlay="true"
-          controls
-          loop
-          alt="Clouds blowing off a mountain."
-        />
+        <img src={WE1990} />
       </div>
     </div>
   );
