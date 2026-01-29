@@ -4,15 +4,15 @@ import Event2 from "./1980s/Event2-name";
 import Event3 from "./1980s/Event3-JSletter";
 import Event4 from "./1980s/Event4-decision";
 import Event5 from "./1980s/Event5-mari";
-import Event4 from "./1980s/Event6-decision02";
-import Event6 from "./1980s/Event7-namechange";
-import Event7 from "./1980s/Event8-celebration";
-import Event8 from "./1980s/Event9-ath";
-import Event9 from "./1980s/Event10-scholars";
-import Event10 from "./1980s/Event11-jil";
-import Event11 from "./1980s/Event12-sciac";
-import Event12 from "./1980s/Event13-lorraine";
-import Event13 from "./1980s/Event14";
+import Event6 from "./1980s/Event6-decision02";
+import Event7 from "./1980s/Event7-namechange";
+import Event8 from "./1980s/Event8-celebration";
+import Event9 from "./1980s/Event9-ath";
+import Event10 from "./1980s/Event10-scholars";
+import Event11 from "./1980s/Event11-jil";
+import Event12 from "./1980s/Event12-sciac";
+import Event13 from "./1980s/Event13-lorraine";
+import Event14 from "./1980s/Event14";
 
 const Decade1980s = () => {
   return (
@@ -30,6 +30,7 @@ const Decade1980s = () => {
       <Event11 id={11} />
       <Event12 id={12} />
       <Event13 id={13} />
+      <Event14 id={14} />
     </ScrollyElement>
   );
 };
