@@ -7,7 +7,7 @@ const Event6 = () => {
       <h1 className="year">1991</h1>
       <h2>Growing bigger</h2>
       <p>
-        The Board approves an enrollment increase to 1,000 students and beings
+        The Board approved an enrollment increase to 1,000 students and began
         the planning process for a major fundraising campaign. Launched to
         coincide with the College’s 50th anniversary in 1996, “The Campaign for
         CMC: Fifty Years of Leadership.”

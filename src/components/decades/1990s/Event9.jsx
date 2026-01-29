@@ -11,7 +11,7 @@ const Event9 = () => {
         <p>
           <strong>Pamela Gann</strong> began her tenure as the fourth president
           of CMC and first woman to lead the College. During her tenure, the
-          ranks of the tenured faculty increased by 65 percent, two new research
+          ranks of the faculty increased by 65 percent, two new research
           institutes and two new resource centers were established, and
           increased opportunities for graduates emerged with expanded student
           internship opportunities.
@@ -21,11 +21,8 @@ const Event9 = () => {
       <div className="col-2">
         <img src={pamgann} />
         <p className="quote">
-          “We, at this college, already possess the very educated practices for
-          your future here.”
-          <p className="quote-name">
-            <em>—September 99</em>
-          </p>
+          “Creating opportunities for educational attainment has been a guiding
+          principle throught my career.”
         </p>
       </div>
     </div>

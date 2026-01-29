@@ -5,12 +5,10 @@ const Event2 = () => {
     <div className="event-container event-narrative panel-white">
       <div className="event-narrative-content">
         <p className="lead-text">
-          Claremont Men’s College found itself at a crossroads, confronting a
-          consequential question:{" "}
-          <em>Who should we prepare for responsible leadership?</em> As with so
-          many other topics, the College approached the question thoughtfully
-          and thoroughly, and the earliest seeds of transformation would soon
-          take root
+          At Claremont McKenna College, the decade opened with a troubling
+          report that diversity in the faculty was lagging behind the College’s
+          ambitions. As CMC’s move to co-education passed through its second
+          decade, would the results match the potential?
         </p>
       </div>
     </div>

@@ -4,8 +4,7 @@ const Event6 = () => {
   return (
     <div className="event-container event-narrative panel-purple">
       <div className="event-narrative-content">
-        <h1 className="date">April 24</h1>
-        <h1 className="year white-txt">1975</h1>
+        <h1 className="year white-txt">1973</h1>
         <p>
           As the summer of 1973 began, support on the Board subcommittee was
           strong. Admission of women would boost the applicant pool; women were
@@ -15,8 +14,7 @@ const Event6 = () => {
           diminished fundraising and a loss of CMC’s unique identity within the
           Claremont Colleges and American higher education as a whole. The
           debate continued at the highest levels of the College for nearly three
-          years. ring women was scheduled to enroll in the academic year
-          1976-1977.
+          years.
         </p>
         <p>
           Read a{" "}
@@ -25,9 +23,8 @@ const Event6 = () => {
             target="_blank"
             aria-label="CMC Co-education Archives (opens in new tab)"
           >
-            list of arguments in favor and opposed to co-education
+            list of arguments in favor and opposed to co-education.
           </a>{" "}
-          from January, 1974
         </p>
       </div>
     </div>

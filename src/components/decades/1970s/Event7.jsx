@@ -7,9 +7,9 @@ const Event7 = () => {
       <div className="col-2">
         <h1 className="date">March</h1>
         <h1 className="year purple-txt">1976</h1>
-        <h2>First women on campus</h2>
+        <h2>First woman on campus</h2>
         <p>
-          Coeducation is official, and Kathleen Evans Hurley ’80 P’07 from
+          Co-education is official, and Kathleen Evans Hurley ’80 P’07 from
           Colorado is the first woman to be admitted and enroll at CMC. “Miss
           Evans typifies the student Claremont Men’s College strives to admit,”
           said President Stark in a{" "}

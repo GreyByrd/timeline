@@ -10,7 +10,7 @@ const Event2 = () => {
           <em>Who should we prepare for responsible leadership?</em> As with so
           many other topics, the College approached the question thoughtfully
           and thoroughly, and the earliest seeds of transformation would soon
-          take root
+          take root.
         </p>
       </div>
     </div>

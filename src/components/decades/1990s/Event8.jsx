@@ -14,16 +14,17 @@ const Event8 = () => {
           medicine. She didn’t know that she would go on to be one of the most
           recognizable pediatricians in the country. In addition to regular
           appearances on major media outlets, Dr. Altmann also consults with
-          companies on the design and marketing of products for children and
-          serves as a spokesperson for the American Academy for Pediatrics. “It
-          is just what CMCers do,” she said. “I think we are all trying to make
-          a difference in the world in our own way.”
+          companies on the design and marketing of products for children, serves
+          as a spokesperson for the American Academy for Pediatrics, and also
+          serves on the board of the CMC Alumni Association. “It is just what
+          CMCers do,” she said. “I think we are all trying to make a difference
+          in the world in our own way.”
         </p>
         <a
           href="https://www.cmc.edu/news/dr-tanya-altmann-combines-media-medicine-to-educate-about-childrens-health"
           target="_blank"
         >
-          <p>Read the article</p>
+          <p>Read more about Dr. Altmann</p>
         </a>
       </div>
       <div className="col-2">

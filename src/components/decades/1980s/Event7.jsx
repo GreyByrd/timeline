@@ -6,8 +6,8 @@ const Event7 = () => {
     <div className="event-container panel-maroon">
       <h1 className="honors-gray">Trailblazers</h1>
       <div className="col-3">
-        <h1 className="year-sm white-txt">1985</h1>
-        <h2>CMC’s first female Marshall Scholar</h2>
+        <h1 className="year-sm white-txt">1985-1988</h1>
+        <h2>Scholars of distinction</h2>
         <p>
           <strong>Michele Walsh ’85</strong>, a ROTC cadet with majors in
           psychology and philosophy, became the first woman and third Marshall
@@ -16,9 +16,8 @@ const Event7 = () => {
           she is currently on the faculty.
         </p>
         <br />
-        <h2>Scholars of distinction</h2>
         <p>
-          <strong>Laura (May) Grisolano ’86</strong> and{" "}
+          Shortly after, <strong>Laura (May) Grisolano ’86</strong> and{" "}
           <strong>Diane Silver ’88</strong> became CMC's first women students to
           become Truman Scholars — and third and fourth Truman Scholars in CMC
           history. A CMC Trustee and past president of the CMC Alumni

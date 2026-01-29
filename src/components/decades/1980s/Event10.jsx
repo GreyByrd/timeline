@@ -4,8 +4,7 @@ const Event10 = () => {
   return (
     <div className="event-container panel-gray">
       <div className="col-2">
-        <h1 className="date">July</h1>
-        <h1 className="year-sm maroon-txt">1983</h1>
+        <h1 className="year-sm maroon-txt">1988</h1>
         <h2>Alumni Association breaks barriers</h2>
         <p>
           In 1988, <strong>Lorraine Bains ’88</strong> became the first woman

@@ -4,7 +4,7 @@ const Event1 = () => {
   return (
     <div className="cover">
       <h2 className="maroon-txt text-align-center">
-        Leading <em>Together</em>
+        Leading, <em>Together</em>
       </h2>
       <div className="cover-content">
         <div className="col-2">

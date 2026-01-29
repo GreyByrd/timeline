@@ -11,7 +11,7 @@ const Event8 = () => {
         />
       </div>
       <div className="col-2">
-        <h1 className="date">March</h1>
+        <h1 className="date">Fall</h1>
         <h1 className="year purple-txt">1976</h1>
         <p>
           With its first co-ed orientation, the fall semester of the 1976-77
@@ -20,18 +20,6 @@ const Event8 = () => {
           of the incoming class and resided in Wohlford, Benson, and Claremont
           Halls. The Starks’ warmth and welcoming attitude helped these
           trailblazers adjust to life on campus.
-        </p>
-        <p>
-          Read a{" "}
-          <a
-            className="purple-txt"
-            href="https://cmcarchives.omeka.net/exhibits/show/notformenonly/item/235"
-            target="_blank"
-            aria-label="CMC Co-education Archive (opens in new tab)"
-          >
-            list of arguments in favor and opposed to co-education
-          </a>{" "}
-          from January, 1974
         </p>
         <p className="quote quote-purple">
           <em>

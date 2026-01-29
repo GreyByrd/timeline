@@ -5,7 +5,7 @@ const Event5 = () => {
   return (
     <div className="event-container event-narrative panel-maroon">
       <div className="event-content">
-        <h1 className="date">July 9</h1>
+        <h1 className="date">October 15</h1>
         <h1 className="year white-txt">1981</h1>
         <h2>
           <span className="strikethrough">Claremont Men’s College</span> becomes
