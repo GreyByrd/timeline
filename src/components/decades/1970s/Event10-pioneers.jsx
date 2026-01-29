@@ -19,7 +19,7 @@ const Event10 = () => {
           the College were women.
         </p>
       </div>
-      <div className="col-2">
+      <div className="col-3">
         <img
           src={pioneers}
           alt="(Top) Mary Tracey ’81, the first female to win and (bottom) the first female graduate class."

@@ -1,5 +1,5 @@
 import "./style-1980.css";
-import harriet from "../../../assets/1990-profile-harriet.png";
+import mari from "../../../assets/1980-profile-mari.png";
 
 const Event5 = () => {
   return (
@@ -12,7 +12,8 @@ const Event5 = () => {
           and Political Science as part of the College’s first four-year co-ed
           class. An expert in financial planning and money management, she
           serves as co-chair of{" "}
-          <a className="maroon-txt"
+          <a
+            className="maroon-txt"
             href="https://www.cmc.edu/50-coeducation"
             target="_blank"
             aria-label="CMC 50 years of Co-education (opens in new tab)"
@@ -23,7 +24,7 @@ const Event5 = () => {
         </p>
       </div>
       <div className="col-2">
-        <img src={harriet} />
+        <img src={mari} />
       </div>
     </div>
   );
