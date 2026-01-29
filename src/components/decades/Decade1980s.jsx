@@ -1,16 +1,16 @@
 import ScrollyElement from "react-scrolly-telling/element";
 import Event1 from "./1980s/Event1";
-import Event2 from "./1980s/Event2";
-import Event3 from "./1980s/Event3";
-import Event4 from "./1980s/Event4";
-import Event5 from "./1980s/Event5";
-import Event6 from "./1980s/Event6";
-import Event7 from "./1980s/Event7";
-import Event8 from "./1980s/Event8";
-import Event9 from "./1980s/Event9";
-import Event10 from "./1980s/Event10";
-import Event11 from "./1980s/Event11";
-import Event12 from "./1980s/Event12";
+import Event2 from "./1980s/Event2-name";
+import Event3 from "./1980s/Event3-JSletter";
+import Event4 from "./1980s/Event4-decision";
+import Event5 from "./1980s/Event5-mari";
+import Event6 from "./1980s/Event6-namechange";
+import Event7 from "./1980s/Event7-celebration";
+import Event8 from "./1980s/Event8-ath";
+import Event9 from "./1980s/Event9-scholars";
+import Event10 from "./1980s/Event10-jil";
+import Event11 from "./1980s/Event11-sciac";
+import Event12 from "./1980s/Event12-lorraine";
 import Event13 from "./1980s/Event13";
 
 const Decade1980s = () => {
