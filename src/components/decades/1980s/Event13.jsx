@@ -2,9 +2,9 @@ import "./style-1980.css";
 
 const Event13 = () => {
   return (
-    <div className="event-container-sm panel-maroon">
+    <div className="event-container panel-maroon">
       <div className="col-4">
-        <h1 className="year white">1989</h1>
+        <h1 className="year-sm white">1989</h1>
         <h2>Global greatness</h2>
         <p>
           As the decade came to a close, CMC’s reach began to encircle the

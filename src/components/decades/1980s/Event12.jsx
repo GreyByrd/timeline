@@ -10,7 +10,16 @@ const Event12 = () => {
           In 1988, <strong>Lorraine Bains ’88</strong> became the first woman
           and first woman of color to serve as the CMC Alumni Association
           President. A banking executive, she continues to serve CMC as a
-          Trustee and a co-chair of CMC’s co-ed celebration.
+          Trustee and a co-chair of{" "}
+          <a
+            className="maroon-txt"
+            href="https://www.cmc.edu/50-coeducation"
+            target="_blank"
+            aria-label="CMC 50 years of Co-education (opens in new tab)"
+          >
+            CMC’s co-ed celebration
+          </a>
+          .
         </p>
       </div>
       <div className="col-3">

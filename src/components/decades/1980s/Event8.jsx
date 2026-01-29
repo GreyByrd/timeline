@@ -14,11 +14,11 @@ const Event8 = () => {
           Marian Miner Cook, broke ground on a new building. Ms. Cook’s gift
           continued the tradition of her late husband, John Brown Cook, who
           sponsored congressional and senatorial internships, a lecture series,
-          and a library. "My husband was a creative man in his business and
+          and a library. “My husband was a creative man in his business and
           philanthropic interests. I shared many of his interests, and he shared
           many of mine,” said Ms. Cook. “Together, we had a challenging and
           exciting life. I hope the Athenaeum will help students to experience
-          similar intellectual challenges and excitement."
+          similar intellectual challenges and excitement.”
         </p>
       </div>
       <div className="col-3">

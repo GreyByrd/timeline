@@ -18,7 +18,7 @@ const Event9 = () => {
         <br />
         <p>
           Shortly after, <strong>Laura (May) Grisolano ’86</strong> and{" "}
-          <strong>Diane Silver ’88</strong> became CMC's first women students to
+          <strong>Diane Silver ’88</strong> became CMC’s first women students to
           become Truman Scholars — and third and fourth Truman Scholars in CMC
           history. A CMC Trustee and past president of the CMC Alumni
           Association, Grisolano earned her J.D. from the University of Chicago
