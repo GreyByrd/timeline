@@ -28,12 +28,12 @@ const Event4 = () => {
             letter
           </a>{" "}
           to the Board.
-          <img
-            className="photo-insert-btn"
-            src={notformen}
-            alt="Button that says Not For Men Only."
-          />
         </p>
+        <img
+          className="photo-insert-btn"
+          src={notformen}
+          alt="Button that says Not For Men Only."
+        />
       </div>
       <div className="col-3">
         <img src={stark} alt="Jack Stark."></img>

@@ -355,10 +355,12 @@ img {
   display: flex;
 }
 
-.photo-inset-btn {
-  width: 30%;
+.photo-insert-btn {
+  width: 25%;
   float: right;
   rotate: 22deg;
+  margin-right: -25px;
+  margin-top: -4em;
 }
 
 .profile-duo-02 {
@@ -448,5 +450,13 @@ img.ani:hover {
 
   .caption {
     width: 100%;
+  }
+
+  .photo-insert-btn {
+    width: 30%;
+    float: left;
+    rotate: 22deg;
+    margin-left: 0;
+    margin-top: 0;
   }
 }
