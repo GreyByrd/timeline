@@ -1,5 +1,5 @@
 import "./style-1970.css";
-import pioneers from "../../../assets/1970-pioneers.png";
+import pioneers from "../../../assets/1970-pioneers-updated.png";
 
 const Event10 = () => {
   return (

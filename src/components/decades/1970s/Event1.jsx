@@ -1,5 +1,5 @@
 import "./style-1970.css";
-import WE1970 from "../../../assets/World-Event-1970.gif";
+import WE1970 from "../../../assets/World-Event-1970-updated.gif";
 
 const Event1 = () => {
   return (
