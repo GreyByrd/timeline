@@ -66,17 +66,17 @@ a.maroon:hover {
 
 .yellow-gradient {
   background: linear-gradient(
-    180deg,
+    0deg,
     hsla(0, 0%, 100%, 1) 0%,
     hsla(45, 67%, 52%, 1) 80%
   );
   background: -moz-linear-gradient(
-    90deg,
+    0deg,
     hsla(0, 0%, 100%, 1) 0%,
     hsla(45, 67%, 52%, 1) 80%
   );
   background: -webkit-linear-gradient(
-    90deg,
+    0deg,
     hsla(0, 0%, 100%, 1) 0%,
     hsla(45, 67%, 52%, 1) 80%
   );
