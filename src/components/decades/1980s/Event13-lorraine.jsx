@@ -1,7 +1,7 @@
 import "./style-1980.css";
 import lorraine from "../../../assets/1980-profile-lorraine.png";
 
-const Event12 = () => {
+const Event13 = () => {
   return (
     <div className="event-container event-narrative panel-gray">
       <img src={lorraine}></img>
@@ -26,4 +26,4 @@ const Event12 = () => {
   );
 };
 
-export default Event12;
+export default Event13;

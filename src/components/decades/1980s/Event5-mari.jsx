@@ -3,7 +3,7 @@ import mari from "../../../assets/1980-profile-mari.png";
 
 const Event5 = () => {
   return (
-    <div className="event-container-sm panel-maroon">
+    <div className="event-container-sm multi-gradient">
       <div className="col-3">
         <h1 className="year-sm white-txt">1980</h1>
         <h2>Noteworthy Pioneer</h2>
@@ -13,7 +13,7 @@ const Event5 = () => {
           class. An expert in financial planning and money management, she
           serves as co-chair of{" "}
           <a
-            className="maroon-txt"
+            className="white-txt"
             href="https://www.cmc.edu/50-coeducation"
             target="_blank"
             aria-label="CMC 50 years of Co-education (opens in new tab)"

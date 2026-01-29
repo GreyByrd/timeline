@@ -4,14 +4,15 @@ import Event2 from "./1980s/Event2-name";
 import Event3 from "./1980s/Event3-JSletter";
 import Event4 from "./1980s/Event4-decision";
 import Event5 from "./1980s/Event5-mari";
-import Event6 from "./1980s/Event6-namechange";
-import Event7 from "./1980s/Event7-celebration";
-import Event8 from "./1980s/Event8-ath";
-import Event9 from "./1980s/Event9-scholars";
-import Event10 from "./1980s/Event10-jil";
-import Event11 from "./1980s/Event11-sciac";
-import Event12 from "./1980s/Event12-lorraine";
-import Event13 from "./1980s/Event13";
+import Event4 from "./1980s/Event6-decision02";
+import Event6 from "./1980s/Event7-namechange";
+import Event7 from "./1980s/Event8-celebration";
+import Event8 from "./1980s/Event9-ath";
+import Event9 from "./1980s/Event10-scholars";
+import Event10 from "./1980s/Event11-jil";
+import Event11 from "./1980s/Event12-sciac";
+import Event12 from "./1980s/Event13-lorraine";
+import Event13 from "./1980s/Event14";
 
 const Decade1980s = () => {
   return (

@@ -1,6 +1,6 @@
 import "./style-1980.css";
 
-const Event7 = () => {
+const Event8 = () => {
   return (
     <div className="img-container panel-gray">
       <img
@@ -11,4 +11,4 @@ const Event7 = () => {
   );
 };
 
-export default Event7;
+export default Event8;

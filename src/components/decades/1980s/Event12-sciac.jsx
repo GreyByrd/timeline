@@ -1,7 +1,7 @@
 import "./style-1980.css";
 import sciac from "../../../assets/1980-sciac-wins.png";
 
-const Event11 = () => {
+const Event12 = () => {
   return (
     <div className="event-container panel-maroon">
       <div className="col-2">
@@ -23,4 +23,4 @@ const Event11 = () => {
   );
 };
 
-export default Event11;
+export default Event12;

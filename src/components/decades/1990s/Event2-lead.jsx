@@ -2,8 +2,8 @@ import "./style-1990.css";
 
 const Event2 = () => {
   return (
-    <div className="event-container event-narrative panel-white">
-      <div className="event-narrative-content">
+    <div className="event-container-sm yellow-gradient">
+      <div className="col-3">
         <p className="lead-text">
           At Claremont McKenna College, the decade opened with a troubling
           report that diversity in the faculty was lagging behind the College’s

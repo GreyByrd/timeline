@@ -1,7 +1,7 @@
 import "./style-1980.css";
 import namechange from "../../../assets/1980-name-change-sign.jpg";
 
-const Event6 = () => {
+const Event7 = () => {
   return (
     <div className="event-container event-narrative">
       <div className="event-content">
@@ -37,4 +37,4 @@ const Event6 = () => {
   );
 };
 
-export default Event6;
+export default Event7;

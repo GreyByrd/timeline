@@ -1,7 +1,7 @@
 import "./style-1980.css";
 import laura from "../../../assets/1980-profile-laura-g.png";
 
-const Event9 = () => {
+const Event11 = () => {
   return (
     <div className="event-container panel-maroon">
       <h1 className="honors-gray">Trailblazers</h1>
@@ -36,4 +36,4 @@ const Event9 = () => {
   );
 };
 
-export default Event9;
+export default Event11;

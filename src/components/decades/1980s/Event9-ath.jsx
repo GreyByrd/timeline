@@ -1,7 +1,7 @@
 import "./style-1980.css";
 import ath from "../../../assets/1980-ath.png";
 
-const Event8 = () => {
+const Event9 = () => {
   return (
     <div className="event-container-wide panel-gray">
       <div className="col-2">
@@ -28,4 +28,4 @@ const Event8 = () => {
   );
 };
 
-export default Event8;
+export default Event9;
