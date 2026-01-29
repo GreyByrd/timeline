@@ -98,7 +98,7 @@ a.maroon:hover {
   border-width: 5px;
 }
 .gradient-border-multi {
-  margin: 15px;
+  margin: 15px 25px;
   border-width: 14px;
   border-style: solid;
   border-image: linear-gradient(45deg, #a7203d, #5d308d) 1;
@@ -115,7 +115,7 @@ a.maroon:hover {
 }
 
 .photo-sm {
-  width: 60%;
+  width: 80%;
 }
 
 .photo-insert {

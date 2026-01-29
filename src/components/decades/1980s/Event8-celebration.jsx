@@ -3,10 +3,7 @@ import "./style-1980.css";
 const Event8 = () => {
   return (
     <div className="img-container panel-gray">
-      <img
-        className="fullwidth"
-        src="/src/assets/name-change-celebration-collage.png"
-      />
+      <img className="fullwidth" src="/src/assets/1980-name-change-02.jpg" />
     </div>
   );
 };

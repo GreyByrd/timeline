@@ -1,5 +1,5 @@
 import "./style-1980.css";
-import laura from "../../../assets/1980-profile-laura-g.png";
+import laura from "../../../assets/1980-profile-laura-diane.png";
 
 const Event11 = () => {
   return (
