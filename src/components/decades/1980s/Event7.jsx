@@ -11,4 +11,4 @@ const Event7 = () => {
   );
 };
 
-export default Event4;
+export default Event7;
