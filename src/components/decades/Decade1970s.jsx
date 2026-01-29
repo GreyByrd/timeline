@@ -1,14 +1,14 @@
 import ScrollyElement from "react-scrolly-telling/element";
 import Event1 from "./1970s/Event1";
-import Event2 from "./1970s/Event2";
-import Event3 from "./1970s/Event3";
-import Event4 from "./1970s/Event4";
-import Event5 from "./1970s/Event5";
-import Event6 from "./1970s/Event6";
-import Event7 from "./1970s/Event7";
-import Event8 from "./1970s/Event8";
-import Event9 from "./1970s/Event9";
-import Event10 from "./1970s/Event10";
+import Event2 from "./1970s/Event2-lead";
+import Event3 from "./1970s/Event3-jil";
+import Event4 from "./1970s/Event4-JS";
+import Event5 from "./1970s/Event5-edessa";
+import Event6 from "./1970s/Event6-board";
+import Event7 from "./1970s/Event7-vote";
+import Event8 from "./1970s/Event8-kathleen";
+import Event9 from "./1970s/Event9-coed";
+import Event10 from "./1970s/Event10-pioneers";
 import Event11 from "./1970s/Event11";
 
 const Decade1970s = () => {

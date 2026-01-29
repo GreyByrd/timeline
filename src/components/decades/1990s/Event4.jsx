@@ -10,7 +10,7 @@ const Event4 = () => {
         <h1 className="year-sm yellow-txt">1991</h1>
         <h2>Presidential Leader</h2>
         <p>
-          Thirty-two years after she graduated from Claremont-McKenna College,
+          Thirty-two years after she graduated from Claremont-McKenna College,{" "}
           <strong>Harriet Nembhard '91</strong> was{" "}
           <a
             className="yellow-txt"
