@@ -1,26 +1,26 @@
 import "./style-1980.css";
+import sciac from "../../../assets/1980-sciac-wins.png";
 
-const Event10 = () => {
+const Event11 = () => {
   return (
-    <div className="event-container-sm panel-maroon">
-      <div className="col-4">
-        <h1 className="year white">1989</h1>
-        <h2>Global greatness</h2>
+    <div className="event-container panel-maroon">
+      <div className="col-2">
+        <h1 className="year-sm white-txt">1988</h1>
+        <h2>Athletic achievement</h2>
         <p>
-          As the decade came to a close, CMC’s reach began to encircle the
-          globe. The Student Investment Fund was the largest and the most
-          successful student organization on campus. CMC had seven major
-          research institutes on campus by 1989. The Washington Program was
-          recognized as one of the best in the nation’s capital, with students
-          and graduates making policy, leading change, and engaging on the
-          international stage. Emerging partnerships in management and
-          engineering positioned the College as a force for science and
-          technological education. Women were at the front of each of these
-          developments, leading change and charting a path to the future.
+          CMS Athletics won men's, women's, and overall Southern California
+          Intercollegiate Athletics Conference All-Sports trophies for the first
+          time. In addition, Athena soccer player and future CMC Hall of Famer
+          <strong> Robyn Hollingshead</strong> was named a SCIAC Player of the
+          Year.
         </p>
+      </div>
+      <br />
+      <div className="col-3">
+        <img src={sciac} alt-text="Collage of CMC women's sports teams." />
       </div>
     </div>
   );
 };
 
-export default Event10;
+export default Event11;

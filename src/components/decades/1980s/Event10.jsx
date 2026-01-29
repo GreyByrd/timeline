@@ -1,20 +1,24 @@
 import "./style-1980.css";
+import jil02 from "../../../assets/1980-profile-jil-ath.png";
 
 const Event10 = () => {
   return (
-    <div className="event-container panel-gray">
-      <div className="col-2">
-        <h1 className="year-sm maroon-txt">1988</h1>
-        <h2>Alumni Association breaks barriers</h2>
+    <div className="event-container-sm panel-white">
+      <div className="col-3">
+        <h1 className="year-sm maroon">1987</h1>
+        <h2>Familiar face at the Ath</h2>
         <p>
-          In 1988, <strong>Lorraine Bains ’88</strong> became the first woman
-          and first woman of color to serve as the CMC Alumni Association
-          President. A banking executive, she continues to serve CMC as a
-          Trustee and a co-chair of CMC’s co-ed celebration.
+          CMC First Lady <strong>Jil Stark</strong> is named the first female
+          director of the Athenaeum, carrying Marian Miner Cook’s charge to
+          activate the intellectual life of CMC students.
         </p>
       </div>
       <div className="col-3">
-        <img src="/src/assets/1980s-placeholder.png"></img>
+        <img
+          className="ani"
+          src={jil02}
+          alt-text="Jil Stark, January 1986."
+        ></img>
       </div>
     </div>
   );

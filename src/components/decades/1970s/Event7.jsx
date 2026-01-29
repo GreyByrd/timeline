@@ -4,7 +4,7 @@ const Event7 = () => {
   return (
     <div className="event-container event-narrative">
       <div className="event-narrative-content">
-        <h1 className="year">1973</h1>
+        <h1 className="year purple-txt">1973</h1>
         <p>
           Finally, the Board held a special meeting to determine the way
           forward. CMC’s{" "}

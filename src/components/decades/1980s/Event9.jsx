@@ -1,23 +1,36 @@
 import "./style-1980.css";
-import sciac from "../../../assets/1980-sciac-wins.png";
+import laura from "../../../assets/1980-profile-laura-g.png";
 
 const Event9 = () => {
   return (
     <div className="event-container panel-maroon">
-      <div className="col-2">
-        <h1 className="year-sm white-txt">1988</h1>
-        <h2>Athletic achievement</h2>
+      <h1 className="honors-gray">Trailblazers</h1>
+      <div className="col-3">
+        <h1 className="year-sm white-txt">1985-1988</h1>
+        <h2>Scholars of distinction</h2>
         <p>
-          CMS Athletics won men's, women's, and overall Southern California
-          Intercollegiate Athletics Conference All-Sports trophies for the first
-          time. In addition, Athena soccer player and future CMC Hall of Famer
-          <strong> Robyn Hollingshead</strong> was named a SCIAC Player of the
-          Year.
+          <strong>Michele Walsh ’85</strong>, a ROTC cadet with majors in
+          psychology and philosophy, became the first woman and third Marshall
+          Scholar in CMC history during her senior year. She would go on to
+          study at Oxford and earn her Ph.D. at the University of Arizona, where
+          she is currently on the faculty.
+        </p>
+        <br />
+        <p>
+          Shortly after, <strong>Laura (May) Grisolano ’86</strong> and{" "}
+          <strong>Diane Silver ’88</strong> became CMC's first women students to
+          become Truman Scholars — and third and fourth Truman Scholars in CMC
+          history. A CMC Trustee and past president of the CMC Alumni
+          Association, Grisolano earned her J.D. from the University of Chicago
+          and is a licensed mediator practicing in Arizona. Silver has built a
+          career as an advocate for good governance and environmental education.
         </p>
       </div>
-      <br />
       <div className="col-3">
-        <img src={sciac} alt-text="Collage of CMC women's sports teams." />
+        <img
+          src={laura}
+          alt-text="Collage of Laura Grisolano ’86 during her time at CMC and now."
+        ></img>
       </div>
     </div>
   );

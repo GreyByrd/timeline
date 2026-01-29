@@ -1,37 +1,21 @@
 import "./style-1980.css";
-import namechange from "../../../assets/1980-name-change-sign.jpg";
+import harriet from "../../../assets/1990-profile-harriet.png";
 
 const Event5 = () => {
   return (
-    <div className="event-container event-narrative panel-maroon">
-      <div className="event-content">
-        <h1 className="date">October 15</h1>
-        <h1 className="year white-txt">1981</h1>
-        <h2>
-          <span className="strikethrough">Claremont Men’s College</span> becomes
-          Claremont McKenna College
-        </h2>
+    <div className="event-container-wide panel-maroon">
+      <div className="col-2">
+        <h1 className="year-sm white-txt">1980</h1>
+        <h2>Noteworthy Pioneer</h2>
         <p>
-          Following a 34-5 board vote, Claremont McKenna College celebrated its
-          official debut with parties, athletics, an aerial flyover, a black-tie
-          dinner, and a national press campaign.
-        </p>
-        <p className="quote quote-white">
-          <em>This is not a break with the past, but a natural evolution.</em>
-          <br />
-          <span className="quote-name">
-            —Jack Stark, press conference at the LA Times building
-          </span>
+          Mari Adam ’80 graduated magna cum laude with a double major in French
+          and Political Science as part of the College’s first four-year co-ed
+          class. An expert in financial planning and money management, she
+          serves as co-chair of CMC’s co-ed celebration.
         </p>
       </div>
-      <div className="inset">
-        <img className="photo-insert" src={namechange} />
-        <br />
-        <p>
-          <em>
-            Claremont Men's College signage is removed from Pitzer Hall in 1981
-          </em>
-        </p>
+      <div className="col-2">
+        <img src={harriet} />
       </div>
     </div>
   );
