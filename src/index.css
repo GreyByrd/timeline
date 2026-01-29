@@ -1,5 +1,19 @@
 @import "tailwindcss";
 
+body {
+  height: 70vh;
+}
+
+.bar {
+  background: #74001c;
+  padding: 0 10px;
+  position: fixed;
+  margin-top: 20px;
+  z-index: 10;
+  bottom: 0;
+  width: 100%;
+}
+
 .test {
   position: fixed;
   z-index: 10;
