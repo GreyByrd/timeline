@@ -1,37 +1,27 @@
 import "./style-1970.css";
-import kathleen from "../../../assets/1970-kathleen-campus.gif";
 
 const Event7 = () => {
   return (
-    <div className="event-container panel-gray">
-      <div className="col-2">
-        <h1 className="date">March</h1>
-        <h1 className="year purple-txt">1976</h1>
-        <h2>First woman on campus</h2>
+    <div className="event-container event-narrative">
+      <div className="event-narrative-content">
+        <h1 className="year">1973</h1>
         <p>
-          Co-education is official, and Kathleen Evans Hurley ’80 P’07 from
-          Colorado is the first woman to be admitted and enroll at CMC. “Miss
-          Evans typifies the student Claremont Men’s College strives to admit,”
-          said President Stark in a{" "}
+          Finally, the Board held a special meeting to determine the way
+          forward. CMC’s{" "}
           <a
             className="purple-txt"
-            href="https://cmcarchives.omeka.net/items/show/198"
+            href="https://cmcarchives.omeka.net/items/show/237"
             target="_blank"
-            aria-label="CMC Archives (open in new tab)"
+            aria-label="CMC Archive (opens in new tab)"
           >
-            press release
-          </a>
-          . “She is an excellent student, goal oriented, and highly motivated.
-          We are all delighted she will be attending CMC in the fall.” Hurley
-          would go on excel as an Economics major and all-Southern California
-          Intercollegiate Athletics Conference athlete.
+            Board of Trustees voted to admit women
+          </a>{" "}
+          to the College with a final tally of 28 for coeducation and 13 opposed
+          – one vote over the two-thirds threshold required for passage. In
+          tandem with the landmark decision, the Board reaffirmed their position
+          that the mission of the College would not change. CMC’s first group of
+          entering women was set to enroll in the 1976-1977 academic year.
         </p>
-      </div>
-      <div className="col-3">
-        <img
-          src={kathleen}
-          alt="Collage of images related to Kathleen Evans early time on campus."
-        />
       </div>
     </div>
   );

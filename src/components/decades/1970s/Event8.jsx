@@ -1,34 +1,37 @@
 import "./style-1970.css";
+import kathleen from "../../../assets/1970-kathleen-campus.gif";
 
 const Event8 = () => {
   return (
-    <div className="event-container">
+    <div className="event-container panel-gray">
+      <div className="col-2">
+        <h1 className="date">March</h1>
+        <h1 className="year purple-txt">1976</h1>
+        <h2>First woman on campus</h2>
+        <p>
+          Co-education is official, and Kathleen Evans Hurley ’80 P’07 from
+          Colorado is the first woman to be admitted and enroll at CMC. “Miss
+          Evans typifies the student Claremont Men’s College strives to admit,”
+          said President Stark in a{" "}
+          <a
+            className="purple-txt"
+            href="https://cmcarchives.omeka.net/items/show/198"
+            target="_blank"
+            aria-label="CMC Archives (open in new tab)"
+          >
+            press release
+          </a>
+          . “She is an excellent student, goal oriented, and highly motivated.
+          We are all delighted she will be attending CMC in the fall.” Hurley
+          would go on excel as an Economics major and all-Southern California
+          Intercollegiate Athletics Conference athlete.
+        </p>
+      </div>
       <div className="col-3">
         <img
-          className="event-1-image"
-          src="/src/assets/1970s-newspaper.png"
-          alt="Newspaper outlets detailed the decision for Claremont McKenna to become co-ed."
+          src={kathleen}
+          alt="Collage of images related to Kathleen Evans early time on campus."
         />
-      </div>
-      <div className="col-2">
-        <h1 className="date">Fall</h1>
-        <h1 className="year purple-txt">1976</h1>
-        <p>
-          With its first co-ed orientation, the fall semester of the 1976-77
-          academic year marks the end of CMC’s 30-year history as a mens-only
-          institution. The first 60 women of CMC made up fewer than 15 percent
-          of the incoming class and resided in Wohlford, Benson, and Claremont
-          Halls. The Starks’ warmth and welcoming attitude helped these
-          trailblazers adjust to life on campus.
-        </p>
-        <p className="quote quote-purple">
-          <em>
-            “Jil, particularly, was very active in her support. She wanted to
-            make sure that no one felt like they were in the corner.”
-          </em>
-          <br />
-          <span className="quote-name">—Meridith (Ulmann) Brenalvirez ’80</span>
-        </p>
       </div>
     </div>
   );

@@ -1,29 +1,34 @@
 import "./style-1970.css";
-import pioneers from "../../../assets/1970-pioneers.png";
 
 const Event9 = () => {
   return (
-    <div className="event-container panel-2">
-      <div className="col-2">
-        <h1 className="date">Spring</h1>
-        <h1 className="year purple-txt">1978</h1>
-        <h2>Congratulations to the first CMC co-educational class</h2>
-        <p>
-          In a milestone moment, CMC honored its first women graduates—including
-          these four transfer students who completed their final two years at
-          the College. Already making their mark in a short span of time, CMC’s
-          female students were creating history at the College: Women's cross
-          country became the first Claremont-Mudd-Scripps women's sport to win a
-          conference title, and Mary Tracey ’81 was first female All-American
-          for CMS Athletics. By the fall of 1978, 17 percent of ROTC students at
-          the College were women.
-        </p>
+    <div className="event-container">
+      <div className="col-3">
+        <img
+          className="event-1-image"
+          src="/src/assets/1970s-newspaper.png"
+          alt="Newspaper outlets detailed the decision for Claremont McKenna to become co-ed."
+        />
       </div>
       <div className="col-2">
-        <img
-          src={pioneers}
-          alt="(Top) Mary Tracey ’81, the first female to win and (bottom) the first female graduate class."
-        />
+        <h1 className="date">Fall</h1>
+        <h1 className="year purple-txt">1976</h1>
+        <p>
+          With its first co-ed orientation, the fall semester of the 1976-77
+          academic year marks the end of CMC’s 30-year history as a mens-only
+          institution. The first 60 women of CMC made up fewer than 15 percent
+          of the incoming class and resided in Wohlford, Benson, and Claremont
+          Halls. The Starks’ warmth and welcoming attitude helped these
+          trailblazers adjust to life on campus.
+        </p>
+        <p className="quote quote-purple">
+          <em>
+            “Jil, particularly, was very active in her support. She wanted to
+            make sure that no one felt like they were in the corner.”
+          </em>
+          <br />
+          <span className="quote-name">—Meridith (Ulmann) Brenalvirez ’80</span>
+        </p>
       </div>
     </div>
   );
