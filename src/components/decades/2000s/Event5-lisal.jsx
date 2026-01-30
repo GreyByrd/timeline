@@ -1,7 +1,7 @@
 import "./style-2000.css";
 import lisal from "../../../assets/2000-profile-lisal.png";
 
-const Event6 = () => {
+const Event5 = () => {
   return (
     <div className="event-container-wide panel-white">
       <div className="col-2">
@@ -49,4 +49,4 @@ const Event6 = () => {
   );
 };
 
-export default Event6;
+export default Event5;

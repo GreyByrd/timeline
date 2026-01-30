@@ -1,0 +1,41 @@
+import "./style-2000.css";
+import fawe from "../../../assets/2008_FAWE.png";
+
+const Event9 = () => {
+  return (
+    <div className="event-container-wide panel-gray">
+      <div className="col-3">
+        <h1 className="date">April 10</h1>
+        <h1 className="year-sm purple-txt">2008</h1>
+        <h2>Henry R. Kravis Prize in Leadership to awarded FAWE</h2>
+        <p>
+          In April 2008,{" "}
+          <a
+            className="purple-txt"
+            href="https://www.cmc.edu/news/takako-mino-11-paves-the-way-for-debate-and-discourse-in-uganda"
+            aria-label="Read article: Takako Mino '11 Paves the Way for
+            Debate and Discourse in Uganda"
+            target="_blank"
+          >
+            <strong>Takako Mino 11’s</strong>
+          </a>{" "}
+          debate program The Forum for African Women Educationalists (FAWE)
+          earned the third annual Henry R. Kravis Prize in Leadership for its
+          outstanding record providing 12 million Ugandan girls and women with
+          access to education, contributing to improving their economic and
+          social well-being.
+        </p>
+        <p>
+          Later in 2010, Takako Mino’11 developed a debate program targeted
+          mostly toward young women in Uganda through FAWE. Her internship was
+          funded through the Center for Human Rights."
+        </p>
+      </div>
+      <div className="col-2">
+        <img src={fawe} alt="Ugandan classroom." />
+      </div>
+    </div>
+  );
+};
+
+export default Event9;

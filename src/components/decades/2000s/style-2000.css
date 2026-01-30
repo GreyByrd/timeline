@@ -52,7 +52,7 @@ a.maroon:hover {
 
 /* images */
 .kravis {
-  background-image: url("/src/assets/fullwidth-placeholder.jpg");
+  background-image: url("/src/assets/2000-kravis-bkgd-alt.jpg");
   height: 100%;
   width: 100%;
   margin-left: 0;
@@ -60,4 +60,11 @@ a.maroon:hover {
   background-repeat: no-repeat;
   background-size: cover;
   z-index: 0;
+  justify-content: left;
+}
+
+.kravis-img {
+  float: left;
+  width: 80%;
+  height: auto;
 }
