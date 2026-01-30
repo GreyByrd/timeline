@@ -1,0 +1,28 @@
+.event-container {
+  height: 100%;
+  flex: 0 0 100%;
+  background-color: lightcyan;
+  border: 1px solid lightblue;
+  border-radius: 0.5rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: purple;
+}
+
+.event-1-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  max-width: 800px;
+}
+
+.event-1-image {
+  width: 100%;
+  max-width: 400px;
+  height: auto;
+  border-radius: 0.5rem;
+  margin-top: 1rem;
+  object-fit: contain;
+}

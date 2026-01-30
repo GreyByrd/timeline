@@ -1,4 +1,4 @@
-import "./ori-1970.css";
+import "./style.css";
 
 const Event1 = () => {
   return (

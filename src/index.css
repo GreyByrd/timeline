@@ -4,14 +4,19 @@ body {
   height: 70vh;
 }
 
-.bar {
+.footer {
   background: #74001c;
-  padding: 0 10px;
+  padding: 0 20px;
   position: fixed;
   margin-top: 20px;
   z-index: 10;
   bottom: 0;
   width: 100%;
+}
+
+.footer img {
+  width: 250px;
+  float: left;
 }
 
 .test {
