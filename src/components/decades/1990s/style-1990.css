@@ -148,4 +148,13 @@ a.maroon:hover {
     margin: 0 auto;
     width: 100%;
   }
+  h1.honors-yellow,
+  h1.honors-yellow-02 {
+    font-size: 3rem;
+    letter-spacing: 0rem;
+    margin-left: 0;
+    position: relative;
+    border-bottom: 1px solid #d7ae32;
+    margin-bottom: 1em;
+  }
 }

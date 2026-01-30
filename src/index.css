@@ -9,6 +9,21 @@
   background: #f5f5f5;
 }
 
+.footer {
+  background: #74001c;
+  padding: 0 20px;
+  position: fixed;
+  margin-top: 20px;
+  z-index: 10;
+  bottom: 0;
+  width: 100%;
+}
+
+.footer img {
+  width: 250px;
+  float: left;
+}
+
 .circle {
   clip-path: circle(50px);
   background: coral;

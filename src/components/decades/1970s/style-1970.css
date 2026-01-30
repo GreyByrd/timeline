@@ -7,10 +7,17 @@
   background-color: #ffffff;
   display: flex;
   justify-content: center;
-  align-content: space-around;
-  align-items: center;
   color: #231f20;
-  padding: 0 3% 0;
+  padding: 5% 8%;
+}
+
+.content-container {
+  display: flex;
+  height: 800px;
+  flex: 0 0 100%;
+  flex-wrap: wrap;
+  align-content: center;
+  align-items: flex-start;
 }
 
 .event-container-wide {
