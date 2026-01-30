@@ -2,8 +2,8 @@ import "./style-1970.css";
 
 const Event6 = () => {
   return (
-    <div className="event-container-sm panel-purple">
-      <div className="event-narrative-content">
+    <div className="event-container panel-purple">
+      <div className="content-container event-narrative">
         <h1 className="year white-txt">1973</h1>
         <p>
           As the summer of 1973 began, support on the Board subcommittee was

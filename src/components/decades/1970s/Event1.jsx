@@ -1,4 +1,4 @@
-import "./ori-1970.css";
+import "./ori-style.css";
 
 const Event1 = () => {
   return (
@@ -11,9 +11,17 @@ const Event1 = () => {
           bridging geographic gaps in efficient time with the rise in airline
           travel. Likewise, the United States established the 28th Amendment,
           xxx. With the landmark decision in Roe v. Wade, equality became the
-          new baseline.
+          new baseline. As I told our entering students and their families last
+          week, the conducive medium for our outstanding achievements is our
+          social warmth, our commitment to one another as cherished members of a
+          purposeful CMC community, our attention to the smallest moments of
+          learning, experience, friendship, trust, love.
         </p>
-        <img className="event-1-image" src="src/assets/1970s_1.gif" alt="" />
+        <img
+          className="event-1-image"
+          src="src/assets/World-Event-1970.gif"
+          alt=""
+        />
       </div>
     </div>
   );
