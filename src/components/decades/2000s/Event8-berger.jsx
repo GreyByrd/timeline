@@ -3,20 +3,21 @@ import berger from "../../../assets/women_and_leadership_berger.jpg";
 
 const Event8 = () => {
   return (
-    <div className="event-container panel-gray">
+    <div className="event-container">
       <div className="col-3">
         <h1 className="date">March 24</h1>
         <h1 className="year-sm purple-txt">2007</h1>
+        <h2>Striking a balance</h2>
         <p>
           The first-ever event for women (and men) of all ages, stages, and
           choices, the CMC Women in Real Life: The Work/Family Challenge
           conference was held to explore the struggle for balance throughout the
-          work/family spectrum, and is co-hosted by CMC, the Berger Institute
-          for Work, Family and Children, and the CMC Women's Forum.
+          work/family spectrum. The event was co-hosted by CMC, the Berger
+          Institute for Work, Family and Children, and the CMC Women's Forum.
         </p>
       </div>
       <div className="col-3">
-        <img src={berger} alt="Image." />
+        <img src={berger} alt="The CMC Women in Real Life event." />
       </div>
     </div>
   );

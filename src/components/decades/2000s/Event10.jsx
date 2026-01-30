@@ -7,7 +7,13 @@ const Event10 = () => {
       <div className="col-3 white-txt">
         <div>
           <h1 className="year white-txt">2008</h1>
-          <h2>Kravis Center groundbreaking</h2>
+          <p>
+            At an event that realized years of preparation and planning,
+            President Gann presided over the ceremonial groundbreaking of the
+            Kravis Center. Named for Henry Kravis ’67 and holding space for
+            instruction, research, and community, the Kravis Center balances the
+            Bauer Center along the east-west axis of campus.
+          </p>
           <img
             className="kravis-img"
             src={kravis}

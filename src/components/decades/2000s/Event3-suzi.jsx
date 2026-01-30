@@ -8,9 +8,9 @@ const Event3 = () => {
         <div>
           <h1 className="date purple-txt">March 16</h1>
           <h1 className="year-sm purple-txt">2002</h1>
-          <h2>Champion Swimmer</h2>
+          <h2>Making a Splash</h2>
           <p>
-            In 2002,{" "}
+            With a conference-record time of 2:21.17, swimmer{" "}
             <a
               className="purple-txt"
               href="https://www.cmc.edu/news/suzy-nicoletti-02-national-champion-for-record-breaking-swim-in-200-yard-breaststroke"
@@ -19,10 +19,10 @@ const Event3 = () => {
             >
               <strong>Suzy Nicoletti ’02</strong>
             </a>{" "}
-            became the first woman to be a CMS national swimming champion with
-            her CMS and SCIAC record-breaking time of 2:21.17 for the 200-yard
-            breaststroke during the NCAA Division III Swimming and Diving
-            Championships in Oxford, Ohio.
+            became CMS Athletics’ first national-champion swimmer at the NCAA
+            Division III Swimming and Diving Championships. Nicoletti is
+            currently a tech executive, and has led teams at Twitter and Intuit,
+            among others, in the Australia/Asia-Pacific market.
           </p>
         </div>
       </div>

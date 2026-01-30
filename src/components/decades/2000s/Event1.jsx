@@ -2,8 +2,8 @@ import "./style-2000.css";
 
 const Event1 = () => {
   return (
-    <div id="2000" className="event-container panel-white">
-      <div className="col-2">
+    <div id="2000" className="event-container-wide panel-white">
+      <div className="col-3">
         <div>
           <h1 className="eyebrow">A moment in history</h1>
           <h1 className="purple-txt">2000s</h1>
@@ -24,10 +24,15 @@ const Event1 = () => {
             Barack Obama began his first term as President of the United States,
             demonstrating that leadership came in many colors.
           </p>
-          <p>At CMC, the first decade of the third millennium A.D. saw increased opportunity for women as students, alumnae, and leaders at the College. The years also saw CMC’s current landscape take shape, as the Kravis Center began to rise in place of Pitzer Hall.</p>
+          <p>
+            At CMC, the first decade of the third millennium A.D. saw increased
+            opportunity for women as students, alumnae, and leaders at the
+            College. The years also saw CMC’s current landscape take shape, as
+            the Kravis Center began to rise in place of Pitzer Hall.
+          </p>
         </div>
       </div>
-      <div className="col-4">
+      <div className="col-3">
         <img src="src/assets/fullwidth-placeholder.jpg" alt="Image." />
       </div>
     </div>
