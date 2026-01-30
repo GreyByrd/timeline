@@ -17,7 +17,7 @@
   flex: 0 0 100%;
   flex-wrap: wrap;
   align-content: center;
-  align-items: flex-start;
+  align-items: center;
 }
 
 .event-container-wide {
@@ -339,6 +339,8 @@ a:hover {
 /* imgs */
 img {
   margin: 15px auto;
+  max-width: 100%;
+  height: auto;
 }
 
 .fullwidth {
