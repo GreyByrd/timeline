@@ -3,7 +3,7 @@ import laura from "../../../assets/1980-profile-laura-diane.png";
 
 const Event11 = () => {
   return (
-    <div className="event-container panel-maroon">
+    <div className="event-container-wide panel-maroon">
       <h1 className="honors-gray">Trailblazers</h1>
       <div className="col-3">
         <h1 className="year-sm white-txt">1985-1988</h1>

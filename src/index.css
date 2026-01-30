@@ -10,17 +10,16 @@
 }
 
 .footer {
-  background: #ccccff;
+  background: #5e308e;
   padding: 0 20px;
   position: fixed;
-  margin-top: 20px;
   z-index: 10;
   bottom: 0;
   width: 100%;
 }
 
 .footer img {
-  width: 250px;
+  width: 120px;
   float: left;
 }
 
