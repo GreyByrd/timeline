@@ -13,10 +13,10 @@
 
 .content-container {
   display: flex;
+  width: 80vw;
   height: 600px;
-  flex: 0 0 100%;
   flex-wrap: wrap;
-  background: #fff;
+  background: #cfa4a4;
   align-content: flex-start;
   align-items: flex-start;
 }
@@ -56,7 +56,7 @@
 .col-2 {
   max-width: 33%;
   flex: 0 0 33%;
-  padding: 15px;
+  padding: 10px;
 }
 
 .col-3 {
@@ -337,6 +337,8 @@ a:hover {
 
 /* imgs */
 img {
+  width: 100%;
+  height: auto;
   margin: 15px auto;
 }
 

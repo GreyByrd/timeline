@@ -21,7 +21,7 @@ const Event8 = () => {
           similar intellectual challenges and excitement.”
         </p>
       </div>
-      <div className="col-3">
+      <div className="col-2">
         <img src={ath} alt="xxx." />
       </div>
     </div>

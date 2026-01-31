@@ -5,7 +5,7 @@ const Event10 = () => {
   return (
     <div className="event-container panel-2">
       <div className="content-container">
-        <div className="col-2">
+        <div className="col-3">
           <h1 className="date">Spring</h1>
           <h1 className="year purple-txt">1978</h1>
           <h2>Congratulations to the first CMC co-educational class</h2>
