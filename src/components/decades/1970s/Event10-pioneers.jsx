@@ -3,8 +3,8 @@ import pioneers from "../../../assets/1970-pioneers-updated.png";
 
 const Event10 = () => {
   return (
-    <div className="event-container panel-2">
-      <div className="col-2">
+    <div className="event-container">
+      <div className="col-3">
         <h1 className="date">Spring</h1>
         <h1 className="year purple-txt">1978</h1>
         <h2>Congratulations to the first CMC co-educational class</h2>
@@ -19,7 +19,7 @@ const Event10 = () => {
           the College were women.
         </p>
       </div>
-      <div className="col-2">
+      <div className="col-3">
         <img
           src={pioneers}
           alt="(Top) Mary Tracey ’81, the first female to win and (bottom) the first female graduate class."

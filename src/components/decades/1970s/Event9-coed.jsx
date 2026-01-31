@@ -10,7 +10,7 @@ const Event9 = () => {
           alt="Newspaper outlets detailed the decision for Claremont McKenna to become co-ed."
         />
       </div>
-      <div className="col-2">
+      <div className="col-3">
         <h1 className="date">Fall</h1>
         <h1 className="year purple-txt">1976</h1>
         <p>

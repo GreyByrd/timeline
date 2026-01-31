@@ -9,16 +9,6 @@
 
 /* column sizes, see style-1970s */
 
-.event-container-sm {
-  height: 100%;
-  flex: 0 0 60%;
-  display: flex;
-  flex-wrap: wrap;
-  align-content: flex-start;
-  justify-content: center;
-  padding: 10% 0;
-}
-
 /* typography */
 
 h1.maroon {

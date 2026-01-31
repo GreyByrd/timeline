@@ -2,7 +2,7 @@ import "./style-1970.css";
 
 const Event7 = () => {
   return (
-    <div className="event-container event-narrative">
+    <div className="event-container-sm">
       <div className="event-narrative-content">
         <h1 className="year purple-txt">1973</h1>
         <p>

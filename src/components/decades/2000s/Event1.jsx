@@ -2,7 +2,7 @@ import "./style-2000.css";
 
 const Event1 = () => {
   return (
-    <div id="2000" className="event-container-wide panel-white">
+    <div id="2000" className="event-container wide panel-white">
       <div className="col-3">
         <div>
           <h1 className="eyebrow">A moment in history</h1>

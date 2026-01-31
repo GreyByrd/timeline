@@ -2,8 +2,8 @@ import "./style-2000.css";
 
 const Event4 = () => {
   return (
-    <div className="event-container-sm panel-gray">
-      <div class="col-4">
+    <div className="event-container small panel-gray">
+      <div class="event-narrative-content">
         <h1 className="date">January 1</h1>
         <h1 className="year-sm purple-txt">2004</h1>
         <h2>Psychology Leader</h2>
