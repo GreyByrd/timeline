@@ -3,7 +3,7 @@
 // import gsap from "gsap";
 // import { ScrollTrigger } from "gsap/ScrollTrigger";
 
-gsap.registerPlugin(ScrollTrigger, ScrollToPlugin);
+gsap.registerPlugin(ScrollTrigger);
 
 //let mm = gsap.matchMedia();
 
@@ -56,13 +56,13 @@ gsap.registerPlugin(ScrollTrigger, ScrollToPlugin);
 // }
 //});
 
-const menuItems = document.querySelectorAll(".anchor");
+// const menuItems = document.querySelectorAll(".anchor");
 
-menuItems.forEach((menuItem, idx) => {
-  menuItem.addEventListener("click", () => {
-    gsap.to(window, {
-      duration: 1.5,
-      scrollTo: "#event-main-" + (idx + 1), //add ScrollTo to an id on the page
-    });
-  });
-});
+// menuItems.forEach((menuItem, idx) => {
+//   menuItem.addEventListener("click", () => {
+//     gsap.to(window, {
+//       duration: 1.5,
+//       scrollTo: "#event-main-" + (idx + 1), //add ScrollTo to an id on the page
+//     });
+//   });
+// });
