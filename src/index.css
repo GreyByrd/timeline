@@ -19,7 +19,8 @@ body {
   float: left;
 }
 
-.test {
+.test,
+.Nav {
   position: fixed;
   z-index: 10;
   opacity: 0.5;
