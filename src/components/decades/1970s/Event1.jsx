@@ -2,7 +2,7 @@ import "./ori-style.css";
 
 const Event1 = () => {
   return (
-    <div className="event-container">
+    <div id="1970" className="event-container event-main">
       <div className="event-1-content">
         <h1>1970s</h1>
         <h2>The age of change</h2>
