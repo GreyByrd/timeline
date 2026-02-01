@@ -9,8 +9,12 @@
   background: #f5f5f5;
 }
 
-.footer {
-  background: #9a2586;
+.footer-new {
+  background: linear-gradient(
+    90deg,
+    hsla(29, 94%, 59%, 1) 0%,
+    hsla(76, 96%, 22%, 1) 99%
+  );
   padding: 0 20px;
   position: fixed;
   z-index: 10;
