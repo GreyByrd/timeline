@@ -62,7 +62,7 @@ menuItems.forEach((menuItem, idx) => {
   menuItem.addEventListener("click", () => {
     gsap.to(window, {
       duration: 1.5,
-      scrollTo: { y: "#event-main-" + (idx + 1), autoKill: true }, //add ScrollTo to an id on the page
+      scrollTo: "#event-main-" + (idx + 1), //add ScrollTo to an id on the page
     });
   });
 });
