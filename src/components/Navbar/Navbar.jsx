@@ -1,4 +1,5 @@
 import React from "react";
+import styles from "./Navbar.css";
 
 const Navbar = React.forwardRef((props, ref) => {
   const NavLinks = [
