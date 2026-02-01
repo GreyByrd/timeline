@@ -1,0 +1,25 @@
+.navbar {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 1rem;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  background-color: white;
+}
+
+.navbar a {
+  min-width: 100px;
+  text-align: center;
+  padding: 0.625rem 2rem;
+  text-decoration: none;
+  font-size: 1.25rem;
+  color: rgb(29, 29, 29);
+}
+
+.navbar a:hover {
+  font-weight: bold;
+  text-decoration: underline;
+}
