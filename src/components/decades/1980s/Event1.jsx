@@ -7,7 +7,7 @@ const Event1 = () => {
       <div className="col-3">
         <div>
           <h1 className="eyebrow">A moment in history</h1>
-          <h1 id="1980" className="maroon anchor">
+          <h1 id="1980" className="maroon">
             1980s
           </h1>
           <p>
