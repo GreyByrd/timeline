@@ -55,14 +55,3 @@ gsap.registerPlugin(ScrollTrigger);
 //   );
 // }
 //});
-
-// const menuItems = document.querySelectorAll(".anchor");
-
-// menuItems.forEach((menuItem, idx) => {
-//   menuItem.addEventListener("click", () => {
-//     gsap.to(window, {
-//       duration: 1.5,
-//       scrollTo: "#event-main-" + (idx + 1), //add ScrollTo to an id on the page
-//     });
-//   });
-// });
