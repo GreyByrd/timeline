@@ -3,10 +3,12 @@ import WE1990 from "../../../assets/1990-World-Event.gif";
 
 const Event1 = () => {
   return (
-    <div id="1990" className="event-container-wide panel-white">
+    <div className="event-container-wide panel-white">
       <div className="col-3">
         <h1 className="eyebrow">A moment in history</h1>
-        <h1 className="yellow-txt">1990s</h1>
+        <h1 id="1990" className="yellow-txt">
+          1990s
+        </h1>
         <p>
           The fall of the Iron Curtain and the collapse of Communism showed that
           the 1990s would be a time of quickening change. The world watched as
