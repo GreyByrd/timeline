@@ -3,10 +3,12 @@ import WE1970 from "../../../assets/World-Event-1970-updated.gif";
 
 const Event1 = () => {
   return (
-    <div id="#1970" className="event-container panel-white event-main">
+    <div className="event-container panel-white event-main">
       <div className="col-2">
         <h1 className="eyebrow">A moment in history</h1>
-        <h1 className="purple-txt">1970s</h1>
+        <h1 id="#1970" className="purple-txt">
+          1970s
+        </h1>
         <h2>The age of change</h2>
         <p>
           Times were changing. People were changing. Our nation and our world
