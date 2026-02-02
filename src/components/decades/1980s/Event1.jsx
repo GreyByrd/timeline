@@ -3,7 +3,7 @@ import WE1980 from "../../../assets/World-Event-1980.gif";
 
 const Event1 = () => {
   return (
-    <div className="event-container wide panel-white event-main">
+    <div className="event-container wide panel-white main">
       <div className="col-3">
         <div>
           <h1 className="eyebrow">A moment in history</h1>

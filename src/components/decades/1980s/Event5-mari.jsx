@@ -16,7 +16,7 @@ const Event5 = () => {
           four-year co-ed class. An expert in financial planning and money
           management, she serves as co-chair of{" "}
           <a
-            className="white-txt"
+            className="maroon-txt"
             href="https://www.cmc.edu/50-coeducation"
             target="_blank"
             aria-label="CMC 50 years of Co-education (opens in new tab)"

@@ -30,15 +30,17 @@ const App = () => {
           </li>
         </ul>
       </nav>
-      <ScrollyProvider>
-        <DecadeIntro />
-        <Decade1970s />
-        <Decade1980s />
-        <Decade1990s />
-        <Decade2000s />
-        <Decade2010s />
-        <Decade2020s />
-      </ScrollyProvider>
+      <div id="slider-container">
+        <ScrollyProvider>
+          <DecadeIntro />
+          <Decade1970s />
+          <Decade1980s />
+          <Decade1990s />
+          <Decade2000s />
+          <Decade2010s />
+          <Decade2020s />
+        </ScrollyProvider>
+      </div>
     </section>
   );
 };

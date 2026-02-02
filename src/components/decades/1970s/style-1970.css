@@ -8,7 +8,7 @@
   display: flex;
   justify-content: center;
   color: #231f20;
-  padding: 4em 6em;
+  padding: 6em 6em;
 }
 
 .content-container {
@@ -16,8 +16,7 @@
   height: 800px;
   flex: 0 0 100%;
   flex-wrap: wrap;
-  align-content: center;
-  align-items: center;
+  align-content: flex-start;
 }
 
 .event-container-wide {
@@ -53,9 +52,16 @@
   flex-direction: column;
   text-align: left;
   max-width: 740px;
-  padding: 1% 8%;
+  padding: 4em 5em;
   align-items: flex-start;
   align-content: flex-start;
+}
+
+.endcap {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  height: 550px;
 }
 
 .img-container {

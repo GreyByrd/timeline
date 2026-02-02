@@ -4,7 +4,7 @@ import edessa from "../../../assets/1970-profile-edessa-rose.png";
 const Event5 = () => {
   return (
     <div className="event-container-sm panel-yellow">
-      <div className="col-2">
+      <div className="col-3">
         <img src={edessa} />
       </div>
       <div className="col-3">
