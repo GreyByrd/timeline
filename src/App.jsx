@@ -9,7 +9,26 @@ import Decade2020s from "./components/decades/Decade2020s";
 
 const App = () => {
   return (
-    <div class="navbar">
+    <section className="main-wrapper">
+      <nav className="internal-nav">
+        <ul>
+          <li>
+            <a href="#1970" onClick={(e) => goToLink(e, true)}>
+              Panel 1
+            </a>
+          </li>
+          <li>
+            <a href="#1980" onClick={(e) => goToLink(e, true)}>
+              Panel 2
+            </a>
+          </li>
+          <li>
+            <a href="#1990" onClick={(e) => goToLink(e, true)}>
+              Panel 3
+            </a>
+          </li>
+        </ul>
+      </nav>
       <ScrollyProvider>
         <DecadeIntro />
         <Decade1970s />
@@ -19,7 +38,7 @@ const App = () => {
         <Decade2010s />
         <Decade2020s />
       </ScrollyProvider>
-    </div>
+    </section>
   );
 };
 

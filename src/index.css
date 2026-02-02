@@ -68,3 +68,9 @@
 .test-links a:hover {
   color: coral;
 }
+
+.internal-nav {
+  position: fixed;
+  background: #ccccff;
+  z-index: 1;
+}

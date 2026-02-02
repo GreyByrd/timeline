@@ -1,9 +1,8 @@
 import React from "react";
-import styles from "./Navbar.css";
+import styles from "./Navbar/Navbar.css";
 
 /* Main navigation */
 let panelsSection = document.querySelector(".event-main"),
-  panelsContainer = document.querySelector("#panels-container"),
   tween;
 document.querySelectorAll(".anchor").forEach((anchor) => {
   anchor.addEventListener("click", function (e) {
