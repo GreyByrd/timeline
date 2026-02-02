@@ -7,7 +7,7 @@ const Event13 = () => {
       <div className="col-3">
         <img src={lorraine}></img>
       </div>
-      <div className="col-3">
+      <div className="col-4">
         <h1 className="year-sm maroon-txt">1988</h1>
         <h2>Alumni Association breaks barriers</h2>
         <p>

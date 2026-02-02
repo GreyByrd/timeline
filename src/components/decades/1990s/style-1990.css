@@ -20,12 +20,13 @@
 /* typography */
 
 h1.honors-yellow {
-  font-size: 8rem;
-  letter-spacing: -0.4rem;
+  font-size: 5rem;
+  letter-spacing: -0.2rem;
   color: #d7ae32;
   position: absolute;
   top: 10px;
-  margin-left: -20%;
+  text-align: center;
+  margin-bottom: 2em;
 }
 
 h1.honors-yellow-02 {

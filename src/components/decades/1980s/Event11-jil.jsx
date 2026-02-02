@@ -5,6 +5,9 @@ const Event10 = () => {
   return (
     <div className="event-container-sm panel-white">
       <div className="col-3">
+        <img src={jil02} alt-text="Jil Stark, January 1986."></img>
+      </div>
+      <div className="col-4">
         <h1 className="year-sm maroon">1987</h1>
         <h2>Familiar face at the Ath</h2>
         <p>
@@ -12,13 +15,6 @@ const Event10 = () => {
           director of the Athenaeum, carrying Marian Miner Cook’s charge to
           activate the intellectual life of CMC students.
         </p>
-      </div>
-      <div className="col-3">
-        <img
-          className="ani"
-          src={jil02}
-          alt-text="Jil Stark, January 1986."
-        ></img>
       </div>
     </div>
   );

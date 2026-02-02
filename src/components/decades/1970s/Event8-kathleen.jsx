@@ -4,7 +4,7 @@ import kathleen from "../../../assets/1970-kathleen-campus.gif";
 const Event8 = () => {
   return (
     <div className="event-container panel-gray">
-      <div className="col-2">
+      <div className="col-3">
         <h1 className="date">March</h1>
         <h1 className="year purple-txt">1976</h1>
         <h2>First woman on campus</h2>

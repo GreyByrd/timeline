@@ -8,7 +8,7 @@
   display: flex;
   justify-content: center;
   color: #231f20;
-  padding: 4em 6em;
+  padding: 5em;
 }
 
 .content-container {
@@ -16,7 +16,7 @@
   height: 800px;
   flex: 0 0 100%;
   flex-wrap: wrap;
-  align-content: center;
+  align-content: flex-start;
   align-items: center;
 }
 
@@ -53,9 +53,16 @@
   flex-direction: column;
   text-align: left;
   max-width: 740px;
-  padding: 1% 8%;
+  padding: 0 8%;
   align-items: flex-start;
   align-content: flex-start;
+}
+
+.endcap {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  height: 550px;
 }
 
 .img-container {
@@ -148,7 +155,7 @@ h2 {
 }
 
 p {
-  font-size: 18px;
+  font-size: 17px;
   margin-bottom: 20px;
 }
 

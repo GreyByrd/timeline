@@ -4,7 +4,7 @@ import pamgann from "../../../assets/1990-pam-gann.png";
 const Event9 = () => {
   return (
     <div className="event-container panel-yellow">
-      <div className="col-2">
+      <div className="col-3">
         <h1 className="date">July 1</h1>
         <h1 className="year">1999</h1>
         <h2>Promise realized</h2>
@@ -18,7 +18,7 @@ const Event9 = () => {
         </p>
         <p>Gann recognized the responsibility she carried on her shoulders.</p>
       </div>
-      <div className="col-2">
+      <div className="col-3">
         <img src={pamgann} />
         <p className="quote">
           “Creating opportunities for educational attainment has been a guiding
