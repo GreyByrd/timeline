@@ -68,7 +68,3 @@
 .test-links a:hover {
   color: coral;
 }
-
-.anchor {
-  scroll-margin-right: -150px;
-}

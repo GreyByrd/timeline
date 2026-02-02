@@ -1,25 +1,31 @@
 import React from "react";
 import styles from "./Navbar.css";
 
-const Navbar = React.forwardRef((props, ref) => {
-  const NavLinks = [
-    { name: "Home", link: "#top" },
-    { name: "About", link: "#About" },
-    { name: "Projects", link: "#Projects" },
-    { name: "Contact", link: "#Contact" },
-  ];
-
-  return (
-    <nav id="Navbar" className={styles.navbar} ref={ref}>
-      {NavLinks.map((navlink) => {
-        return (
-          <a key={navlink.name} href={navlink.link}>
-            {navlink.name}
-          </a>
-        );
-      })}
-    </nav>
-  );
+/* Main navigation */
+let panelsSection = document.querySelector(".event-main"),
+  panelsContainer = document.querySelector("#panels-container"),
+  tween;
+document.querySelectorAll(".anchor").forEach((anchor) => {
+  anchor.addEventListener("click", function (e) {
+    e.preventDefault();
+    let targetElem = document.querySelector(e.target.getAttribute("href")),
+      y = targetElem;
+    if (targetElem && panelsContainer.isSameNode(targetElem.parentElement)) {
+      let totalScroll = tween.scrollTrigger.end - tween.scrollTrigger.start,
+        totalMovement = (panels.length - 1) * targetElem.offsetWidth;
+      y = Math.round(
+        tween.scrollTrigger.start +
+          (targetElem.offsetLeft / totalMovement) * totalScroll
+      );
+    }
+    gsap.to(window, {
+      scrollTo: {
+        y: y,
+        autoKill: false,
+      },
+      duration: 1,
+    });
+  });
 });
 
 export default Navbar;

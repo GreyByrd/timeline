@@ -1,5 +1,4 @@
 import { ScrollyProvider } from "react-scrolly-telling";
-import Navbar from "./components/Navbar/Navbar";
 import DecadeIntro from "./components/decades/DecadeIntro";
 import Decade1970s from "./components/decades/Decade1970s";
 import Decade1980s from "./components/decades/Decade1980s";
@@ -10,16 +9,17 @@ import Decade2020s from "./components/decades/Decade2020s";
 
 const App = () => {
   return (
-    <ScrollyProvider>
-      <Navbar />
-      <DecadeIntro />
-      <Decade1970s />
-      <Decade1980s />
-      <Decade1990s />
-      <Decade2000s />
-      <Decade2010s />
-      <Decade2020s />
-    </ScrollyProvider>
+    <div class="navbar">
+      <ScrollyProvider>
+        <DecadeIntro />
+        <Decade1970s />
+        <Decade1980s />
+        <Decade1990s />
+        <Decade2000s />
+        <Decade2010s />
+        <Decade2020s />
+      </ScrollyProvider>
+    </div>
   );
 };
 
