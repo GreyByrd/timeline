@@ -11,6 +11,19 @@
   padding: 6em 6em;
 }
 
+.container {
+  display: flex;
+  max-width: 80%;
+  flex: 0 0 80%;
+  padding: 5em 7em;
+  align-items: center;
+  background: orange;
+}
+
+.content {
+  background: white;
+}
+
 .content-container {
   display: flex;
   height: 800px;
