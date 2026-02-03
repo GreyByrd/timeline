@@ -5,7 +5,7 @@ const Event10 = () => {
     <div className="event-container panel-purple">
       <div className="content-container endcap">
         <div className="col-4">
-          <p>
+          <p className="lead-text">
             From the roots of its historic vote in 1975, the story of CMC began
             branching off in a new direction. The next ten years would be key to
             seeing just how strong this branch would become.

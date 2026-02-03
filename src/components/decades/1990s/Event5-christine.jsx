@@ -3,7 +3,7 @@ import christine from "../../../assets/1990-profile-christine-w.png";
 
 const Event5 = () => {
   return (
-    <div className="event-container wide">
+    <div className="event-container">
       <div className="content-container">
         <div className="col-2">
           <img src={christine}></img>
