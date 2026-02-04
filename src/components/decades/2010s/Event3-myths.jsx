@@ -9,10 +9,18 @@ const Event3 = () => {
         <h2>Student Excellence</h2>
         <p>
           <strong>January 2011: Priscilla Hsu ’13</strong> and{" "}
-          <strong>Anne Rynearson ’13</strong> create first Myths, Legends, and
-          Tall Tales (MLTT), an amusing, fascinating, and occasionally inspiring
-          collection of alumni stories. The Office of Annual Giving gave the
-          book to donors for Valentine's Day.
+          <strong>Anne Rynearson ’13</strong> create first{" "}
+          <a
+            href="https://www.cmc.edu/news/myths-legends-tall-tales-compiles-cmc-stories-from-alumni"
+            target="_blank"
+            aria-label="Read article: Myths, Legends & Tall Tales Compiles CMC Stories from Alumni
+"
+          >
+            Myths, Legends, and Tall Tales (MLTT)
+          </a>
+          , an amusing, fascinating, and occasionally inspiring collection of
+          alumni stories. The Office of Annual Giving gave the book to donors
+          for Valentine's Day.
         </p>
         <p className="quote quote-maroon">
           One of the best parts of working on this book...was having the
