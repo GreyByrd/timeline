@@ -6,12 +6,9 @@ const Event9 = () => {
       <h1 className="year maroon">2016</h1>
       <h2>Jil Stark Volunteer of the Year Award</h2>
       <p>
-        President Hiram Chodosh presented Claremont McKenna College’s (CMC) new
-        initiative,{" "}
-        <a className="maroon-txt" href="#">
-          The Student Imperative
-        </a>
-        , at a White House summit on college opportunity
+        CMC's Parent Network Board creates award, the Jil Stark Parent Volunteer
+        of the Year, which recognizes and honors CMC parents who have
+        contributed in a meaningful way to the mission of CMC
       </p>
     </div>
   );
