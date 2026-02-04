@@ -1,4 +1,5 @@
 import "./style-2010.css";
+import wla from "../../../assets/2010-Women-In-Leadership.jpg";
 
 const Event2 = () => {
   return (
@@ -13,11 +14,11 @@ const Event2 = () => {
           </p>
         </div>
       </div>
-      <div className="col-3">
+      <div className="col-4">
         <img
           className="fullwidth"
-          src="src/assets/fullwidth-placeholder.jpg"
-          alt="Image."
+          src={wla}
+          alt="The inaugural Women In Leadership Alliance event."
         />
       </div>
     </div>

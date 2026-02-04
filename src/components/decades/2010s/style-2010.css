@@ -6,3 +6,7 @@
 }
 
 /* images */
+.red-outline {
+  border-left: 12px solid #a6203e;
+  border-bottom: 12px solid #a6203e;
+}

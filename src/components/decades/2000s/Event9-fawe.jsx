@@ -4,7 +4,7 @@ import fawe from "../../../assets/2008_FAWE.png";
 const Event9 = () => {
   return (
     <div className="event-container panel-gray">
-      <div className="content-container">
+      <div className="content">
         <div className="col-3">
           <h1 className="date">April 10</h1>
           <h1 className="year-sm purple-txt">2008</h1>

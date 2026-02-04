@@ -1,13 +1,11 @@
 import "./style-2010.css";
+import mountain from "../../../assets/2010-mountain-to-sea.jpg";
 
 const Event6 = () => {
   return (
     <div className="event-container-wide panel-gray">
       <div className="col-4">
-        <img
-          className="fullwidth"
-          src="/src/assets/fullwidth-placeholder.jpg"
-        />
+        <img className="red-outline" src={mountain} />
       </div>
       <div className="col-1">
         <img src="/src/assets/profile-img.png" />

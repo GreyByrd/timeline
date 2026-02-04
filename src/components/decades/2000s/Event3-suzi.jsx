@@ -4,7 +4,7 @@ import suzi from "../../../assets/2000-profile-suzi.png";
 const Event3 = () => {
   return (
     <div className="event-container panel-white">
-      <div className="content-container">
+      <div className="content">
         <div className="col-3">
           <div>
             <h1 className="date purple-txt">March 16</h1>

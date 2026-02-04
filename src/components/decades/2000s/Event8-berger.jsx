@@ -4,7 +4,7 @@ import berger from "../../../assets/women_and_leadership_berger.jpg";
 const Event8 = () => {
   return (
     <div className="event-container">
-      <div className="content-container">
+      <div className="content">
         <div className="col-3">
           <h1 className="date">March 24</h1>
           <h1 className="year-sm purple-txt">2007</h1>

@@ -4,7 +4,7 @@ import deroulet from "../../../assets/1990-kravis-deroulet.jpg";
 const Event3 = () => {
   return (
     <div className="event-container panel-yellow">
-      <div className="content-container">
+      <div className="content">
         <div className="col-3">
           <h1 className="year-sm">1990</h1>
           <h2>Leading the charge</h2>

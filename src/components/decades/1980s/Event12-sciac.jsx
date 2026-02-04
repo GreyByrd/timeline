@@ -4,7 +4,7 @@ import sciac from "../../../assets/1980-sciac-wins.png";
 const Event12 = () => {
   return (
     <div className="event-container panel-maroon">
-      <div className="content-container">
+      <div className="content">
         <div className="col-3">
           <h1 className="year-sm white-txt">1988</h1>
           <h2>Athletic achievement</h2>

@@ -4,7 +4,7 @@ import lisal from "../../../assets/2000-profile-lisal.png";
 const Event5 = () => {
   return (
     <div className="event-container panel-white">
-      <div className="content-container">
+      <div className="content">
         <div className="col-3">
           <h1 className="date">September 16</h1>
           <h1 className="year-sm purple-txt">2005</h1>
