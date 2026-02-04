@@ -13,15 +13,16 @@
 
 .container {
   display: flex;
-  max-width: 80%;
-  flex: 0 0 80%;
-  padding: 5em 7em;
+  max-width: 100%;
+  flex: 0 0 100%;
+  padding: 5em 6em;
   align-items: center;
   background: orange;
 }
 
 .content {
-  background: white;
+  display: flex;
+  align-items: flex-start;
 }
 
 .content-container {
@@ -65,7 +66,7 @@
   flex-direction: column;
   text-align: left;
   max-width: 740px;
-  padding: 4em 5em;
+  padding: 4em 6em;
   align-items: flex-start;
   align-content: flex-start;
 }
