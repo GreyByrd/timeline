@@ -1,6 +1,6 @@
 import "./style-2010.css";
 
-const Event8 = () => {
+const Event10 = () => {
   return (
     <div className="event-container event-narrative panel-maroon">
       <h1 className="year-sm white-txt">2018</h1>
@@ -14,4 +14,4 @@ const Event8 = () => {
   );
 };
 
-export default Event8;
+export default Event10;

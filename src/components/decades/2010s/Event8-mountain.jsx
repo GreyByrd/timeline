@@ -1,7 +1,7 @@
 import "./style-2010.css";
 import mountain from "../../../assets/2010-mountain-to-sea.jpg";
 
-const Event6 = () => {
+const Event8 = () => {
   return (
     <div className="event-container-wide panel-gray">
       <div className="col-4">
@@ -24,4 +24,4 @@ const Event6 = () => {
   );
 };
 
-export default Event6;
+export default Event8;
