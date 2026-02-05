@@ -5,8 +5,19 @@
   color: #ffffff;
 }
 
+.info-panel {
+  flex-direction: column;
+  padding: 0 2em;
+  align-items: flex-start;
+  width: 600px;
+}
+
 /* images */
 .red-outline {
   border-left: 12px solid #a6203e;
   border-bottom: 12px solid #a6203e;
+}
+
+.info-panel img {
+  width: 60%;
 }
