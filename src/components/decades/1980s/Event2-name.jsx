@@ -2,8 +2,8 @@ import "./style-1980.css";
 
 const Event2 = () => {
   return (
-    <div className="event-container small panel-gray">
-      <div className="event-narrative-content">
+    <div className="event-container narrative panel-gray">
+      <div>
         <h1 className="year maroon">1980</h1>
         <h2>What’s in a name?</h2>
         <p>

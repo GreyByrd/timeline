@@ -5,7 +5,7 @@ import notformen from "../../../assets/not-for-men-only.png";
 const Event4 = () => {
   return (
     <div className="event-container panel-gray">
-      <div className="content-container">
+      <div className="content">
         <div className="col-2">
           <h1 className="date">July</h1>
           <h1 className="year purple-txt">1972</h1>
@@ -36,7 +36,7 @@ const Event4 = () => {
             alt="Button that says Not For Men Only."
           />
         </div>
-        <div className="col-3">
+        <div className="col-4">
           <img src={stark} alt="Jack Stark."></img>
         </div>
       </div>

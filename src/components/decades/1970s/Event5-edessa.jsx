@@ -4,25 +4,27 @@ import edessa from "../../../assets/1970-profile-edessa-rose.png";
 const Event5 = () => {
   return (
     <div className="event-container-sm panel-yellow">
-      <div className="col-3">
-        <img src={edessa} />
-      </div>
-      <div className="col-3">
-        <h1 className="year-sm purple-txt">1972</h1>
-        <p>
-          In 1972, businesswoman, lawyer, feminist, and California activist
-          Edessa Rose was named the first woman trustee of what was then
-          Claremont Men’s College. In 1973, she founded the{" "}
-          <a
-            href="https://roseinstitute.org/rose-institute-history/"
-            target="_blank"
-            aria-label="Rose Institute History (opens in new tab)"
-          >
-            Rose Institute of State and Local Government
-          </a>{" "}
-          to address issues specific to California’s state and local
-          governments.
-        </p>
+      <div className="content">
+        <div className="col-3">
+          <img src={edessa} />
+        </div>
+        <div className="col-3">
+          <h1 className="year-sm purple-txt">1972</h1>
+          <p>
+            In 1972, businesswoman, lawyer, feminist, and California activist
+            Edessa Rose was named the first woman trustee of what was then
+            Claremont Men’s College. In 1973, she founded the{" "}
+            <a
+              href="https://roseinstitute.org/rose-institute-history/"
+              target="_blank"
+              aria-label="Rose Institute History (opens in new tab)"
+            >
+              Rose Institute of State and Local Government
+            </a>{" "}
+            to address issues specific to California’s state and local
+            governments.
+          </p>
+        </div>
       </div>
     </div>
   );

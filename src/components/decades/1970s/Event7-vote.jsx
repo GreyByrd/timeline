@@ -3,6 +3,7 @@ import "./style-1970.css";
 const Event7 = () => {
   return (
     <div className="event-container-sm">
+            <div className="content">
       <div className="event-narrative-content">
         <h1 className="year purple-txt">1973</h1>
         <p>
@@ -24,6 +25,7 @@ const Event7 = () => {
         </p>
       </div>
     </div>
+  </div>
   );
 };
 

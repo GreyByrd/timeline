@@ -3,7 +3,7 @@ import "./style-1970.css";
 const Event10 = () => {
   return (
     <div className="event-container panel-purple">
-      <div className="content-container endcap">
+      <div className="content endcap">
         <div className="col-4">
           <p className="lead-text">
             From the roots of its historic vote in 1975, the story of CMC began
