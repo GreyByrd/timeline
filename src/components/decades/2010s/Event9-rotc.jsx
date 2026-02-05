@@ -6,6 +6,7 @@ const Event9 = () => {
     <div className="event-container panel-maroon white-txt">
       <div className="content">
         <div className="col-2">
+          <h1 className="honors-trailblazer">Trailblazer</h1>
           <h1 className="year-sm white-txt">2018</h1>
           <h2>Achievement in Uniform</h2>
           <p>

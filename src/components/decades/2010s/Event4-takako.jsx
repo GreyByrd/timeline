@@ -1,8 +1,9 @@
 import "./style-2010.css";
+import takako from "../../../assets/2010-profile-takako-mino.png";
 
 const Event4 = () => {
   return (
-    <div className="event-container panel-maroon">
+    <div className="event-container-sm panel-maroon">
       <div className="content">
         <div className="col-3">
           <h1 className="date white-txt">March</h1>
@@ -18,7 +19,7 @@ const Event4 = () => {
           </p>
         </div>
         <div className="col-3">
-          <img src="src/assets/1980s-placeholder-duo.png" alt="Image." />
+          <img src={takako} alt="Takako Mino ’11" />
         </div>
       </div>
     </div>

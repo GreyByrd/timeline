@@ -12,6 +12,24 @@
   width: 600px;
 }
 
+.border-01 {
+  border: 6px solid #a6203e;
+  padding: 10px 30px;
+}
+
+.honors-influencer {
+  font-size: 4em;
+  margin-top: -78px;
+  color: #a6203e;
+}
+
+.honors-trailblazer {
+  font-size: 4em;
+  color: #ffffff;
+  position: absolute;
+  top: 0;
+}
+
 /* images */
 .red-outline {
   border-left: 12px solid #a6203e;

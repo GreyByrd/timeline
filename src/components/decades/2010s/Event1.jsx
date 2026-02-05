@@ -7,7 +7,6 @@ const Event1 = () => {
         <div className="col-3">
           <h1 className="eyebrow">A moment in history</h1>
           <h1 className="maroon-txt">2010s</h1>
-          <h2>XXX</h2>
           <p>
             If the Internet started as a superhighway, by the 2010s it had
             accelerated to warp speed. From their launch, the iPhone and

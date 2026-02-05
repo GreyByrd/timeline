@@ -29,8 +29,6 @@
 .small {
   display: flex;
   max-width: 740px;
-  flex: 0 0 100%;
-  flex-wrap: nowrap;
 }
 
 .wide {
@@ -105,6 +103,12 @@
   flex: 0 0 67%;
   padding: 15px;
 }
+
+.col-5 {
+  max-width: 100%;
+  flex: 0 0 100%;
+}
+
 /* typography */
 h1 {
   font-size: 6rem;

@@ -23,7 +23,8 @@ const Event5 = () => {
             alt="Kristin Lim (bottom left) and Chelina Odbert’99."
           />
         </div>
-        <div className="col-1">
+        <div className="col-1 border-01">
+          <h1 className="honors-influencer">Influencer</h1>
           <h1 className="date maroon">June</h1>
           <h1 className="year-sm maroon">2012</h1>
           <h2>Change from the Heart</h2>
