@@ -16,7 +16,7 @@ const Event3 = () => {
                 className="purple-txt"
                 href="https://www.cmc.edu/news/suzy-nicoletti-02-national-champion-for-record-breaking-swim-in-200-yard-breaststroke"
                 target="_blank"
-                aria-label="Read article: Suzy Nicoletti '02 National Champion For Record-Breaking Swim In 200-Yard Breaststroke"
+                aria-label="Read article: Suzy Nicoletti '02 National Champion For Record-Breaking Swim In 200-Yard Breaststroke (opens in new tab)"
               >
                 <strong>Suzy Nicoletti ’02</strong>
               </a>{" "}

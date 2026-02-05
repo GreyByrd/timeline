@@ -17,7 +17,7 @@ const Event6 = () => {
           <a
             href="https://www.cmc.edu/public-art/mary-weatherford-%E2%80%9Cfrom-mountain-to-sea%E2%80%9D"
             target="_blank"
-            aria-label="CMC Public Art: Mary Weatherford"
+            aria-label="CMC Public Art: Mary Weatherford (opens in new tab)"
           >
             <em>From the Mountain to the Sea </em>
           </a>{" "}

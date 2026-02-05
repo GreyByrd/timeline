@@ -7,7 +7,6 @@ const Event1 = () => {
         <div>
           <h1 className="eyebrow">A moment in history</h1>
           <h1 className="purple-txt">2000s</h1>
-          <h2>XXX</h2>
           <p>
             Fears of the “Y2K” bug notwithstanding, the world entered the 2000s
             with widespread global growth. Double-digit growth in India and

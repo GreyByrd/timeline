@@ -14,7 +14,7 @@ const Event6 = () => {
               className="purple-txt"
               href="https://www.cmc.edu/news/professor-aksoy-receives-award"
               target="_blank"
-              aria-label="Read article: Professor Aksoy Receives Award
+              aria-label="Read article: Professor Aksoy Receives Award (opens in new tab)
               "
             >
               <strong>Professor Asuman Aksoy</strong>
