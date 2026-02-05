@@ -9,6 +9,7 @@ import Event7 from "./2000s/Event7-wangari";
 import Event8 from "./2000s/Event8-berger";
 import Event9 from "./2000s/Event9-fawe";
 import Event10 from "./2000s/Event10";
+import Event11 from "./2000s/Event11";
 
 const Decade2000s = () => {
   return (
@@ -23,6 +24,7 @@ const Decade2000s = () => {
       <Event8 id={8} />
       <Event9 id={9} />
       <Event10 id={10} />
+      <Event11 id={11} />
     </ScrollyElement>
   );
 };
