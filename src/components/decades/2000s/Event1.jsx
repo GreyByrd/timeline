@@ -1,4 +1,5 @@
 import "./style-2000.css";
+import WE2000 from "../../../assets/Wolrd-Event-2000.gif"
 
 const Event1 = () => {
   return (
@@ -32,7 +33,7 @@ const Event1 = () => {
         </div>
       </div>
       <div className="col-3">
-        <img src="src/assets/fullwidth-placeholder.jpg" alt="Image." />
+        <img src={WE2000} alt="Collage featuring events of 2000, such as the Occupy recession protest of 2008 and the Twin Towers memorial park." />
       </div>
     </div>
   );
