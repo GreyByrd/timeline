@@ -3,20 +3,8 @@ import spotlight from "../../../assets/2010-profile-kristin-chelina.png";
 
 const Event5 = () => {
   return (
-    <div className="event-container wide panel-gray">
+    <div className="event-container panel-maroon">
       <div className="content">
-        <div className="col-1">
-          <h1 className="date maroon">January</h1>
-          <h1 className="year-sm maroon">2012</h1>
-          <h2>Award-Winning Student</h2>
-          <p>
-            CMC student-athlete <strong>Kristin Lim</strong> was nominated for
-            the Honda Award in NCAA Division III tennis. Lim was the first CMC
-            student-athlete to be nominated for this recognition, which is given
-            annually for outstanding athletic achievement and leadership,
-            academic excellence and community involvement.
-          </p>
-        </div>
         <div className="col-3">
           <img
             src={spotlight}
@@ -25,8 +13,8 @@ const Event5 = () => {
         </div>
         <div className="col-1 border-01">
           <h1 className="honors-influencer">Influencer</h1>
-          <h1 className="date maroon">June</h1>
-          <h1 className="year-sm maroon">2012</h1>
+          <h1 className="date white-txt">June</h1>
+          <h1 className="year-sm white-txt">2012</h1>
           <h2>Change from the Heart</h2>
           <p>
             <strong>Chelina Odbert ’99</strong>, who co-founded the Kounkey

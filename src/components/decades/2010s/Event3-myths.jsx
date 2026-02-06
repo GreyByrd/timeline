@@ -2,7 +2,7 @@ import "./style-2010.css";
 
 const Event3 = () => {
   return (
-    <div className="event-container narrative panel-white">
+    <div className="event-container narrative panel-gray">
       <div>
         <h1 className="date">January</h1>
         <h1 className="year-sm maroon-txt">2011</h1>
