@@ -4,7 +4,7 @@ import mountain from "../../../assets/2010-mountain-to-sea.jpg";
 const Event7 = () => {
   return (
     <div className="img-container">
-      <img className="red-outline" src={mountain} />
+      <img src={mountain} />
     </div>
   );
 };
