@@ -26,7 +26,7 @@ const Event9 = () => {
           </p>
         </div>
         <div className="col-4">
-          <img src={ROTC} />
+          <img className="fullwidth" src={ROTC} />
         </div>
       </div>
     </div>

@@ -1,17 +1,14 @@
 import "./style-2010.css";
-import spotlight from "../../../assets/2010-profile-kristin-chelina.png";
+import chelina from "../../../assets/2010-profile-chelina-gradient.png";
 
 const Event5 = () => {
   return (
     <div className="event-container panel-maroon">
       <div className="content">
         <div className="col-3">
-          <img
-            src={spotlight}
-            alt="Kristin Lim (bottom left) and Chelina Odbert’99."
-          />
+          <img src={chelina} alt="Chelina Odbert’99." />
         </div>
-        <div className="col-1 border-01">
+        <div className="col-3">
           <h1 className="honors-influencer">Influencer</h1>
           <h1 className="date white-txt">June</h1>
           <h1 className="year-sm white-txt">2012</h1>
