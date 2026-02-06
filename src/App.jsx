@@ -1,4 +1,5 @@
 import { ScrollyProvider } from "react-scrolly-telling";
+import Nav from "./components/Nav/Nav";
 import DecadeIntro from "./components/decades/DecadeIntro";
 import Decade1970s from "./components/decades/Decade1970s";
 import Decade1980s from "./components/decades/Decade1980s";
@@ -9,15 +10,22 @@ import Decade2020s from "./components/decades/Decade2020s";
 
 const App = () => {
   return (
-    <ScrollyProvider>
-      <DecadeIntro />
-      <Decade1970s />
-      <Decade1980s />
-      <Decade1990s />
-      <Decade2000s />
-      <Decade2010s />
-      <Decade2020s />
-    </ScrollyProvider>
+    <div>
+      <nav>
+        <button onClick={() => scrollToSection("section1")}>Section 1</button>
+        <button onClick={() => scrollToSection("section2")}>Section 2</button>
+        <button onClick={() => scrollToSection("section3")}>Section 3</button>
+      </nav>
+      <ScrollyProvider>
+        <DecadeIntro />
+        <Decade1970s />
+        <Decade1980s />
+        <Decade1990s />
+        <Decade2000s />
+        <Decade2010s />
+        <Decade2020s />
+      </ScrollyProvider>
+    </div>
   );
 };
 
