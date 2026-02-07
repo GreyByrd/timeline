@@ -9,7 +9,7 @@ const Event1 = () => {
         <h1 id="decade1" className="purple-txt">
           1970s
         </h1>
-        <h2>The age of change</h2>
+        <h2>The age of changes</h2>
         <p>
           Times were changing. People were changing. Our nation and our world
           were changing. A rise in airline travel connected people like never
