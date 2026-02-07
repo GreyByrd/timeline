@@ -1,4 +1,5 @@
 import "./style-2010.css";
+import WE2010 from "../../../assets/World-Event-2010.gif";
 
 const Event1 = () => {
   return (
@@ -32,7 +33,10 @@ const Event1 = () => {
           </p>
         </div>
         <div className="col-3">
-          <img src="/src/assets/fullwidth-placeholder.jpg" alt="Image." />
+          <img
+            src={WE2010}
+            alt="Collage featuring smart phones and graffiti concerning Brexit."
+          />
         </div>
       </div>
     </div>
