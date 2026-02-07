@@ -10,6 +10,7 @@ import Decade2020s from "./components/decades/Decade2020s";
 const App = () => {
   return (
     <ScrollyProvider>
+      <HorizontalScrollWithAnchors />
       <DecadeIntro />
       <Decade1970s />
       <Decade1980s />
