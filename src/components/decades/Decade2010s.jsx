@@ -12,18 +12,20 @@ import Event10 from "./2010s/Event10";
 
 const Decade2010s = () => {
   return (
-    <ScrollyElement horizontal>
-      <Event1 id={1} />
-      <Event2 id={2} />
-      <Event3 id={3} />
-      <Event4 id={4} />
-      <Event5 id={5} />
-      <Event6 id={6} />
-      <Event7 id={7} />
-      <Event8 id={8} />
-      <Event9 id={9} />
-      <Event10 id={10} />
-    </ScrollyElement>
+    <div id="2010">
+      <ScrollyElement horizontal>
+        <Event1 id={1} />
+        <Event2 id={2} />
+        <Event3 id={3} />
+        <Event4 id={4} />
+        <Event5 id={5} />
+        <Event6 id={6} />
+        <Event7 id={7} />
+        <Event8 id={8} />
+        <Event9 id={9} />
+        <Event10 id={10} />
+      </ScrollyElement>
+    </div>
   );
 };
 

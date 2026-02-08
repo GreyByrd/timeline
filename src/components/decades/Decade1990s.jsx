@@ -11,17 +11,19 @@ import Event9 from "./1990s/Event9-pamgann";
 
 const Decade1990s = () => {
   return (
-    <ScrollyElement horizontal>
-      <Event1 id={1} />
-      <Event2 id={2} />
-      <Event3 id={3} />
-      <Event4 id={4} />
-      <Event5 id={5} />
-      <Event6 id={6} />
-      <Event7 id={7} />
-      <Event8 id={8} />
-      <Event9 id={9} />
-    </ScrollyElement>
+    <div id="1990">
+      <ScrollyElement horizontal>
+        <Event1 id={1} />
+        <Event2 id={2} />
+        <Event3 id={3} />
+        <Event4 id={4} />
+        <Event5 id={5} />
+        <Event6 id={6} />
+        <Event7 id={7} />
+        <Event8 id={8} />
+        <Event9 id={9} />
+      </ScrollyElement>
+    </div>
   );
 };
 
