@@ -16,7 +16,9 @@
     "react": "^19.1.1",
     "react-dom": "^19.1.1",
     "react-scrolly-telling": "^0.2.2",
-    "tailwindcss": "^4.1.14"
+    "tailwindcss": "^4.1.14",
+    "react-scroll": "1.9.3"
+
   },
   "devDependencies": {
     "@eslint/js": "^9.36.0",
