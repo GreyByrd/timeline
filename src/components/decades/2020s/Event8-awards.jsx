@@ -28,7 +28,7 @@ const Event8 = () => {
             <a
               href="https://www.cmc.edu/newsfeed/emerging-cmc-leaders-honored-obama-foundation"
               target="_blank"
-              aria-label="Read article about Annabel Chung's scholarship win"
+              aria-label="Read article about Annabel Chung's scholarship win (opens in new tab)"
             >
               earn an Obama-Chesky Scholarship
             </a>{" "}

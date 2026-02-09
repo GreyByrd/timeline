@@ -14,7 +14,7 @@ const Event5 = () => {
               <a
                 href="https://www.cmc.edu/newsfeed/athenas-tennis-team-wins-national-title"
                 target="_blank"
-                aria-label="Read article: Athenas tennis team wins national title!"
+                aria-label="Read article: Athenas tennis team wins national title! (opens in new tab)"
               >
                 beat No. 1 University of Chicago
               </a>{" "}

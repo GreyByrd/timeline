@@ -14,7 +14,7 @@ const Event9 = () => {
             <a
               href="https://www.cmc.edu/newsfeed/bertha-tobias-23-honored-rhodes-scholar"
               target="_blank"
-              aria-label="Read article: Bertha Tobias ’23 honored as Rhodes Scholar"
+              aria-label="Read article: Bertha Tobias ’23 honored as Rhodes Scholar (opens in new tab)"
             >
               awarded the competitive and prestigious Rhodes Scholarship
             </a>

@@ -21,7 +21,7 @@ const Event7 = () => {
             <a
               href="https://www.cmc.edu/newsfeed/prof-feitosa-honored-fulbright"
               target="_blank"
-              aria-label="Read article: Prof. Feitosa honored with Fulbright              "
+              aria-label="Read article: Prof. Feitosa honored with Fulbright (opens in new tab)"
             >
               she was recognized
             </a>{" "}
@@ -30,7 +30,7 @@ const Event7 = () => {
             <a
               href="hthttps://www.cmc.edu/newsfeed/professor-emily-wiley-awarded-fulbright"
               target="_blank"
-              aria-label="Read article: Professor Emily Wiley awarded Fulbright              "
+              aria-label="Read article: Professor Emily Wiley awarded Fulbright (opens in new tab)"
             >
               earned her own Fulbright Scholar award
             </a>{" "}

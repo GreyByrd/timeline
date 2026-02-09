@@ -21,7 +21,7 @@ const Event3 = () => {
           <a
             href="https://www.cmc.edu/newsfeed/alice-chang-15-and-sara-linssen-16-sell-chickens-fight-poverty-east-africa"
             target="_blank"
-            aria-label="Read article: Alice Chang ’15 and Sara Linssen ’16 sell chickens, fight poverty in East Africa"
+            aria-label="Read article: Alice Chang ’15 and Sara Linssen ’16 sell chickens, fight poverty in East Africa (opens in new tab)"
           >
             <p>Read their story</p>
           </a>

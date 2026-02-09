@@ -8,8 +8,11 @@ import Event6 from "./2020s/Event6-tennisimg";
 import Event7 from "./2020s/Event7-profs";
 import Event8 from "./2020s/Event8-awards";
 import Event9 from "./2020s/Event9-rhodes02";
-import Event10 from "./2020s/Event10";
-import Event11 from "./2020s/Event11";
+import Event10 from "./2020s/Event10-awards02";
+import Event11 from "./2020s/Event11-glam";
+import Event12 from "./2020s/Event12-ella";
+import Event13 from "./2020s/Event13-josephine";
+import Event14 from "./2020s/Event14";
 
 const Decade2020s = () => {
   return (
@@ -25,6 +28,9 @@ const Decade2020s = () => {
       <Event9 id={9} />
       <Event10 id={10} />
       <Event11 id={11} />
+      <Event12 id={12} />
+      <Event13 id={13} />
+      <Event14 id={14} />
     </ScrollyElement>
   );
 };
