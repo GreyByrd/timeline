@@ -2,17 +2,31 @@ import "./style-2020.css";
 
 const Event1 = () => {
   return (
-    <div id="2020" className="event-container panel-white">
+    <div className="event-container wide panel-white">
       <div className="col-2">
         <div>
           <h1 className="eyebrow">A moment in history</h1>
           <h1 className="yellow-txt">2020s</h1>
           <h2>XXX</h2>
           <p>
-            Pretium nulla nisl at quis vel sed sit ut. Ornare eu eros consequat
-            proin amet. Feugiat ut sem id vitae sagittis.Pretium nulla nisl at
-            quis vel sed sit ut. Ornare eu eros consequat proin amet. Feugiat ut
-            sem id vitae sagittis.
+            After decades of constant global expansion, the first few months of
+            the 2020s shrank the world back to four walls and a video-conference
+            screen. The COVID-19 pandemic upended cultural assumptions about
+            work, school, and family and unleashed a torrent of innovation
+            across a range of economic sectors. At the same time, shocking
+            moments of violence, including the May 2020 murder of George Floyd,
+            elevated important conversations on racism and justice, and Russia’s
+            invasion of Ukraine in 2022 strained global relationships. The
+            re-election of Donald Trump in 2024, along with other rightward
+            shifts around the globe, showed that assumptions about government
+            were also due for a recalibration.
+          </p>
+          <p>
+            At CMC, the recalibration that began in 1976 continued to pay
+            dividends through the first half of the 2020s. Women lead in
+            business, government, the professions, the liberal arts, and higher
+            education, distinguishing themselves and the CMC community through
+            their actions and achievements.
           </p>
         </div>
       </div>

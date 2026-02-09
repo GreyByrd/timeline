@@ -18,6 +18,12 @@ const Navbar = () => {
       <Link to="2000" smooth={true} duration={600} className="pointer">
         2000
       </Link>
+      <Link to="2010" smooth={true} duration={600} className="pointer">
+        2010
+      </Link>
+      <Link to="2020" smooth={true} duration={600} className="pointer">
+        2020
+      </Link>
     </nav>
   );
 };

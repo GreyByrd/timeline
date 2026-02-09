@@ -1,6 +1,6 @@
 import "./style-2020.css";
 
-const Event8 = () => {
+const Event6 = () => {
   return (
     <div className="event-container-sm">
       <img className="fullwidth" src="/src/assets/Womens_Tennis_NCAA.jpg" />
@@ -8,4 +8,4 @@ const Event8 = () => {
   );
 };
 
-export default Event8;
+export default Event6;

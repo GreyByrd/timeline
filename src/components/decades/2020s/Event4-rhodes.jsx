@@ -1,0 +1,30 @@
+import "./style-2020.css";
+
+const Event4 = () => {
+  return (
+    <div className="event-container panel-white">
+      <div className="content">
+        <div className="col-3">
+          <img src="src/assets/profile-img.png" alt="Image." />
+        </div>
+        <div className="col-2">
+          <div>
+            <h1 className="date">November</h1>
+            <h1 className="year-sm yellow-txt">2021</h1>
+            <h2>International Acclaim</h2>
+            <p>
+              <strong>Sarah Chen ’22</strong> became the first woman and third
+              CMCer to be awarded a Rhodes Scholarship, recognized as the most
+              competitive and prestigious scholarship in the world. A
+              Philosophy, Politics, and Economics and International Relations
+              dual major, Chen studied the emerging discipline of strategic
+              wargaming.
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  );
+};
+
+export default Event4;
