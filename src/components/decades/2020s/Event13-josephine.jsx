@@ -2,7 +2,7 @@ import "./style-2020.css";
 
 const Event13 = () => {
   return (
-    <div className="event-container panel-yellow">
+    <div className="event-container">
       <div className="content">
         <div className="col-3">
           <h1 className="year-sm">2025</h1>
@@ -14,13 +14,13 @@ const Event13 = () => {
             female cyclists. She spent 12 weeks in Roubaix, France, doing
             research and building her own frames, in pursuit of a{" "}
             <a
-              className="maroon-txt"
+              className="yellow-txt"
               href="https://gouldcenter.org/creative-works-fellowship-homepage"
               target="_blank"
               aria-label="Gould Center (opens in new tab)"
             >
               Gould Center for Humanistic Studies Creative Works
-            </a>
+            </a>{" "}
             project. Aspromonte was also selected to become a Handley Leadership
             Fellow through the{" "}
             <a

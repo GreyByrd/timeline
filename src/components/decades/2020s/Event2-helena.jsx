@@ -3,8 +3,10 @@ import helena from "../../../assets/2020-profile-helena-b-evich.jpg";
 
 const Event2 = () => {
   return (
-    <div className="event-container small panel-yellow">
-      <div className="col-2">
+    <div className="event-container-sm panel-yellow">
+      <div className="content info-panel">
+        <img src={helena} alt="Helena Bottemiller Evich ’09." />
+        <br />
         <h1 className="date">February</h1>
         <h1 className="year-sm">2020</h1>
         <h2>Breaking the News</h2>
@@ -21,9 +23,6 @@ const Event2 = () => {
           response to climate change. Evich found her interest in food policy in
           her CMC senior thesis in 2009.
         </p>
-      </div>
-      <div className="col-3">
-        <img src={helena} alt="Helena Bottemiller Evich ’09." />
       </div>
     </div>
   );

@@ -1,9 +1,9 @@
 import "./style-2020.css";
-import rhodes from "../../../assets/2020-profile-bertha-tobias.png";
+import rhodes02 from "../../../assets/2020-profile-bertha-tobias_alt.png";
 
 const Event9 = () => {
   return (
-    <div className="event-container panel-yellow">
+    <div className="event-container panel-gray">
       <div className="content">
         <div className="col-2">
           <h1 className="date">November</h1>
@@ -13,6 +13,7 @@ const Event9 = () => {
             <strong>Bertha Tobias ’24</strong> became the second woman and first
             student of African descent to be{" "}
             <a
+              className="yellow-txt"
               href="https://www.cmc.edu/newsfeed/bertha-tobias-23-honored-rhodes-scholar"
               target="_blank"
               aria-label="Read article: Bertha Tobias ’23 honored as Rhodes Scholar (opens in new tab)"

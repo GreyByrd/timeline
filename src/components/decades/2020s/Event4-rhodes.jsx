@@ -8,7 +8,7 @@ const Event4 = () => {
         <div className="col-3">
           <img src={rhodes01} alt="Sarah Chen ’22." />
         </div>
-        <div className="col-2">
+        <div className="col-3">
           <div>
             <h1 className="date">November</h1>
             <h1 className="year-sm yellow-txt">2021</h1>

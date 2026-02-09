@@ -2,13 +2,13 @@ import "./style-2020.css";
 
 const Event14 = () => {
   return (
-    <div className="event-container panel-yellow">
-      <div className="content endcap">
-        <div className="col-4">
-          <h2>
+    <div className="event-container multi-gradient">
+      <div className="content endcap white-txt">
+        <div className="col-4 ">
+          <h1 className="white-txt">
             <em>The Future</em>
-          </h2>
-          <p>
+          </h1>
+          <p className="lead-text">
             Fifty years, and many more to come. What is the next remarkable
             achievement in store?
           </p>

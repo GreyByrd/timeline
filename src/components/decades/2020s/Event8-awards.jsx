@@ -1,4 +1,5 @@
 import "./style-2020.css";
+import awardees from "../../../assets/2020-profile-awardees.png";
 
 const Event8 = () => {
   return (
@@ -12,6 +13,7 @@ const Event8 = () => {
             <strong>Ivanna Morales Mercado ’25</strong> and{" "}
             <strong>Alejandra Vázquez Baur ’17</strong> were{" "}
             <a
+              className="yellow-txt"
               href="https://www.cmc.edu/newsfeed/emerging-cmc-leaders-honored-obama-foundation"
               target="_blank"
               aria-label="Read article: Emerging CMC leaders honored by Obama Foundation"
@@ -23,9 +25,10 @@ const Event8 = () => {
             Public Service from the Obama Foundation. Baur was selected in the
             inaugural cohort of the Obama Foundation Leaders USA program which
             supports “values-driven changemakers” in acquiring new skills and
-            tools to accelerate change in their communities. Two years later,
+            tools to accelerate change in their communities. Two years later,{" "}
             <strong>Annabel Chung ’27</strong> became the second woman to{" "}
             <a
+              className="yellow-txt"
               href="https://www.cmc.edu/newsfeed/emerging-cmc-leaders-honored-obama-foundation"
               target="_blank"
               aria-label="Read article about Annabel Chung's scholarship win (opens in new tab)"
@@ -36,7 +39,7 @@ const Event8 = () => {
           </p>
         </div>
         <div className="col-3">
-          <img src="#" />
+          <img src={awardees} />
         </div>
       </div>
     </div>

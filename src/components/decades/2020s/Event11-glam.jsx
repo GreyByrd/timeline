@@ -2,9 +2,9 @@ import "./style-2020.css";
 
 const Event11 = () => {
   return (
-    <div className="event-container panel-yellow">
-      <div className="content narrative">
-        <div className="col-1">
+    <div className="event-container">
+      <div className="content">
+        <div className="col-3">
           <h1 className="date">April</h1>
           <h1 className="year-sm">2024</h1>
           <h2>Going Glam</h2>
@@ -18,7 +18,7 @@ const Event11 = () => {
           </p>
           <p>
             <a
-              className="maroon-txt"
+              className="yellow-txt"
               href="https://www.cmc.edu/newsfeed/nicole-cheung-25-co-founds-ai-beauty-app-achieves-milestone"
               target="_blank"
               aria-label="Read article: Nicole Cheung ’25 co-founds AI beauty app, achieves milestone (opens in new tab)"

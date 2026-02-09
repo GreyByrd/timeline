@@ -2,7 +2,7 @@ import "./style-2020.css";
 
 const Event12 = () => {
   return (
-    <div className="event-container panel-yellow">
+    <div className="event-container panel-gray">
       <div className="content">
         <div className="col-3">
           <img src="#" />
@@ -18,7 +18,7 @@ const Event12 = () => {
             in the team’s back-to-back national championships in 2022 and 2023.
             And in 2025, she was named the Division III women’s{" "}
             <a
-              className="maroon-txt"
+              className="yellow-txt"
               href="https://cmsathletics.org/news/2025/11/5/womens-tennis-ella-brissett-earns-ncaa-impact-award-for-athenas-tennis.aspx"
               target="_blank"
               aria-label="Read CMS article about Ella (opens in new tab)"

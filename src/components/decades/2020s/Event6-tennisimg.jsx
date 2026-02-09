@@ -3,7 +3,7 @@ import tennis from "../../../assets/2020-womens-tennis-NCAA.jpg";
 
 const Event6 = () => {
   return (
-    <div className="event-container-sm">
+    <div className="img-container">
       <img
         className="fullwidth"
         src={tennis}

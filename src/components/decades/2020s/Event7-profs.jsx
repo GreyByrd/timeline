@@ -3,15 +3,15 @@ import feitosa from "../../../assets/2020-jennifer-feitosa.png";
 
 const Event7 = () => {
   return (
-    <div className="event-container-sm panel-black">
-      <div className="content narrative">
-        <div className="col-3">
-          <img className="profile" src={feitosa} alt="Image." />
-        </div>
-        <h1 className="date">Faculty Excellence</h1>
-        <h1 className="year-sm">Faculty Excellence</h1>
-        <h2>Best and Brightest</h2>
+    <div className="event-container narrative small panel-black">
+      <div>
         <div className="col-4">
+          <img src={feitosa} alt="Image." />
+        </div>
+        <div className="col-5">
+          <h1 className="date yellow-txt">March</h1>
+          <h1 className="year-sm yellow-txt">2022</h1>
+          <h2>Best and Brightest</h2>
           <p>
             CMC <strong>Prof. Jennifer Feitosa</strong> joined an elite cadre
             when{" "}
