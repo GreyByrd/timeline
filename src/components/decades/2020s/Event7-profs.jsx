@@ -1,15 +1,12 @@
 import "./style-2020.css";
+import feitosa from "../../../assets/2020-jennifer-feitosa.png";
 
 const Event7 = () => {
   return (
     <div className="event-container-sm panel-black">
       <div className="content narrative">
         <div className="col-3">
-          <img
-            className="profile"
-            src="src/assets/profile-img.png"
-            alt="Image."
-          />
+          <img className="profile" src={feitosa} alt="Image." />
         </div>
         <h1 className="date">Faculty Excellence</h1>
         <h1 className="year-sm">Faculty Excellence</h1>

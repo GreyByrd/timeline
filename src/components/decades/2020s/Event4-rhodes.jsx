@@ -1,11 +1,12 @@
 import "./style-2020.css";
+import rhodes01 from "../../../assets/2020-profile-sara-chen.png";
 
 const Event4 = () => {
   return (
     <div className="event-container panel-white">
       <div className="content">
         <div className="col-3">
-          <img src="src/assets/profile-img.png" alt="Image." />
+          <img src={rhodes01} alt="Sarah Chen ’22." />
         </div>
         <div className="col-2">
           <div>

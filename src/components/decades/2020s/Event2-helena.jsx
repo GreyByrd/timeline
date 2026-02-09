@@ -1,4 +1,5 @@
 import "./style-2020.css";
+import helena from "../../../assets/2020-profile-helena-b-evich.jpg";
 
 const Event2 = () => {
   return (
@@ -8,7 +9,7 @@ const Event2 = () => {
         <h1 className="year-sm">2020</h1>
         <h2>Breaking the News</h2>
         <p>
-          POLITICO reporter <strong>Helena Bottemiller Evich '09</strong>{" "}
+          POLITICO reporter <strong>Helena Bottemiller Evich ’09</strong>{" "}
           <a
             href="https://www.politico.com/news/2020/02/19/politico-journalist-wins-polk-award-116054%22"
             target="_blank"
@@ -22,7 +23,7 @@ const Event2 = () => {
         </p>
       </div>
       <div className="col-3">
-        <img src="src/assets/profile-img.png" alt="Image." />
+        <img src={helena} alt="Helena Bottemiller Evich ’09." />
       </div>
     </div>
   );

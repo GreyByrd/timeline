@@ -1,4 +1,5 @@
 import "./style-2020.css";
+import nita from "../../../assets/2020-nita-kumar.png";
 
 const Event10 = () => {
   return (
@@ -38,7 +39,7 @@ const Event10 = () => {
         </p>
       </div>
       <div className="col-2">
-        <img src="/src/assets/placeholder-collage-02.png" />
+        <img src={nita} />
       </div>
     </div>
   );

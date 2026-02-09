@@ -1,4 +1,5 @@
 import "./style-2020.css";
+import rhodes from "../../../assets/2020-profile-bertha-tobias.png";
 
 const Event9 = () => {
   return (
@@ -24,7 +25,7 @@ const Event9 = () => {
           </p>
         </div>
         <div className="col-3">
-          <img src="/src/assets/placeholder.png" />
+          <img src={rhodes02} alt="Bertha Tobias ’23" />
         </div>
       </div>
     </div>
