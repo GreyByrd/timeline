@@ -7,14 +7,17 @@ const Nav = () => {
       <p>
         <strong>Decades</strong>
       </p>
-      <Link to="1970" instant={true} duration={300} className="pointer">
+      <Link to="1970" smooth={true} duration={600} className="pointer">
         1970
       </Link>
-      <Link to="1980" instant={true} duration={300} className="pointer">
+      <Link to="1980" smooth={true} duration={600} className="pointer">
         1980
       </Link>
-      <Link to="1990" instant={true} duration={300} className="pointer">
+      <Link to="1990" smooth={true} duration={600} className="pointer">
         1990
+      </Link>
+      <Link to="2000" smooth={true} duration={600} className="pointer">
+        2000
       </Link>
     </nav>
   );
