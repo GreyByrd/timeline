@@ -6,7 +6,7 @@ import Decade1990s from "./components/decades/Decade1990s";
 import Decade2000s from "./components/decades/Decade2000s";
 import Decade2010s from "./components/decades/Decade2010s";
 import Decade2020s from "./components/decades/Decade2020s";
-import Nav from "./components/Navbar/Nav";
+import Navbar from "./components/Navbar/Navbar";
 
 const App = () => {
   return (

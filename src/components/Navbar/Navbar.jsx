@@ -1,7 +1,6 @@
-import { Link } from "react-scroll";
-import Nav from "../Navbar/Nav.css";
+import React from "react";
 
-const Nav = () => {
+const Navbar = () => {
   return (
     <nav className="nav">
       <p>
@@ -23,4 +22,4 @@ const Nav = () => {
   );
 };
 
-export default Nav;
+export default Navbar;
