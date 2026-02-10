@@ -3,7 +3,7 @@ import mari from "../../../assets/1980-profile-mari.png";
 
 const Event5 = () => {
   return (
-    <div className="event-container-sm gradient-border-multi">
+    <div className="event-container small gradient-border-multi">
       <div className="content">
         <div className="col-3">
           <img src={mari} />

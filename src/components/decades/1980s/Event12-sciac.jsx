@@ -5,7 +5,7 @@ const Event12 = () => {
   return (
     <div className="event-container panel-maroon">
       <div className="content">
-        <div className="col-3">
+        <div className="col-2">
           <h1 className="year-sm white-txt">1988</h1>
           <h2>Athletic achievement</h2>
           <p>
@@ -18,7 +18,7 @@ const Event12 = () => {
           </p>
         </div>
         <br />
-        <div className="col-3">
+        <div className="col-4">
           <img src={sciac} alt-text="Collage of CMC women's sports teams." />
         </div>
       </div>

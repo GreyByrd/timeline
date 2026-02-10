@@ -1,5 +1,5 @@
 import "./style-2020.css";
-import rhodes02 from "../../../assets/2020-profile-bertha-tobias_alt.png";
+import rhodes02 from "../../../assets/2020-profile-bertha-tobias_g_alt.png";
 
 const Event9 = () => {
   return (

@@ -24,10 +24,10 @@ const Event7 = () => {
           the Athenaeum.
         </p>
       </div>
-      <div className="col-2">
+      <div className="col-3">
         <img src={tamaratina}></img>
       </div>
-      <div className="col-2">
+      <div className="col-1">
         <h1 className="date">May</h1>
         <h1 className="year-sm yellow-txt">1993</h1>
         <h2>Connector at heart</h2>

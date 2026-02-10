@@ -3,12 +3,10 @@ import lorraine from "../../../assets/1980-profile-lorraine.png";
 
 const Event13 = () => {
   return (
-    <div className="event-container-sm panel-gray">
+    <div className="event-container narrative panel-gray">
       <div className="content">
-        <div className="col-3">
+        <div className="col-4">
           <img src={lorraine}></img>
-        </div>
-        <div className="col-3">
           <h1 className="year-sm maroon-txt">1988</h1>
           <h2>Alumni Association breaks barriers</h2>
           <p>

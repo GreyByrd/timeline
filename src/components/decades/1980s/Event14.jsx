@@ -7,7 +7,7 @@ const Event13 = () => {
         <div className="col-4">
           <h1 className="year-sm white">1989</h1>
           <h2>Global greatness</h2>
-          <p>
+          <p className="lead-text">
             As the decade came to a close, CMC’s reach began to encircle the
             globe. The Student Investment Fund was the largest and the most
             successful student organization on campus. CMC had seven major

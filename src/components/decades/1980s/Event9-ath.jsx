@@ -3,9 +3,9 @@ import ath from "../../../assets/1980-ath.png";
 
 const Event9 = () => {
   return (
-    <div className="event-container-wide panel-gray">
+    <div className="event-container wide panel-gray">
       <div className="content">
-        <div className="col-2">
+        <div className="col-3">
           <h1 className="date">Fall of</h1>
           <h1 className="year-sm maroon-txt">1982</h1>
           <h2>The Ath gets a new home</h2>
@@ -24,7 +24,10 @@ const Event9 = () => {
           </p>
         </div>
         <div className="col-3">
-          <img src={ath} alt="xxx." />
+          <img
+            src={ath}
+            alt="The inception of the Marian Miner Cook Athenaeum."
+          />
         </div>
       </div>
     </div>

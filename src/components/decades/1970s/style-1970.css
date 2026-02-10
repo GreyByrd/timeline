@@ -28,7 +28,7 @@
 
 .small {
   display: flex;
-  max-width: 740px;
+  max-width: 760px;
 }
 
 .wide {
@@ -42,7 +42,7 @@
   flex-wrap: wrap;
   align-content: flex-start;
   justify-content: center;
-  padding: 10% 6%;
+  padding: 8% 6%;
 }
 
 .event-narrative {
