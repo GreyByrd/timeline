@@ -11,7 +11,6 @@ import Navbar from "./components/Navbar/Navbar";
 const App = () => {
   return (
     <ScrollyProvider>
-      <Navbar />
       <DecadeIntro />
       <Decade1970s />
       <Decade1980s />
