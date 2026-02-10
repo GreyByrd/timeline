@@ -1,4 +1,5 @@
 import "./style-2020.css";
+import WE2020 from "../../../assets/World-Event-2020.gif";
 
 const Event1 = () => {
   return (
@@ -31,7 +32,10 @@ const Event1 = () => {
           </div>
         </div>
         <div className="col-3">
-          <img src="src/assets/fullwidth-placeholder.jpg" alt="Image." />
+          <img
+            src={WE2020}
+            alt="Depictions of 2020 events like the pandemic impact."
+          />
         </div>
       </div>
     </div>

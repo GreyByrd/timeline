@@ -1,5 +1,5 @@
 import "./style-2020.css";
-import rhodes01 from "../../../assets/2020-profile-sara-chen.png";
+import rhodes01 from "../../../assets/2020-profile-sara-chen_alt.png";
 
 const Event4 = () => {
   return (

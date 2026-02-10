@@ -1,5 +1,5 @@
 import "./style-2020.css";
-import tennis from "../../../assets/2020-womens-tennis-NCAA.jpg";
+import tennis from "../../../assets/2020-athena-ncaa.jpg";
 
 const Event6 = () => {
   return (

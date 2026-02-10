@@ -4,13 +4,13 @@ import chelina from "../../../assets/2010-profile-chelina_alt.png";
 const Event5 = () => {
   return (
     <div className="event-container panel-maroon">
-      <div className="content">
+      <div className="content white-txt">
         <div className="col-3">
           <img src={chelina} alt="Chelina Odbert’99." />
         </div>
         <div className="col-3">
           <h1 className="honors-influencer">Influencer</h1>
-          <h1 className="date white-txt">June</h1>
+          <h1 className="date">June</h1>
           <h1 className="year-sm white-txt">2012</h1>
           <h2>Change from the Heart</h2>
           <p>
