@@ -2,7 +2,7 @@ import "./style-1990.css";
 
 const Event2 = () => {
   return (
-    <div className="event-container narrative yellow-gradient">
+    <div className="event-container narrative">
       <div>
         <p className="lead-text">
           At Claremont McKenna College, the decade opened with a troubling
