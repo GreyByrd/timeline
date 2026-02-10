@@ -5,10 +5,12 @@ const Event6 = () => {
   return (
     <div className="event-container small">
       <div className="content info-panel">
-        <img src={mary} />
-        <p className="caption">
-          <em>Photo by Antony Hoffman courtesy of Gagosian.</em>
-        </p>
+        <div>
+          <img src={mary} />
+          <p className="caption">
+            <em>Photo by Antony Hoffman courtesy of Gagosian.</em>
+          </p>
+        </div>
         <h1 className="date">September 16</h1>
         <h1 className="year-sm maroon-txt">2014</h1>
         <h2>Art and Life</h2>

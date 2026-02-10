@@ -8,7 +8,6 @@ const Event1 = () => {
           <div>
             <h1 className="eyebrow">A moment in history</h1>
             <h1 className="yellow-txt">2020s</h1>
-            <h2>XXX</h2>
             <p>
               After decades of constant global expansion, the first few months
               of the 2020s shrank the world back to four walls and a

@@ -5,8 +5,11 @@ const Event11 = () => {
     <div className="event-container panel-maroon">
       <div className="content endcap">
         <div className="col-4">
-          <h2>Global greatness</h2>
-          <p>xxx</p>
+          <p className="lead-text">
+            As CMC’s co-education journey neared the halfway point of its fifth
+            decade, alumni, students, faculty, and the CMC community were
+            positioned for success across a number of metrics.
+          </p>
         </div>
       </div>
     </div>
