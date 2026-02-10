@@ -1,5 +1,5 @@
 import "./style-2010.css";
-import chelina from "../../../assets/2010-profile-chelina-gradient.png";
+import chelina from "../../../assets/2010-profile-chelina_alt.png";
 
 const Event5 = () => {
   return (

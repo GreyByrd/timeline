@@ -16,7 +16,7 @@ const Event7 = () => {
           official debut with parties, athletics, an aerial flyover, a black-tie
           dinner, and a national press campaign.
         </p>
-        <p className="quote quote-white">
+        <p className="quote quote-maroon">
           <em>This is not a break with the past, but a natural evolution.</em>
           <br />
           <span className="quote-name">

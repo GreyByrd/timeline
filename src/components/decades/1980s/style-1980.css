@@ -36,6 +36,10 @@ a.maroon:hover {
   border-left: 4px solid #ffffff;
 }
 
+.quote-maroon {
+  border-left: 4px solid #a6203e;
+}
+
 .strikethrough {
   text-decoration: line-through;
 }
@@ -95,7 +99,7 @@ ul {
   border-width: 14px;
   border-style: solid;
   border-image: linear-gradient(45deg, #a7203d, #5d308d) 1;
-  height: 93.5%;
+  height: 95%;
 }
 
 .celebration {
@@ -123,7 +127,7 @@ ul {
 }
 
 .inset p {
-  margin-top: 31%;
+  margin-top: 25%;
   font-size: 0.9rem;
 }
 
