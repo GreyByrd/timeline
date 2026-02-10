@@ -1,4 +1,5 @@
 import "./style-2020.css";
+import nicole from "../../../assets/2020-profile-nicole-cheung.png";
 
 const Event11 = () => {
   return (
@@ -26,6 +27,9 @@ const Event11 = () => {
               Read the story
             </a>
           </p>
+        </div>
+        <div className="col-3">
+          <img src={nicole} alt="Nicole Cheung ’25." />
         </div>
       </div>
     </div>

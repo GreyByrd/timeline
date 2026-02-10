@@ -1,13 +1,14 @@
 import "./style-2020.css";
+import ella from "../../../assets/2020-profile-ella-brissett.jpg";
 
 const Event12 = () => {
   return (
     <div className="event-container panel-gray">
       <div className="content">
         <div className="col-3">
-          <img src="#" />
+          <img src={ella} alt="Ella Brissett after championship win." />
         </div>
-        <div className="col-1">
+        <div className="col-3">
           <h1 className="year-sm">2025</h1>
           <h2>All-Around Achievement</h2>
           <p>

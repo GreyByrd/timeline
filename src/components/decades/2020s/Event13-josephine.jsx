@@ -1,4 +1,5 @@
 import "./style-2020.css";
+import josephine from "../../../assets/2020-profile-josephine-aspromonte.png";
 
 const Event13 = () => {
   return (
@@ -36,7 +37,7 @@ const Event13 = () => {
           </p>
         </div>
         <div className="col-3">
-          <img src="#" />
+          <img src={josephine} />
         </div>
       </div>
     </div>

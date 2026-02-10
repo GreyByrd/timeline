@@ -1,12 +1,15 @@
 import "./style-2020.css";
-import feitosa from "../../../assets/2020-jennifer-feitosa.png";
+import professors from "../../../assets/2020-professors.png";
 
 const Event7 = () => {
   return (
     <div className="event-container narrative small panel-black">
       <div>
-        <div className="col-4">
-          <img src={feitosa} alt="Image." />
+        <div className="col-5">
+          <img
+            src={professors}
+            alt="Jennifer Feitosa (top left) and Emily Wiley."
+          />
         </div>
         <div className="col-5">
           <h1 className="date yellow-txt">March</h1>
@@ -23,7 +26,7 @@ const Event7 = () => {
               she was recognized
             </a>{" "}
             with a prestigious U.S. Scholar Fulbright grant. The following year,
-            Professor Emily Wiley{" "}
+            Professor Emily Wiley (bottom right){" "}
             <a
               href="hthttps://www.cmc.edu/newsfeed/professor-emily-wiley-awarded-fulbright"
               target="_blank"
