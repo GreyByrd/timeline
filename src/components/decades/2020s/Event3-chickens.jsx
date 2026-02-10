@@ -1,4 +1,5 @@
 import "./style-2020.css";
+import uzima from "../../../assets/2020-profile-uzima.png";
 
 const Event3 = () => {
   return (
@@ -28,7 +29,10 @@ const Event3 = () => {
           </a>
         </div>
         <div className="col-3">
-          <img src="src/assets/profile-img.png" alt="Image." />
+          <img
+            src={uzima}
+            alt="Alice Chang and Sara Linssen (foreground). The farm team in the background."
+          />
         </div>
       </div>
     </div>
