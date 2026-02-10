@@ -7,9 +7,9 @@
 
 .info-panel {
   flex-direction: column;
-  padding: 0 2em;
+  flex-wrap: nowrap;
   align-items: flex-start;
-  width: 600px;
+  max-width: 550px;
 }
 
 .border-01 {
@@ -37,5 +37,6 @@
 }
 
 .info-panel img {
-  width: 60%;
+  width: 80%;
+  margin: 0 auto;
 }
