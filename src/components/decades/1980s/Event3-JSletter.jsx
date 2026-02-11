@@ -3,7 +3,7 @@ import letter from "../../../assets/1980-JS-letter.gif";
 
 const Event3 = () => {
   return (
-    <div className="event-container narrative letters">
+    <div className="event-container narrative">
       <div>
         <div className="col-5">
           <h1 className="date">April 24</h1>
