@@ -2,9 +2,9 @@ import "./style-2000.css";
 
 const Event7 = () => {
   return (
-    <div className="event-container narrative panel-purple">
+    <div className="event-container event-narrative panel-purple">
       <div>
-        <h1 className="honors-white">Challenger</h1>
+        <h1 className="challenger">Challenger</h1>
         <h1 className="date">April 26</h1>
         <h1 className="year-sm white-txt">2006</h1>
         <h2>Inspiring peace</h2>

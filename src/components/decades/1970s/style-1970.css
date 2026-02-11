@@ -489,7 +489,7 @@ img.ani:hover {
   height: 95%;
 }
 
-@media (max-width: 767px) {
+@media only screen and (max-width: 1024px) {
   .scrolly-horizontal-container {
     height: auto !important;
   }
@@ -537,6 +537,16 @@ img.ani:hover {
     min-height: 10vh;
     padding: 0;
   }
+
+  p.lead-text {
+    font-size: 1.2rem;
+  }
+
+  img {
+    margin: 10px auto;
+    width: 80%;
+  }
+
   .profile-duo-01,
   .profile-duo-02 {
     margin-top: 1em;

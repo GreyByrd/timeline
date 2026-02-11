@@ -29,15 +29,6 @@ h1.honors-yellow {
   margin-bottom: 2em;
 }
 
-h1.honors-yellow-02 {
-  font-size: 8rem;
-  letter-spacing: -0.4rem;
-  color: #d7ae32;
-  position: absolute;
-  top: 10px;
-  margin-left: 12em;
-}
-
 a.maroon {
   font-weight: bold;
   color: #a6203e;
@@ -84,78 +75,20 @@ a.maroon:hover {
   color: #231f20;
 }
 
-/* images */
-.interstitial-01 {
-  background-image: url("/src/assets/fullwidth-placeholder.jpg");
-  height: 100%;
-  width: 80%;
-  float: right;
-  background-position: top;
-  background-repeat: no-repeat;
-  background-size: cover;
-}
-
-.campaign {
-  background-image: url("/src/assets/fullwidth-placeholder.jpg");
-  height: 100%;
-  width: 100%;
-  margin-left: -20%;
-  padding-left: 15%;
-  background-position: top;
-  background-repeat: no-repeat;
-  background-size: cover;
-}
-
-.campaign-sticky {
-  position: absolute;
-  z-index: 3;
-  padding: 0 4%;
-  width: 50%;
-  top: 8%;
-}
-
-.campaign-sm-01 {
-  margin-top: 8em;
-  display: flex;
-  padding: 2% 4%;
-}
-
-.campaign-sm-02 {
-  margin-top: -5em;
-  padding: 2% 4%;
-}
-
-@media (max-width: 767px) {
+@media (max-width: 1024px) {
   .img-container-sm {
     display: block;
     width: 100%;
     height: auto;
   }
 
-  .campaign-sticky {
-    position: relative;
-    margin: 0 auto;
-    width: 100%;
-  }
-  .campaign {
-    height: 100%;
-    width: 100%;
-    margin: 0;
-    padding: 5%;
-  }
-  .campaign-sm-01,
-  .campaign-sm-02 {
-    display: block;
-    margin: 0 auto;
-    width: 100%;
-  }
-  h1.honors-yellow,
-  h1.honors-yellow-02 {
-    font-size: 3rem;
+  h1.honors-yellow {
+    font-size: 4rem;
     letter-spacing: 0rem;
     margin-left: 0;
     position: relative;
-    border-bottom: 1px solid #d7ae32;
-    margin-bottom: 1em;
+    border-bottom: 3px solid #d7ae32;
+    margin-bottom: 1.5em;
+    text-align: left;
   }
 }

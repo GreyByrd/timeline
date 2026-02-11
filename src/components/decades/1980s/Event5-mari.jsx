@@ -1,5 +1,5 @@
 import "./style-1980.css";
-import mari from "../../../assets/1980-profile-mari.png";
+import mari from "../../../assets/1980-profile-mari_alt.png";
 
 const Event5 = () => {
   return (

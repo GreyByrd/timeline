@@ -11,8 +11,15 @@
 
 /* typography */
 
-h1.white {
+.challenger {
   color: #ffffff;
+  font-size: 5rem;
+  letter-spacing: -0.2rem;
+  position: absolute;
+  top: 10px;
+  text-align: left;
+  border-bottom: 3px solid #ffffff;
+  padding-bottom: 20px;
 }
 
 h1.yellows {
