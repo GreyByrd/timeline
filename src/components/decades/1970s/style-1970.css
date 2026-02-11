@@ -498,12 +498,18 @@ img.ani:hover {
     height: auto;
     overflow-x: hidden; /* Enables horizontal scrolling */
     overflow-y: auto;
-    padding: 30px 20px;
+    padding: 9% 7%;
   }
 
-  .event-narrative {
+  .narrative {
     display: block;
-    padding: 7% 6%;
+    padding: 9% 7%;
+    flex: 0 0 100%;
+  }
+
+  .small {
+    display: block;
+    max-width: 100%;
   }
 
   .content {

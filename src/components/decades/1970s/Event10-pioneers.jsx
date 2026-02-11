@@ -4,7 +4,7 @@ import pioneers from "../../../assets/1970-pioneers-update.png";
 const Event10 = () => {
   return (
     <div className="event-container">
-      <div className="content endcap">
+      <div className="content">
         <div className="col-3">
           <h1 className="date">Spring</h1>
           <h1 className="year purple-txt">1978</h1>
