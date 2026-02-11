@@ -3,15 +3,15 @@ import professors from "../../../assets/2020-professors.png";
 
 const Event7 = () => {
   return (
-    <div className="event-container narrative small panel-black">
-      <div>
-        <div className="col-5">
+    <div className="event-container small panel-black">
+      <div className="content">
+        <div className="col-4">
           <img
             src={professors}
             alt="Jennifer Feitosa (top left) and Emily Wiley."
           />
         </div>
-        <div className="col-5">
+        <div className="col-2">
           <h1 className="date yellow-txt">March</h1>
           <h1 className="year-sm yellow-txt">2022</h1>
           <h2>Best and Brightest</h2>

@@ -9,6 +9,10 @@
   max-width: 500px;
 }
 
+.info-panel .date {
+  width: 100%;
+}
+
 .info-panel h2 {
   width: 100%;
 }
@@ -29,13 +33,18 @@
 
 .honors-influencer {
   font-size: 4em;
-  margin-top: -78px;
   color: #ffffff;
+  border-bottom: 3px solid #ffffff;
+  padding-bottom: 10px;
+  margin-bottom: 30px;
 }
 
 .honors-trailblazer {
   font-size: 4em;
   color: #ffffff;
+  border-bottom: 3px solid #ffffff;
+  padding-bottom: 10px;
+  margin-bottom: 30px;
 }
 
 /* images */

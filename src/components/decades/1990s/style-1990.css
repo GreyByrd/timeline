@@ -24,9 +24,23 @@ h1.honors-yellow {
   letter-spacing: -0.2rem;
   color: #d7ae32;
   position: absolute;
+  text-align: left;
   top: 10px;
-  text-align: center;
-  margin-bottom: 2em;
+  margin-left: -7em;
+  border-bottom: 3px solid #d7ae32;
+  padding-bottom: 20px;
+}
+
+h1.honors-yellow-02 {
+  font-size: 5rem;
+  letter-spacing: -0.2rem;
+  color: #d7ae32;
+  position: absolute;
+  text-align: left;
+  top: 10px;
+  margin-left: -12em;
+  border-bottom: 3px solid #d7ae32;
+  padding-bottom: 20px;
 }
 
 a.maroon {
@@ -57,19 +71,11 @@ a.maroon:hover {
 }
 
 .yellow-gradient {
-  background: linear-gradient(
-    0deg,
-    hsla(0, 0%, 100%, 1) 0%,
-    hsla(45, 67%, 52%, 1) 80%
-  );
-  background: -moz-linear-gradient(
-    0deg,
-    hsla(0, 0%, 100%, 1) 0%,
-    hsla(45, 67%, 52%, 1) 80%
-  );
+  background: linear-gradient(0deg, #e3e3e3 10%, hsla(45, 67%, 52%, 1) 80%);
+  background: -moz-linear-gradient(0deg, #e3e3e3 0%, hsla(45, 67%, 52%, 1) 80%);
   background: -webkit-linear-gradient(
     0deg,
-    hsla(0, 0%, 100%, 1) 0%,
+    #e3e3e3 0%,
     hsla(45, 67%, 52%, 1) 80%
   );
   color: #231f20;
@@ -87,7 +93,6 @@ a.maroon:hover {
     letter-spacing: 0rem;
     margin-left: 0;
     position: relative;
-    border-bottom: 3px solid #d7ae32;
     margin-bottom: 1.5em;
     text-align: left;
   }

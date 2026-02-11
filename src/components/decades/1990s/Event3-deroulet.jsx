@@ -1,10 +1,16 @@
 import "./style-1990.css";
-import deroulet from "../../../assets/1990-kravis-deroulet.jpg";
+import deroulet from "../../../assets/1990-kravis-deroulet_alt.png";
 
 const Event3 = () => {
   return (
     <div className="event-container yellow-gradient">
       <div className="content">
+        <div className="col-3">
+          <img
+            src={deroulet}
+            alt="Panelist during the 2025 Kravis deRoulet conference."
+          />
+        </div>
         <div className="col-3">
           <h1 className="year-sm">1990</h1>
           <h2>Leading the charge</h2>
@@ -23,12 +29,6 @@ const Event3 = () => {
             scholarship into the unique challenges and opportunities for women
             leaders.
           </p>
-        </div>
-        <div className="col-3">
-          <img
-            src={deroulet}
-            alt="Panelist during the 2025 Kravis deRoulet conference."
-          />
         </div>
       </div>
     </div>

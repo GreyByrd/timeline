@@ -70,6 +70,16 @@ ul {
   margin-top: -20%;
 }
 
+.letters {
+  background-image: url("/src/assets/1980-letters-02.jpg");
+  height: 100%;
+  width: 80%;
+  float: right;
+  background-position: top;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
 .celebration {
   background-image: url("/src/assets/name-change-celebration-collage.png");
   height: 100%;
