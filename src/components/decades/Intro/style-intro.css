@@ -41,15 +41,3 @@
   object-fit: cover;
   width: 100%;
 }
-
-@media screen and (max-width: 767px) {
-  .cover {
-    background-color: #e3e3e3;
-    display: block;
-    padding: 4% 6%;
-  }
-
-  .cover-content {
-    display: block;
-  }
-}
