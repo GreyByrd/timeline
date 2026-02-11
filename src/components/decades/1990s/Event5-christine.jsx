@@ -3,10 +3,13 @@ import christine from "../../../assets/1990-profile-christine-w.png";
 
 const Event5 = () => {
   return (
-    <div className="event-container">
+    <div className="event-container small">
       <div className="content">
-        <div className="col-2">
-          <img src={christine}></img>
+        <div className="col-3">
+          <img
+            src={christine}
+            alt="Christine Huddleson at CMC and present day."
+          />
         </div>
         <div className="col-3">
           <h2>Student Leader</h2>

@@ -2,7 +2,7 @@ import "./style-2010.css";
 
 const Event11 = () => {
   return (
-    <div className="event-container panel-maroon">
+    <div className="event-container gradient-yr">
       <div className="content endcap">
         <div className="col-4">
           <p className="lead-text">

@@ -70,38 +70,6 @@ ul {
   margin-top: -20%;
 }
 
-.multi-gradient {
-  background: linear-gradient(
-    45deg,
-    hsla(269, 49%, 37%, 1) 0%,
-    hsla(347, 68%, 39%, 1) 54%,
-    hsla(45, 67%, 52%, 1) 100%
-  );
-  background: -moz-linear-gradient(
-    45deg,
-    hsla(269, 49%, 37%, 1) 0%,
-    hsla(347, 68%, 39%, 1) 54%,
-    hsla(45, 67%, 52%, 1) 100%
-  );
-  background: -webkit-linear-gradient(
-    45deg,
-    #5d308d 0%,
-    #a7203d 54%,
-    hsla(45, 67%, 52%, 1) 100%
-  );
-}
-.gradient-border {
-  border-image-slice: 1;
-  border: 10px solid white;
-  border-width: 5px;
-}
-.gradient-border-multi {
-  border-width: 14px;
-  border-style: solid;
-  border-image: linear-gradient(45deg, #a7203d, #5d308d) 1;
-  height: 95%;
-}
-
 .celebration {
   background-image: url("/src/assets/name-change-celebration-collage.png");
   height: 100%;

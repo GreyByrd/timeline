@@ -3,16 +3,16 @@ import mary from "../../../assets/mary-weatherford-headshot.png";
 
 const Event6 = () => {
   return (
-    <div className="event-container small">
-      <div className="content info-panel">
+    <div className="event-container info-panel">
+      <div className="content">
         <div>
           <img src={mary} />
-          <p className="caption">
+          <p className="caption-right">
             <em>Photo by Antony Hoffman courtesy of Gagosian.</em>
           </p>
         </div>
         <h1 className="date">September 16</h1>
-        <h1 className="year-sm maroon-txt">2014</h1>
+        <h2 className="year-sm maroon-txt">2014</h2>
         <h2>Art and Life</h2>
         <p>
           On September 16, 2014, the mural{" "}

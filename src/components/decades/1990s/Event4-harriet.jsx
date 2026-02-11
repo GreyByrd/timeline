@@ -3,7 +3,7 @@ import harriet from "../../../assets/1990-profile-harriet.png";
 
 const Event4 = () => {
   return (
-    <div className="event-container">
+    <div className="event-container small">
       <div className="content">
         <h1 className="honors-yellow">Notables</h1>
         <div className="col-3">
@@ -24,8 +24,8 @@ const Event4 = () => {
             of CMC’s inaugural Integrated Sciences Advisory Council.
           </p>
         </div>
-        <div className="col-2">
-          <img src={harriet}></img>
+        <div className="col-3">
+          <img src={harriet} alt="Harriet Nembhard ’91."></img>
         </div>
       </div>
     </div>

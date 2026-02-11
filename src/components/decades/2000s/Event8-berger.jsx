@@ -1,5 +1,5 @@
 import "./style-2000.css";
-import berger from "../../../assets/women_and_leadership_berger.jpg";
+import berger from "../../../assets/2000-wla.jpg";
 
 const Event8 = () => {
   return (

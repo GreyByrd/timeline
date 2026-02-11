@@ -3,7 +3,7 @@ import tanya from "../../../assets/1990-profile-tanya.png";
 
 const Event8 = () => {
   return (
-    <div className="event-container">
+    <div className="event-container small">
       <div className="content">
         <div className="col-3">
           <h1 className="date">May</h1>
@@ -29,8 +29,8 @@ const Event8 = () => {
             <p>Read more about Dr. Altmann</p>
           </a>
         </div>
-        <div className="col-2">
-          <img src={tanya}></img>
+        <div className="col-3">
+          <img src={tanya} alt="Tanya Altman ’94." />
         </div>
       </div>
     </div>

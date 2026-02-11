@@ -1,5 +1,5 @@
 import "./style-2000.css";
-import fawe from "../../../assets/2008-FAWE.png";
+import fawe from "../../../assets/2008-FAWE_alt.jpg";
 
 const Event9 = () => {
   return (

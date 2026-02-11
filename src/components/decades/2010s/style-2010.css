@@ -6,10 +6,20 @@
 }
 
 .info-panel {
+  max-width: 500px;
+}
+
+.info-panel h2 {
+  width: 100%;
+}
+
+.info-panel img {
+  width: 75%;
+  margin: 0 auto;
+  display: flex;
   flex-direction: column;
-  flex-wrap: nowrap;
+  flex-wrap: wrap;
   align-items: flex-start;
-  max-width: 550px;
 }
 
 .border-01 {
@@ -26,17 +36,10 @@
 .honors-trailblazer {
   font-size: 4em;
   color: #ffffff;
-  position: absolute;
-  top: 0;
 }
 
 /* images */
 .red-outline {
   border-left: 12px solid #a6203e;
   border-bottom: 12px solid #a6203e;
-}
-
-.info-panel img {
-  width: 80%;
-  margin: 0 auto;
 }

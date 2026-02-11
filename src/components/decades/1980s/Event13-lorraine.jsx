@@ -5,8 +5,8 @@ const Event13 = () => {
   return (
     <div className="event-container narrative panel-gray">
       <div className="content">
-        <div className="col-4">
-          <img src={lorraine}></img>
+        <div className="col-5">
+          <img src={lorraine} />
           <h1 className="year-sm maroon-txt">1988</h1>
           <h2>Alumni Association breaks barriers</h2>
           <p>

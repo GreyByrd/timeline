@@ -3,7 +3,7 @@ import asuman from "../../../assets/2000-profile-asuman.png";
 
 const Event6 = () => {
   return (
-    <div className="event-container panel-gray">
+    <div className="event-container small panel-gray">
       <div className="content">
         <div className="col-3">
           <h1 className="date">April 8</h1>
@@ -25,7 +25,7 @@ const Event6 = () => {
             Association of America.
           </p>
         </div>
-        <div className="col-2">
+        <div className="col-3">
           <img src={asuman} alt="Asuman Aksoy." />
         </div>
       </div>
