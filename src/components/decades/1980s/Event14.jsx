@@ -5,7 +5,7 @@ const Event13 = () => {
     <div className="event-container gradient-yr">
       <div className="content endcap">
         <div className="col-4">
-          <h1 className="year-sm white">1989</h1>
+          <h1 className="year white-txt">1989</h1>
           <h2>Global greatness</h2>
           <p className="lead-text">
             As the decade came to a close, CMC’s reach began to encircle the

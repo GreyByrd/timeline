@@ -3,7 +3,7 @@ import lorraine from "../../../assets/1980-profile-lorraine.png";
 
 const Event13 = () => {
   return (
-    <div className="event-container narrative panel-gray">
+    <div className="event-container narrative panel-gray gradient-border-multi">
       <div className="content">
         <div className="col-5">
           <img src={lorraine} />
