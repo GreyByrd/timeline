@@ -2,7 +2,7 @@ import "./style-1980.css";
 
 const Event13 = () => {
   return (
-    <div className="event-container panel-maroon">
+    <div className="event-container gradient-yr">
       <div className="content endcap">
         <div className="col-4">
           <h1 className="year-sm white">1989</h1>

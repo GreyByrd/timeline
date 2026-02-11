@@ -2,7 +2,7 @@ import "./style-2000.css";
 
 const Event11 = () => {
   return (
-    <div className="event-container panel-purple">
+    <div className="event-container gradient-rp">
       <div className="content endcap">
         <p className="lead-text">
           The 2000s had opened many doors — including those taking shape at the

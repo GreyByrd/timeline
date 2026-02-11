@@ -456,6 +456,15 @@ img.ani:hover {
   );
 }
 
+.gradient-rp {
+  background: linear-gradient(
+    130deg,
+    hsla(269, 49%, 37%, 1) 34%,
+    hsla(347, 68%, 39%, 1) 84%
+  );
+  color: #ffffff;
+}
+
 .gradient-yr {
   background: linear-gradient(
     130deg,
