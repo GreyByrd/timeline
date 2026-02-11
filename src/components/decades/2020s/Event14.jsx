@@ -4,7 +4,7 @@ const Event14 = () => {
   return (
     <div className="event-container multi-gradient">
       <div className="content endcap white-txt">
-        <div className="col-4 ">
+        <div className="col-4">
           <h1 className="white-txt">
             <em>The Future</em>
           </h1>

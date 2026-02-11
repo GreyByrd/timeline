@@ -1,5 +1,5 @@
 import "./style-1980.css";
-import sciac from "../../../assets/1980-sciac-wins.png";
+import sciac from "../../../assets/1980-sciac-wins_alt.png";
 
 const Event12 = () => {
   return (

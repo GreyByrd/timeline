@@ -20,10 +20,10 @@ const Navbar = () => {
       <Link to="2000" smooth={true} duration={200} className="nav-links">
         2000
       </Link>
-      <Link to="2010" smooth={true} duration={200} className="pointer">
+      <Link to="2010" smooth={true} duration={200} className="nav-links">
         2010
       </Link>
-      <Link to="2020" smooth={true} duration={600} className="pointer">
+      <Link to="2020" smooth={true} duration={200} className="nav-links">
         2020
       </Link>
     </nav>

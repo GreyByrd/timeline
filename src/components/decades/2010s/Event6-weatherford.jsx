@@ -17,6 +17,7 @@ const Event6 = () => {
         <p>
           On September 16, 2014, the mural{" "}
           <a
+            className="maroon-txt"
             href="https://www.cmc.edu/public-art/mary-weatherford-%E2%80%9Cfrom-mountain-to-sea%E2%80%9D"
             target="_blank"
             aria-label="CMC Public Art: Mary Weatherford (opens in new tab)"
