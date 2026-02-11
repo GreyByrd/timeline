@@ -8,9 +8,7 @@ const Event1 = () => {
         <div className="col-3">
           <div>
             <h1 className="eyebrow">A moment in history</h1>
-            <h1 id="1980" className="maroon">
-              1980s
-            </h1>
+            <h1 className="maroon">1980s</h1>
             <p>
               As the calendar turned from one decade to the next, tectonic
               shifts in society and culture were underway. The election of
