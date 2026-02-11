@@ -1,14 +1,5 @@
 @import "tailwindcss";
 
-.decades {
-  position: fixed;
-  z-index: 10;
-  opacity: 0.5;
-  padding: 10px 12px;
-  margin-bottom: 5px;
-  background: #f5f5f5;
-}
-
 .footer {
   background: #9a2586;
   padding: 0 20px;
@@ -23,48 +14,4 @@
   width: 120px;
   float: left;
   margin: 8px 0;
-}
-
-.decades p {
-  margin-bottom: 5px;
-  font-size: 0.8rem;
-  text-transform: uppercase;
-  writing-mode: sideways-lr;
-  text-orientation: sideways;
-}
-
-.decades ul li {
-  list-style: none;
-}
-
-.decades:hover {
-  opacity: 1;
-  transition-duration: 0.4s;
-}
-
-.nav-links {
-  display: none;
-  font-size: 0.8rem;
-}
-
-.nav-links a {
-  margin-bottom: 6px;
-  font-weight: 300;
-}
-
-.decades:hover p {
-  display: none;
-  transition-duration: 0.4s;
-}
-
-.decades:hover > .nav-links {
-  display: block;
-}
-
-.nav-links a:hover {
-  color: #a6203e;
-}
-
-.anchor {
-  scroll-margin-right: -150px;
 }

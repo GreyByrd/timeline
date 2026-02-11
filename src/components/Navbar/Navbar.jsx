@@ -1,12 +1,14 @@
 import React from "react";
+import { Link } from "react-scroll";
+import "./navstyle.css";
 
 const Navbar = () => {
   return (
-    <nav className="nav">
+    <nav className="decades">
       <p>
         <strong>Decades</strong>
       </p>
-      <Link to="1970" smooth={true} duration={600} className="pointer">
+      <Link className="nav-links" to="1970" smooth={true} duration={600}>
         1970
       </Link>
       <Link to="1980" smooth={true} duration={600} className="pointer">
