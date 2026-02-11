@@ -10,8 +10,8 @@ const Event9 = () => {
           <h1 className="year-sm">2023</h1>
           <h2>“Rhodes” to Success</h2>
           <p>
-            <strong>Bertha Tobias ’24</strong> became the second woman and first
-            student of African descent to be{" "}
+            <strong>Bertha Tobias ’24</strong> became CMC's second woman and
+            first student of African descent to be{" "}
             <a
               className="yellow-txt"
               href="https://www.cmc.edu/newsfeed/bertha-tobias-23-honored-rhodes-scholar"

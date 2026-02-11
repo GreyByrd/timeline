@@ -8,7 +8,7 @@ const Event9 = () => {
         <div className="col-3">
           <h1 className="date">April 10</h1>
           <h1 className="year-sm purple-txt">2008</h1>
-          <h2>Henry R. Kravis Prize in Leadership to awarded FAWE</h2>
+          <h2>Henry R. Kravis Prize in Leadership awarded to FAWE</h2>
           <p>
             <strong>Takako Mino 11’s</strong> debate program The Forum for
             African Women Educationalists (FAWE) earned the third annual Henry
