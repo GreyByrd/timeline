@@ -26,9 +26,8 @@ const Event1 = () => {
             </p>
             <p>
               Back at CMC, the College entered the decade with women making up
-              nearly a quarter of the student body. By 1989, [CAN WE GET FIGURES
-              HERE?] But the first challenge facing College leaders was related
-              to CMC’s fundamental identity.
+              nearly a quarter of the student body. But the first challenge
+              facing College leaders was related to CMC’s fundamental identity.
             </p>
           </div>
         </div>

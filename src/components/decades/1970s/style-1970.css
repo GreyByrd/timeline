@@ -402,7 +402,6 @@ img {
   background-position: top;
   background-repeat: no-repeat;
   object-fit: cover;
-  margin: 0;
 }
 
 .narrative img {
@@ -704,15 +703,11 @@ img.ani:hover {
     font-size: 1.2rem;
   }
 
-  img {
+  .event-container img {
     margin: 10px auto;
-    width: 80%;
+    width: 100%;
   }
 
-  .profile-duo-01,
-  .profile-duo-02 {
-    margin-top: 1em;
-  }
   .intro-content {
     display: flex;
     flex-direction: column;
@@ -738,25 +733,21 @@ img.ani:hover {
     margin-top: 0;
     margin-left: 0;
   }
-  .profile-content {
-    width: 100%;
-    align-items: center;
-  }
-
-  .profile img {
-    margin: 20px 0;
-  }
 
   .caption {
     width: 100%;
   }
 
   .photo-insert-btn {
-    width: 30%;
+    max-width: 30%;
     float: left;
     rotate: 22deg;
     margin-left: 0;
     margin-top: 0;
+  }
+
+  .endcap {
+    height: auto;
   }
 }
 

@@ -66,16 +66,12 @@ a.maroon:hover {
   color: white;
 }
 
-.purple-txt {
-  color: #5e308e;
-}
-
 .yellow-gradient {
-  background: linear-gradient(0deg, #e3e3e3 10%, hsla(45, 67%, 52%, 1) 80%);
-  background: -moz-linear-gradient(0deg, #e3e3e3 0%, hsla(45, 67%, 52%, 1) 80%);
+  background: linear-gradient(0deg, #ffffff 10%, hsla(45, 67%, 52%, 1) 80%);
+  background: -moz-linear-gradient(0deg, #ffffff 0%, hsla(45, 67%, 52%, 1) 80%);
   background: -webkit-linear-gradient(
     0deg,
-    #e3e3e3 0%,
+    #ffffff 0%,
     hsla(45, 67%, 52%, 1) 80%
   );
   color: #231f20;
@@ -95,5 +91,19 @@ a.maroon:hover {
     position: relative;
     margin-bottom: 1.5em;
     text-align: left;
+  }
+
+  yellow-gradient {
+    background: linear-gradient(90deg, #ffffff 10%, hsla(45, 67%, 52%, 1) 80%);
+    background: -moz-linear-gradient(
+      90deg,
+      #ffffff 0%,
+      hsla(45, 67%, 52%, 1) 80%
+    );
+    background: -webkit-linear-gradient(
+      90deg,
+      #ffffff 0%,
+      hsla(45, 67%, 52%, 1) 80%
+    );
   }
 }
