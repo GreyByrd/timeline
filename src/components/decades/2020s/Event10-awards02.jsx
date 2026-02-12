@@ -1,5 +1,5 @@
 import "./style-2020.css";
-import nita from "../../../assets/2020-nita-kumar.png";
+import nita from "../../../assets/2020-profile-rugby-nita-02.png";
 
 const Event10 = () => {
   return (
