@@ -39,7 +39,7 @@ const Event8 = () => {
           </p>
         </div>
         <div className="col-3">
-          <img src={awardees} />
+          <img src={awardees} alt="Clockwise: Ivanna Morales, Annabel Chung, and Alejandra Vázquez Baur." />
         </div>
       </div>
     </div>

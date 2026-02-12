@@ -39,7 +39,7 @@ const Event10 = () => {
           </p>
         </div>
         <div className="col-3">
-          <img src={nita} />
+          <img src={nita} alt="Athena's Rubgy team accepting award (top left) and Professor Nita Kumar."/>
         </div>
       </div>
     </div>

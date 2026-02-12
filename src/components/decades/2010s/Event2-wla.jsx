@@ -24,7 +24,7 @@ const Event2 = () => {
           <img
             className="fullwidth"
             src={wla}
-            alt="The inaugural Women In Leadership Alliance event."
+            alt="Women In Leadership Alliance panel featuring Ms. Magazine."
           />
         </div>
       </div>

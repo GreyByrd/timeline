@@ -6,7 +6,7 @@ const Event6 = () => {
     <div className="event-container info-panel">
       <div className="content">
         <div>
-          <img src={mary} />
+          <img src={mary} alt="Mary Weatherford." />
           <p className="caption-right">
             <em>Photo by Antony Hoffman courtesy of Gagosian.</em>
           </p>

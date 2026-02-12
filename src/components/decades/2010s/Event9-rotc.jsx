@@ -26,7 +26,11 @@ const Event9 = () => {
           </p>
         </div>
         <div className="col-4">
-          <img className="fullwidth" src={ROTC} />
+          <img
+            className="fullwidth"
+            src={ROTC}
+            alt="Lindsay Burton and other ROTC students performing march."
+          />
         </div>
       </div>
     </div>

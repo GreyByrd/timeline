@@ -14,15 +14,13 @@ const Event1 = () => {
             Android-compatible handsets drove new changes in friendships,
             family, and business. The cultural shifts were tectonic, prompting
             the American Dialect Society to choose “app” as their Word of the
-            year 2010. By August 2018, Apple had broken through to become the
-            world’s first company valued at more than $1 trillion. Yet as new
-            possibilities for connection came to life, society also grew more
-            isolated, with social media companies, global political parties, and
-            traditional institutions all taking blame for breaking down
-            traditional connections between peoples. The “Brexit” vote in the
-            United Kingdom and election of Donald Trump as U.S. President in
-            2016 crystallized the salience of inequality and protectionism as
-            political forces in the second half of the decade.
+            year 2010. As new possibilities for connection came to life, society
+            also grew more isolated, with social media companies, global
+            political parties, and traditional institutions all taking blame for
+            breaking down traditional connections between peoples. The “Brexit”
+            vote in the United Kingdom and the election of Donald Trump as U.S.
+            President in 2016 crystallized the salience of inequality and
+            protectionism as political forces in the second half of the decade.
           </p>
           <p>
             These trends were present at CMC as well, as the College continued

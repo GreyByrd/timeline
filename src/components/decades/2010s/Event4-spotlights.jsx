@@ -19,7 +19,7 @@ const Event4 = () => {
           </p>
         </div>
         <div className="col-3">
-          <img src={spotlight} alt="Takako Mino ’11" />
+          <img src={spotlight} alt="Takako Mino ’11 (left) and Kristin Lim." />
         </div>
         <div className="col-1">
           <h1 className="date">January</h1>
