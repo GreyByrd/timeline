@@ -1,5 +1,5 @@
 import "./style-2020.css";
-import ella from "../../../assets/2020-profile-ella-brissett_alt.jpg";
+import ella from "../../../assets/2020-profile-ella-brissett.jpg";
 
 const Event12 = () => {
   return (
