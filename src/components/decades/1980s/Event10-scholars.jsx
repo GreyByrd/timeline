@@ -7,7 +7,7 @@ const Event11 = () => {
       <div className="content">
         <h1 className="honors-gray">Trailblazers</h1>
         <div className="col-3">
-          <h1 className="year-sm white-txt">1985-1988</h1>
+          <h1 className="year-sm white-txt">1985—1988</h1>
           <h2>Scholars of distinction</h2>
           <p>
             <strong>Michele Walsh ’85</strong>, a ROTC cadet with majors in
