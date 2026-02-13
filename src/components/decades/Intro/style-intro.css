@@ -35,6 +35,10 @@
   padding: 0;
 }
 
+.cover .fullwidth {
+  width:100%;
+}
+
 @media only screen and (max-width: 1024px) {
   .cover {
     display: block;

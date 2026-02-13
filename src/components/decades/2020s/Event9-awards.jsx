@@ -1,7 +1,7 @@
 import "./style-2020.css";
 import awardees from "../../../assets/2020-profile-awardees.png";
 
-const Event8 = () => {
+const Event9 = () => {
   return (
     <div className="event-container">
       <div className="content">
@@ -39,11 +39,14 @@ const Event8 = () => {
           </p>
         </div>
         <div className="col-3">
-          <img src={awardees} alt="Clockwise: Ivanna Morales, Annabel Chung, and Alejandra Vázquez Baur." />
+          <img
+            src={awardees}
+            alt="Clockwise: Ivanna Morales, Annabel Chung, and Alejandra Vázquez Baur."
+          />
         </div>
       </div>
     </div>
   );
 };
 
-export default Event8;
+export default Event9;

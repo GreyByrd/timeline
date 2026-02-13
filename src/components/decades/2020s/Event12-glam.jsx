@@ -1,7 +1,7 @@
 import "./style-2020.css";
 import nicole from "../../../assets/2020-profile-nicole-cheung.png";
 
-const Event11 = () => {
+const Event12 = () => {
   return (
     <div className="event-container">
       <div className="content">
@@ -36,4 +36,4 @@ const Event11 = () => {
   );
 };
 
-export default Event11;
+export default Event12;

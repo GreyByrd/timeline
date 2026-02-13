@@ -1,6 +1,6 @@
 import "./style-2020.css";
 
-const Event14 = () => {
+const Event15 = () => {
   return (
     <div id="gradient-multi" className="event-container">
       <div className="content endcap white-txt">
@@ -18,4 +18,4 @@ const Event14 = () => {
   );
 };
 
-export default Event14;
+export default Event15;

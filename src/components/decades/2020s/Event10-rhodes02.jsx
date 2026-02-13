@@ -1,7 +1,7 @@
 import "./style-2020.css";
 import rhodes02 from "../../../assets/2020-profile-bertha-tobias_g_alt.png";
 
-const Event9 = () => {
+const Event10 = () => {
   return (
     <div className="event-container panel-gray">
       <div className="content">
@@ -33,4 +33,4 @@ const Event9 = () => {
   );
 };
 
-export default Event9;
+export default Event10;

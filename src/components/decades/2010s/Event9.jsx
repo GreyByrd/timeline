@@ -1,6 +1,6 @@
 import "./style-2010.css";
 
-const Event11 = () => {
+const Event9 = () => {
   return (
     <div className="event-container gradient-yr">
       <div className="content endcap">
@@ -16,4 +16,4 @@ const Event11 = () => {
   );
 };
 
-export default Event11;
+export default Event9;

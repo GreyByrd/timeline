@@ -1,7 +1,7 @@
 import "./style-2010.css";
 import ROTC from "../../../assets/2010-ROTC-centenial.jpg";
 
-const Event9 = () => {
+const Event8 = () => {
   return (
     <div className="event-container panel-maroon white-txt">
       <div className="content">
@@ -37,4 +37,4 @@ const Event9 = () => {
   );
 };
 
-export default Event9;
+export default Event8;

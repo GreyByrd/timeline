@@ -1,7 +1,7 @@
 import "./style-2020.css";
 import tennis from "../../../assets/2020-athena-ncaa.jpg";
 
-const Event6 = () => {
+const Event7 = () => {
   return (
     <div className="img-container">
       <img
@@ -13,4 +13,4 @@ const Event6 = () => {
   );
 };
 
-export default Event6;
+export default Event7;

@@ -2,7 +2,7 @@ import "./style-2010.css";
 import spotlight from "../../../assets/2010-profile-takako-kristin.png";
 import spotlight02 from "../../../assets/2010-profile-takako-kristin-mobile.png";
 
-const Event4 = () => {
+const Event3 = () => {
   return (
     <div className="event-container">
       <div className="content">
@@ -45,4 +45,4 @@ const Event4 = () => {
   );
 };
 
-export default Event4;
+export default Event3;

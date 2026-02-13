@@ -1,7 +1,7 @@
 import "./style-2010.css";
 import mary from "../../../assets/mary-weatherford-headshot.png";
 
-const Event6 = () => {
+const Event5 = () => {
   return (
     <div className="event-container info-panel">
       <div className="content">
@@ -33,4 +33,4 @@ const Event6 = () => {
   );
 };
 
-export default Event6;
+export default Event5;

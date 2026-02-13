@@ -1,14 +1,13 @@
 import ScrollyElement from "react-scrolly-telling/element";
 import Event1 from "./2010s/Event1";
 import Event2 from "./2010s/Event2-wla";
-import Event3 from "./2010s/Event3-myths";
-import Event4 from "./2010s/Event4-spotlights";
-import Event5 from "./2010s/Event5-chelina";
-import Event6 from "./2010s/Event6-weatherford";
-import Event7 from "./2010s/Event7-mountain";
-import Event8 from "./2010s/Event8-jilaward";
-import Event9 from "./2010s/Event9-rotc";
-import Event10 from "./2010s/Event10";
+import Event3 from "./2010s/Event3-spotlights";
+import Event4 from "./2010s/Event4-chelina";
+import Event5 from "./2010s/Event5-weatherford";
+import Event6 from "./2010s/Event6-mountain";
+import Event7 from "./2010s/Event7-jilaward";
+import Event8 from "./2010s/Event8-rotc";
+import Event9 from "./2010s/Event9";
 
 const Decade2010s = () => {
   return (
@@ -23,7 +22,6 @@ const Decade2010s = () => {
         <Event7 id={7} />
         <Event8 id={8} />
         <Event9 id={9} />
-        <Event10 id={10} />
       </ScrollyElement>
     </div>
   );

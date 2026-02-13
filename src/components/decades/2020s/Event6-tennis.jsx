@@ -1,6 +1,6 @@
 import "./style-2020.css";
 
-const Event5 = () => {
+const Event6 = () => {
   return (
     <div className="event-container narrative small panel-yellow">
       <div>
@@ -24,4 +24,4 @@ const Event5 = () => {
   );
 };
 
-export default Event5;
+export default Event6;

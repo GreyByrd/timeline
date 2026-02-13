@@ -1,7 +1,7 @@
 import "./style-2020.css";
 import professors from "../../../assets/2020-professors.png";
 
-const Event7 = () => {
+const Event8 = () => {
   return (
     <div className="event-container small panel-black">
       <div className="content">
@@ -42,4 +42,4 @@ const Event7 = () => {
   );
 };
 
-export default Event7;
+export default Event8;
