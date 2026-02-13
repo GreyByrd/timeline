@@ -80,7 +80,6 @@
   flex: 0 0 100%;
   width: 100%;
   height: auto;
-  margin-top: -15px;
 }
 
 .col-1 {
@@ -403,6 +402,8 @@ img {
   background-position: top;
   background-repeat: no-repeat;
   object-fit: cover;
+  width: 100%;
+  padding-top: 15px;
 }
 
 .narrative img {
@@ -488,7 +489,7 @@ img.ani:hover {
   border-width: 14px;
   border-style: solid;
   border-image: linear-gradient(45deg, #d7ae33, #a7203d, #5d308d) 1;
-  height: 94%;
+  height: 95%;
 }
 
 @keyframes ani-gradient-multi {
@@ -755,5 +756,12 @@ img.ani:hover {
 @media only screen and (min-width: 1900px) {
   .event-container {
     padding: 6% 8%;
+  }
+
+  .gradient-border-multi {
+    border-width: 14px;
+    border-style: solid;
+    border-image: linear-gradient(45deg, #d7ae33, #a7203d, #5d308d) 1;
+    height: 94%;
   }
 }
