@@ -488,7 +488,7 @@ img.ani:hover {
   border-width: 14px;
   border-style: solid;
   border-image: linear-gradient(45deg, #d7ae33, #a7203d, #5d308d) 1;
-  height: 95%;
+  height: 93.5%;
 }
 
 @keyframes ani-gradient-multi {
