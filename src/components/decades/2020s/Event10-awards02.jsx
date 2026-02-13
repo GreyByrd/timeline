@@ -1,5 +1,6 @@
 import "./style-2020.css";
-import nita from "../../../assets/2020-profile-rugby-nita-02.png";
+import awards from "../../../assets/2020-profile-rugby-nita-02.png";
+import awards02 from "../../../assets/2020-profile-rugby-nita-mobile.png";
 
 const Event10 = () => {
   return (
@@ -38,8 +39,17 @@ const Event10 = () => {
             specific focus on gender hierarchies in the state of Uttar Pradesh.
           </p>
         </div>
-        <div className="col-3">
-          <img src={nita} alt="Athena's Rubgy team accepting award (top left) and Professor Nita Kumar."/>
+        <div className="col-3 desktop">
+          <img
+            src={awards}
+            alt="Athena's Rubgy team accepting award (top left) and Professor Nita Kumar."
+          />
+        </div>
+        <div className="col-3 mobile">
+          <img
+            src={awards02}
+            alt="Athena's Rubgy team accepting award (top left) and Professor Nita Kumar."
+          />
         </div>
       </div>
     </div>

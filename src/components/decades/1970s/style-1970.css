@@ -651,6 +651,10 @@ img.ani:hover {
   contain: paint;
 }
 
+.mobile {
+  display: none;
+}
+
 @media only screen and (max-width: 1024px) {
   .scrolly-horizontal-container {
     height: auto !important;
@@ -698,6 +702,13 @@ img.ani:hover {
     max-width: 100% !important;
     min-height: 10vh;
     padding: 0;
+  }
+
+  .mobile {
+    display: block;
+  }
+  .desktop {
+    display: none;
   }
 
   p.lead-text {

@@ -1,5 +1,6 @@
 import "./style-2010.css";
 import spotlight from "../../../assets/2010-profile-takako-kristin.png";
+import spotlight02 from "../../../assets/2010-profile-takako-kristin-mobile.png";
 
 const Event4 = () => {
   return (
@@ -18,8 +19,14 @@ const Event4 = () => {
             cash grant of $10,000.
           </p>
         </div>
-        <div className="col-3">
+        <div className="col-3 desktop">
           <img src={spotlight} alt="Takako Mino ’11 (left) and Kristin Lim." />
+        </div>
+        <div className="col-3 mobile">
+          <img
+            src={spotlight02}
+            alt="Takako Mino ’11 (left) and Kristin Lim."
+          />
         </div>
         <div className="col-1">
           <h1 className="date">January</h1>
