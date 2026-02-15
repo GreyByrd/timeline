@@ -402,7 +402,7 @@ img {
   background-position: top;
   background-repeat: no-repeat;
   object-fit: cover;
-  width:100%;
+  width: 100%;
 }
 
 .narrative img {
@@ -765,7 +765,7 @@ img.ani:hover {
 
 @media only screen and (min-width: 1900px) {
   .event-container {
-    padding: 6% 8%;
+    padding: 20px 80px;
   }
 
   .gradient-border-multi {
