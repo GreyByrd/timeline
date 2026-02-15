@@ -235,7 +235,7 @@ p.blurb {
   line-height: 1rem;
   float: right;
   font-style: italic;
-  width: 60%;
+  width: 45%;
   margin-top: 5px;
 }
 
@@ -711,6 +711,17 @@ img.ani:hover {
     display: none;
   }
 
+  h1 {
+    font-size: 4rem;
+    letter-spacing: 0rem;
+  }
+
+  .year,
+  .year-sm {
+    font-size: 3rem;
+    letter-spacing: 0rem;
+  }
+
   p.lead-text {
     font-size: 1.2rem;
   }
@@ -747,6 +758,10 @@ img.ani:hover {
   }
 
   .caption {
+    width: 100%;
+  }
+
+  .caption-right {
     width: 100%;
   }
 
