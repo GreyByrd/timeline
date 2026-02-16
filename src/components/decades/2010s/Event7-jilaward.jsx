@@ -3,7 +3,7 @@ import "./style-2010.css";
 const Event7 = () => {
   return (
     <div className="event-container narrative panel-white">
-      <h1 className="year maroon">2016</h1>
+      <h1 className="year-sm maroon">2016</h1>
       <h2>Fitting Tribute to Parents</h2>
       <p>
         In honor of one of CMC’s most well-known figures, CMC's Parent Network

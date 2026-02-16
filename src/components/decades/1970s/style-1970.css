@@ -488,167 +488,7 @@ img.ani:hover {
   border-width: 14px;
   border-style: solid;
   border-image: linear-gradient(45deg, #d7ae33, #a7203d, #5d308d) 1;
-  height: 93.5%;
-}
-
-@keyframes ani-gradient-multi {
-  0% {
-    --c-0: hsla(346, 67%, 38%, 1);
-    --x-0: 40%;
-    --y-0: 20%;
-    --s-start-0: 0%;
-    --s-end-0: 50%;
-    --c-1: hsla(270, 50%, 36%, 1);
-    --x-1: 80%;
-    --y-1: 100%;
-    --s-start-1: 0%;
-    --s-end-1: 50%;
-    --c-2: hsla(45, 67%, 52%, 1);
-    --x-2: 0%;
-    --y-2: 0%;
-    --s-start-2: 0%;
-    --s-end-2: 50%;
-  }
-
-  100% {
-    --c-0: hsla(346, 67%, 38%, 1);
-    --x-0: 59%;
-    --y-0: 69%;
-    --s-start-0: 20%;
-    --s-end-0: 56%;
-    --c-1: hsla(270, 50%, 36%, 1);
-    --x-1: 50%;
-    --y-1: 3%;
-    --s-start-1: 20%;
-    --s-end-1: 56%;
-    --c-2: hsla(45, 67%, 52%, 1);
-    --x-2: 72%;
-    --y-2: 8%;
-    --s-start-2: 20%;
-    --s-end-2: 56%;
-  }
-}
-
-@property --c-0 {
-  syntax: "<color>";
-  inherits: false;
-  initial-value: hsla(346, 67%, 38%, 1);
-}
-
-@property --x-0 {
-  syntax: "<percentage>";
-  inherits: false;
-  initial-value: 40%;
-}
-
-@property --y-0 {
-  syntax: "<percentage>";
-  inherits: false;
-  initial-value: 20%;
-}
-
-@property --s-start-0 {
-  syntax: "<percentage>";
-  inherits: false;
-  initial-value: 0%;
-}
-
-@property --s-end-0 {
-  syntax: "<percentage>";
-  inherits: false;
-  initial-value: 50%;
-}
-
-@property --c-1 {
-  syntax: "<color>";
-  inherits: false;
-  initial-value: hsla(270, 50%, 36%, 1);
-}
-
-@property --x-1 {
-  syntax: "<percentage>";
-  inherits: false;
-  initial-value: 80%;
-}
-
-@property --y-1 {
-  syntax: "<percentage>";
-  inherits: false;
-  initial-value: 100%;
-}
-
-@property --s-start-1 {
-  syntax: "<percentage>";
-  inherits: false;
-  initial-value: 0%;
-}
-
-@property --s-end-1 {
-  syntax: "<percentage>";
-  inherits: false;
-  initial-value: 50%;
-}
-
-@property --c-2 {
-  syntax: "<color>";
-  inherits: false;
-  initial-value: hsla(45, 67%, 52%, 1);
-}
-
-@property --x-2 {
-  syntax: "<percentage>";
-  inherits: false;
-  initial-value: 0%;
-}
-
-@property --y-2 {
-  syntax: "<percentage>";
-  inherits: false;
-  initial-value: 0%;
-}
-
-@property --s-start-2 {
-  syntax: "<percentage>";
-  inherits: false;
-  initial-value: 0%;
-}
-
-@property --s-end-2 {
-  syntax: "<percentage>";
-  inherits: false;
-  initial-value: 50%;
-}
-
-#gradient-multi {
-  --c-0: hsla(346, 67%, 38%, 1);
-  --x-0: 40%;
-  --y-0: 20%;
-  --c-1: hsla(270, 50%, 36%, 1);
-  --x-1: 80%;
-  --y-1: 100%;
-  --c-2: hsla(45, 67%, 52%, 1);
-  --x-2: 0%;
-  --y-2: 0%;
-  background-color: hsla(346, 67%, 38%, 1);
-  background-image: radial-gradient(
-      circle at var(--x-0) var(--y-0),
-      var(--c-0) var(--s-start-0),
-      transparent var(--s-end-0)
-    ),
-    radial-gradient(
-      circle at var(--x-1) var(--y-1),
-      var(--c-1) var(--s-start-1),
-      transparent var(--s-end-1)
-    ),
-    radial-gradient(
-      circle at var(--x-2) var(--y-2),
-      var(--c-2) var(--s-start-2),
-      transparent var(--s-end-2)
-    );
-  animation: ani-gradient-multi 10s linear infinite alternate;
-  background-blend-mode: normal, normal, normal;
-  will-change: transform, opacity;
-  contain: paint;
+  height: 95%;
 }
 
 .mobile {
@@ -776,17 +616,17 @@ img.ani:hover {
   .endcap {
     height: auto;
   }
-}
-
-@media only screen and (min-width: 1900px) {
-  .event-container {
-    padding: 20px 80px;
-  }
 
   .gradient-border-multi {
     border-width: 14px;
     border-style: solid;
     border-image: linear-gradient(45deg, #d7ae33, #a7203d, #5d308d) 1;
-    height: 94%;
+    height: 93.5%;
+  }
+}
+
+@media only screen and (min-width: 1560px) {
+  .event-container {
+    padding: 20px 80px;
   }
 }
