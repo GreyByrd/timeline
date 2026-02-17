@@ -1,5 +1,5 @@
 import "./style-2020.css";
-import heather from "../../../assets/2020-profile-heather-a.png";
+import heather from "../../../assets/2020-profile-heather-02.png";
 
 const Event4 = () => {
   return (
@@ -16,12 +16,12 @@ const Event4 = () => {
           <h1 className="year-sm yellow-txt">2021</h1>
           <h2>Notable Dean</h2>
           <p>
-            <strong>Heather Antecol</strong> the Boswell Professor of Economics,
-            was named Vice President and became the first woman to serve as Dean
-            of the Faculty in a permanent role. A former director of the Berger
-            Institute, Antecol is a distinguished economics scholar whose
-            influential research on labor economics is recognized on a global
-            scale.
+            <strong>Heather Antecol,</strong> the Boswell Professor of
+            Economics, was named Vice President and became the first woman to
+            serve as Dean of the Faculty in a permanent role. A former director
+            of the Berger Institute, Antecol is a distinguished economics
+            scholar whose influential research on labor economics is recognized
+            on a global scale.
           </p>
         </div>
       </div>
