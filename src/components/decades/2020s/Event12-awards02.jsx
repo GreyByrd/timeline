@@ -2,7 +2,7 @@ import "./style-2020.css";
 import awards from "../../../assets/2020-profile-rugby-nita-02.png";
 import awards02 from "../../../assets/2020-profile-rugby-nita-mobile.png";
 
-const Event11 = () => {
+const Event12 = () => {
   return (
     <div className="event-container panel-yellow">
       <div className="content">
@@ -56,4 +56,4 @@ const Event11 = () => {
   );
 };
 
-export default Event11;
+export default Event12;

@@ -8,12 +8,13 @@ import Event6 from "./2020s/Event6-tennis";
 import Event7 from "./2020s/Event7-tennisimg";
 import Event8 from "./2020s/Event8-profs";
 import Event9 from "./2020s/Event9-awards";
-import Event10 from "./2020s/Event10-rhodes02";
-import Event11 from "./2020s/Event11-awards02";
-import Event12 from "./2020s/Event12-glam";
-import Event13 from "./2020s/Event13-ella";
-import Event14 from "./2020s/Event14-josephine";
-import Event15 from "./2020s/Event15";
+import Event10 from "./2020s/Event10-sue";
+import Event11 from "./2020s/Event11-rhodes02";
+import Event12 from "./2020s/Event12-awards02";
+import Event13 from "./2020s/Event13-glam";
+import Event14 from "./2020s/Event14-ella";
+import Event15 from "./2020s/Event15-josephine";
+import Event16 from "./2020s/Event16";
 
 const Decade2020s = () => {
   return (
@@ -34,6 +35,7 @@ const Decade2020s = () => {
         <Event13 id={13} />
         <Event14 id={14} />
         <Event15 id={15} />
+        <Event16 id={16} />
       </ScrollyElement>
     </div>
   );

@@ -1,7 +1,7 @@
 import "./style-2020.css";
 import josephine from "../../../assets/2020-profile-josephine-aspromonte.png";
 
-const Event14 = () => {
+const Event15 = () => {
   return (
     <div className="event-container">
       <div className="content">
@@ -44,4 +44,4 @@ const Event14 = () => {
   );
 };
 
-export default Event14;
+export default Event15;

@@ -1,7 +1,7 @@
 import "./style-2020.css";
 import ella from "../../../assets/2020-profile-ella-brissett.jpg";
 
-const Event13 = () => {
+const Event14 = () => {
   return (
     <div className="event-container panel-gray">
       <div className="content">
@@ -34,4 +34,4 @@ const Event13 = () => {
   );
 };
 
-export default Event13;
+export default Event14;

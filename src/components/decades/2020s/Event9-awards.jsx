@@ -1,5 +1,5 @@
 import "./style-2020.css";
-import awardees from "../../../assets/2020-profile-awardees.png";
+import awardees from "../../../assets/2020-profile-awardees-02.png";
 
 const Event9 = () => {
   return (
