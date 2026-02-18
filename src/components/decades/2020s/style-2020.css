@@ -71,6 +71,20 @@ p.profile {
   background-size: cover;
 }
 
+#nopadding {
+  padding: 0 15px;
+}
+
+.rose-parade {
+  background-image: url("/src/assets/2020-rose-parade.jpg");
+  height: 100%;
+  width: 80%;
+  float: right;
+  background-position: top;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
 @keyframes ani-gradient-multi {
   0% {
     --c-0: hsla(346, 67%, 38%, 1);

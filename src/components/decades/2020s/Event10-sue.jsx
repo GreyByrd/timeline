@@ -1,13 +1,13 @@
 import "./style-2020.css";
-import awardees from "../../../assets/2020-profile-sue.png";
+import sue from "../../../assets/2020-profile-sue-03.jpg";
 
 const Event10 = () => {
   return (
-    <div className="event-container">
+    <div className="event-container panel-yellow">
       <div className="content">
-        <div className="col-3">
+        <div id="nopadding" className="col-2">
           <h1 className="date">Jan 1</h1>
-          <h1 className="year-sm yellow-txt">2023</h1>
+          <h1 className="year-sm">2023</h1>
           <h2>On the March</h2>
           <p>
             Led by the efforts of <strong>Sue Matteson King ’85 P’18</strong>,
@@ -18,8 +18,8 @@ const Event10 = () => {
             President Scott Torrey ‘P91 P’23 P’26.
           </p>
         </div>
-        <div className="col-3">
-          <img src={awardees} alt="Sue Matteson King." />
+        <div className="col-4">
+          <img src={sue} alt="Sue Matteson King." />
         </div>
       </div>
     </div>
