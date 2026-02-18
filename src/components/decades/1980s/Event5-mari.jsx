@@ -10,7 +10,7 @@ const Event5 = () => {
         </div>
         <div className="col-3">
           <h1 className="year-sm white-txt">1980</h1>
-          <h2>Noteworthy Pioneer</h2>
+          <h2>Noteworthy Alumna</h2>
           <p>
             <strong>Mari Adam ’80</strong> graduated magna cum laude with a
             double major in French and Political Science as part of the
