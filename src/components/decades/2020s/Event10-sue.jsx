@@ -15,7 +15,10 @@ const Event10 = () => {
             College was represented in flowers and steel with an award-winning
             float in the 2023 Rose Parade. “Over 100 million people got to see
             CMC” thanks to Matteson King’s work, said CMC Alumni Association
-            President Scott Torrey ‘P91 P’23 P’26.
+            President Scott Torrey ‘P91 P’23 P’26. In addition to serving as a
+            CMC Trustee, Matteson King is a past president of the CMC Alumni
+            Association and a member of the Board of Advisors for the Financial
+            Economics Institute.
           </p>
         </div>
         <div className="col-4">
